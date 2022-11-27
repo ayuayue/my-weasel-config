@@ -9,8 +9,8 @@ lost_temple:
   style/font_face: "NotFont, Segoe UI Emoji:80, 汉仪仿宋(GB18030版), LXGW Wenkai Narrow, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
   style/label_font_face: "NotFont, Segoe UI Emoji:80, 汉仪仿宋(GB18030版), LXGW Wenkai Narrow, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
   style/comment_font_face: "NotFont, Segoe UI Emoji:80, 汉仪仿宋(GB18030版), LXGW Wenkai Narrow, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
-  style/font_point: 24
-  style/label_font_point: 10
+  style/font_point: 14
+  style/label_font_point: 12
   style/comment_font_point: 10
   style/color_scheme: lost_temple
   #style/preedit_type: preview
@@ -19,7 +19,7 @@ lost_temple:
   style/fullscreen: false
   style/layout/align_type: center
   style/layout/border: 2
-  style/layout/spacing: 15
+  style/layout/spacing: 14
   style/layout/candidate_spacing: 10
   style/layout/shadow_radius:   8 
   style/layout/shadow_offset_x: 10
@@ -122,9 +122,9 @@ win11:
   style/font_face: "NotFont, Segoe UI Emoji:80, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
   style/label_font_face: "NotFont, Segoe UI Emoji:80, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
   style/comment_font_face: "NotFont, Segoe UI Emoji:80, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
-  style/font_point: 20
-  style/label_font_point: 20
-  style/comment_font_point: 20
+  style/font_point: 14
+  style/label_font_point: 12
+  style/comment_font_point: 10
   style/horizontal: true
   style/inline_preedit: true
   style/fullscreen: false
@@ -134,8 +134,8 @@ win11:
   style/layout/align_type: center
   style/layout/min_height: 0
   style/layout/border: 2
-  style/layout/spacing: 20
-  style/layout/candidate_spacing: 20
+  style/layout/spacing: 16
+  style/layout/candidate_spacing: 14
   style/layout/shadow_radius:   8 
   style/layout/shadow_offset_x: 0
   style/layout/shadow_offset_y: 0
