@@ -1,0 +1,9 @@
+patch:
+  __include: base:/patch
+__patch:
+# Rx: emoji:customize:schema {
+  - patch/+:
+      __include: emoji_suggestion:/patch
+# }
+
+'translator/dictionary': luna_pinyin
