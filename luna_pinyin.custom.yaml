@@ -6,4 +6,4 @@ __patch:
   #     __include: emoji_suggestion:/patch
 # }
 
-'translator/dictionary': caoayu
+'translator/dictionary': luna_pinyin_caoayu

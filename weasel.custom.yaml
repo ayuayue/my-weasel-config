@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3_dev_0.8
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Mon Nov 28 17:13:50 2022"
+  modified_time: "Mon Nov 28 17:54:13 2022"
   rime_version: 1.7.3
 lost_temple:
   "preset_color_schemes/lost_temple/border_color": 0x00444444
@@ -39,7 +39,7 @@ patch:
   __include: win11
   "style/blur_window": true
   "style/color_font": true
-  "style/color_scheme": win11dark
+  "style/color_scheme": google
 win10:
   "preset_color_schemes/win10black":
     back_color: 0x000000
