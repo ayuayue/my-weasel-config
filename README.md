@@ -11,8 +11,9 @@ fork 自 https://github.com/fxliang/weasel_config
 ----
 
 词典文件：
+luna_pinyin_caoayu.yaml
 
-luna_pinyin.dict.yaml
+luna_pinyin.dict.yaml(%appdata%目录下的默认方案词库)
 
 luna_pinyin.sougou.yaml
 
