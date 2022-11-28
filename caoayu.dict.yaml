@@ -1,7 +1,7 @@
 ---
-name: luna_pinyin
+name: caoayu
 version: "2022.11.26"
-sort: by_weight  #字典初始排序，可選original或by_weight
+sort: original  #字典初始排序，可選original或by_weight
 use_preset_vocabulary: true
 
 import_tables:
