@@ -51,23 +51,6 @@ import_tables:
   - dicts/luna_pinyin.place
   - dicts/luna_pinyin.shopping
   - dicts/luna_pinyin.website
-  - dicts/luna_pinyin.user
-  - dicts/luna_pinyin.name
-  - dicts/luna_pinyin.music
-  - dicts/luna_pinyin.movie
-  - dicts/luna_pinyin.mingxing
-  - dicts/luna_pinyin.idiom
-  - dicts/luna_pinyin.history
-  - dicts/luna_pinyin.hanyu
-  - dicts/luna_pinyin.game
-  - dicts/luna_pinyin.diet
-  - dicts/luna_pinyin.extra_hanzi
   - dicts/luna_pinyin.comprehensive
-  - dicts/luna_pinyin.cnenhybird
-  - dicts/luna_pinyin.cn_en
-  - dicts/luna_pinyin.biaoqing
-  - dicts/luna_pinyin.basic
-  - dicts/luna_pinyin.anime
-  - dicts/luna_pinyin.classical
-  - dicts/luna_pinyin
+
 ...
