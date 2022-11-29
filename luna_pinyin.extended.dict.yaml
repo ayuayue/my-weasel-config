@@ -42,15 +42,32 @@ use_preset_vocabulary: true
 #雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用。
 
 import_tables:
-  - dicts/luna_pinyin.sougou.basic
+  - dicts/luna_pinyin.sougou.conprehensive
   - dicts/luna_pinyin.popular
   - dicts/luna_pinyin.xiandaihanyu
-  - dicts/luna_pinyin.chengyusuyu
   - dicts/luna_pinyin.computer
   - dicts/luna_pinyin.kaifa
   - dicts/luna_pinyin.poetry
-  - dicts/luna_pinyin.chat
   - dicts/luna_pinyin.place
   - dicts/luna_pinyin.shopping
   - dicts/luna_pinyin.website
+  - dicts/luna_pinyin.user
+  - dicts/luna_pinyin.name
+  - dicts/luna_pinyin.music
+  - dicts/luna_pinyin.movie
+  - dicts/luna_pinyin.mingxing
+  - dicts/luna_pinyin.idiom
+  - dicts/luna_pinyin.history
+  - dicts/luna_pinyin.hanyu
+  - dicts/luna_pinyin.game
+  - dicts/luna_pinyin.diet
+  - dicts/luna_pinyin.extra_hanzi
+  - dicts/luna_pinyin.comprehensive
+  - dicts/luna_pinyin.cnenhybird
+  - dicts/luna_pinyin.cn_en
+  - dicts/luna_pinyin.biaoqing
+  - dicts/luna_pinyin.basic
+  - dicts/luna_pinyin.anime
+  - dicts/luna_pinyin.classical
+  - dicts/luna_pinyin
 ...

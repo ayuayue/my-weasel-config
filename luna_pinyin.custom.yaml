@@ -1,51 +1,25 @@
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    reset: 1
+    states: [ 半角, 全角 ]
+  - name: simplification
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
 patch:
   __include: base:/patch
-
   'translator/dictionary': luna_pinyin.extended
   emoji_suggestion:
     opencc_config: emoji.json
     option_name: emoji_suggestion
     # tips: all
   reverse_lookup: {}
-
-  punctuator:
-    import_preset: symbols
-    # 自定义快捷符号输入
-    # symbols:
-    #   "/fs": [½, ‰, ¼, ⅓, ⅔, ¾, ⅒ ]
-    half_shape:
-      "#": "#"
-      "*": "*"
-      "`": "`"
-      "~": "~"
-      "@": "@"
-      "=": "="
-      "/": ["/", "÷",]
-      '\': "、"
-      "_" : "──"
-      "'": {pair: ["「", "」"]}
-      "[": ["【", "["]
-      "]": ["】", "]"]
-      "$": ["¥", "$", "€", "£", "¢", "¤"]
-      "<": ["《", "〈", "«", "<"]
-      ">": ["》", "〉", "»", ">"]
-
-  translators:
-      - punct_translator
-      - reverse_lookup_translator
-      - script_translator
-      - table_translator@custom_phrase #表示调用custom_phrase段编码
-      - table_translator
-  custom_phrase: 
-    dictionary: ""
-    user_dict: custom_phrase
-    db_class: stabledb
-    enable_completion: false
-    enable_sentence: false
-    initial_quality: 1
-
-
-__patch:
+# __patch:
 # Rx: emoji:customize:schema {
   # - patch/+:
   #     __include: emoji_suggestion:/patch
