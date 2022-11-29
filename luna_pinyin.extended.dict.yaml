@@ -59,5 +59,27 @@ import_tables:
   - dicts/luna_pinyin.comprehensive
   - dicts/luna_pinyin.diet
   - dicts/luna_pinyin.extra_hanzi
+  - dicts/luna_pinyin.game
+  - dicts/luna_pinyin.idiom
+  - dicts/luna_pinyin.mingxing
+  - dicts/luna_pinyin.music
+  - dicts/luna_pinyin.name
+  - dicts/luna_pinyin.net
+  - dicts/luna_pinyin.place
+  - dicts/luna_pinyin.poetry
+  - dicts/luna_pinyin.shopping
+  - dicts/luna_pinyin.user
+  - dicts/luna_pinyin.xiandaihanyu
+  - dicts/luna_pinyin.english
+  - dicts/luna_pinyin.cet46_plus
+  - dicts/luna_pinyin.esymbol
+  - dicts/luna_pinyin.food
+  - dicts/luna_pinyin.king
+  - dicts/luna_pinyin.math
+  - dicts/luna_pinyin.movie_aosika
+  - dicts/luna_pinyin.place_xingzheng
+  - dicts/luna_pinyin.plantPlus
+  - dicts/luna_pinyin.single
+  - dicts/luna_pinyin.word_extend
   - luna_pinyin
 ...

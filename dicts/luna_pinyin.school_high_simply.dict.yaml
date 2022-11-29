@@ -1,0 +1,679 @@
+# Rime dictionary   encoding: utf-8
+# 
+# 
+# 截至2015年7月5日，共有84所教育部核准章程高校所列简称（顺序按教育部官网核准书发布先后）。
+# 另，加了一些民间简称
+# 
+# 
+# 
+# 
+# 
+# 多音字时，需手动添加注音，如：复校	fu jiao	1
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 于重新部署后生效
+#
+
+---
+name: e_pinyin.school_high_simply
+version: "2019.5"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+中国人民大学	ren da	12
+东南大学	dong da	12
+上海外国语大学	shang wai	12
+武汉理工大学	wu han li gong	12
+华中师范大学	hua zhong shi da	12
+吉林大学	ji da	12
+上海交通大学	shang hai jiao da	12
+同济大学	tong ji	12
+四川大学	chuan da	12
+东北师范大学	dong bei shi da	12
+上海财经大学	shang cai	12
+上海财经大学	shang hai cai da	12
+中国矿业大学	zhong guo kuang da	12
+山东大学	shan da	12
+兰州大学	lan da	12
+天津大学	tian da	12
+华东师范大学	hua shi da	12
+武汉大学	wu da	12
+重庆大学	zhong da	12
+北京外国语大学	bei wai	12
+北京大学	bei da	12
+清华大学	qing hua	12
+中国农业大学	zhong guo nong da	12
+南开大学	nan kai	12
+浙江大学	zhe da	12
+中山大学	zhong da	12
+西安交通大学	xi an jiao da	12
+中国海洋大学	zhong guo hai da	12
+北京师范大学	bei shi	12
+大连理工大学	da gong	12
+南京大学	nan da	12
+厦门大学	xia da	12
+华中科技大学	hua zhong da	12
+湖南大学	hu da	12
+华南理工大学	hua nan li gong	12
+北京理工大学	bei li	12
+北京航空航天大学	bei hang	12
+哈尔滨工业大学	ha gong da	12
+西北工业大学	xi gong da	12
+西北工业大学	xi bei gong da	12
+中央民族大学	zhong yang min da	12
+中国科学技术大学	zhong guo ke da	12
+北京科技大学	bei ke	12
+中央财经大学 	zhong cai da	12
+中央财经大学 	zhong yang cai da	12
+对外经济贸易大学	mao da	12
+对外经济贸易大学	dui wai jing mao da xue	12
+东北林业大学	dong bei lin da	12
+华东理工大学	hua li	12
+河海大学	he hai	12
+福建师范大学	fu shi	12
+合肥工业大学	he gong da	12
+合肥工业大学	he fei gong da	12
+中国地质大学（武汉）	di da	12
+西南财经大学	xi nan cai da	12
+西南财经大学	xi cai	12
+西南交通大学	xi nan jiao da	12
+陕西师范大学	shan xi shi da	12
+陕西师范大学	shan shi da	12
+西安电子科技大学	xi dian	12
+北京体育大学	bei ti da	12
+中南财经政法大学	zhong nan da	12
+暨南大学	ji da	12
+北京交通大学	bei jing jiao da	12
+大连海事大学	hai da	12
+大连海事大学	da lian hai da	12
+华中农业大学	hua nong	12
+华中农业大学	hua zhong nong da	12
+中国传媒大学	zhong mei	12
+中国政法大学	fa da	12
+华北电力大学	hua dian	12
+北京中医药大学	bei zhong yi	12
+中国药科大学	zhong guo yao da	12
+北京化工大学	bei hua	12
+北京林业大学	bei lin	12
+南京农业大学	nan nong	12
+南京农业大学	nan nong da	12
+南京农业大学	nan jing nong da	12
+中国矿业大学（北京）	zhong guo kuang da	12
+中国地质大学（北京）	di da	12
+中国地质大学（北京）	bei jing di da	12
+中国石油大学（北京）	zhong shi da	12
+北京邮电大学	bei you	12
+南京理工大学	nan li gong	12
+哈尔滨工程大学	ha gong cheng	12
+南京航空航天大学	nan hang	12
+安徽大学	an da	12
+中国人民大学	ruc	12
+东南大学	seu	12
+上海外国语大学	sisu	12
+武汉理工大学	wut	12
+华中师范大学	ccnu	12
+吉林大学	jlu	12
+上海交通大学	sjtu	12
+同济大学	tongji	12
+四川大学	scu	12
+西北农林科技大学	nwafu	12
+东北师范大学	nenu	12
+上海财经大学	sufe	12
+中国矿业大学	cumt	12
+西南大学	swu	12
+山东大学	sdu	12
+兰州大学	lzu	12
+天津大学	tju	12
+东北大学	neu	12
+华东师范大学	ecnu	12
+武汉大学	whu	12
+重庆大学	cqu	12
+北京外国语大学	bfsu	12
+北京大学	pku	12
+清华大学	thu	12
+中国农业大学	cau	12
+南开大学	nku	12
+浙江大学	zju	12
+中南大学	csu	12
+中山大学	sysu	12
+电子科技大学	uestc	12
+西安交通大学	xjtu	12
+中国海洋大学	ouc	12
+北京师范大学	bnu	12
+大连理工大学	dut	12
+复旦大学	fdu	12
+南京大学	nju	12
+厦门大学	xmu	12
+华中科技大学	hust	12
+湖南大学	hnu	12
+华南理工大学	scut	12
+北京理工大学	bit	12
+北京航空航天大学	buaa	12
+哈尔滨工业大学	hit	12
+西北工业大学	npu	12
+中央民族大学	muc	12
+中国科学技术大学	ustc	12
+北京科技大学	ustb	12
+中央财经大学 	cufe	12
+对外经济贸易大学	uibe	12
+东北林业大学	nefu	12
+华东理工大学	ecust	12
+河海大学	hhu	12
+福建师范大学	fnu	12
+合肥工业大学	hfut	12
+中国地质大学（武汉）	cug	12
+西南财经大学	swufe	12
+西南交通大学	swjtu	12
+陕西师范大学	snnu	12
+西安电子科技大学	xdu	12
+北京体育大学	bsu	12
+中南财经政法大学	zuel	12
+暨南大学	jnu	12
+北京交通大学	bjtu	12
+大连海事大学	dmu	12
+华中农业大学	hzau	12
+中国传媒大学	cuc	12
+中国政法大学	cupl	12
+华北电力大学	ncepu	12
+北京中医药大学	bucm	12
+中国药科大学	cpu	12
+北京化工大学	buct	12
+北京林业大学	bfu	12
+南京农业大学	njau	12
+南京农业大学	nau	12
+中国矿业大学（北京）	cumtb	12
+中国地质大学（北京）	cugb	12
+中国石油大学（北京）	cup	12
+中央音乐学院	ccom	12
+北京邮电大学	bupt	12
+南京理工大学	njust	12
+哈尔滨工程大学	heu	12
+南京航空航天大学	nuaa	12
+安徽大学	ahu	12
+RUC	zhong guo ren min da xue	12
+SEU	dong nan da xue	12
+SISU	shang hai wai guo yu da xue	12
+WUT	wu han li gong da xue	12
+CCNU	hua zhong shi fan da xue	12
+JLU	ji lin da xue	12
+SJTU	shang hai jiao tong da xue	12
+Tongji	tong ji da xue	12
+SCU	si chuan da xue	12
+NWAFU	xi bei nong lin ke ji da xue	12
+NENU	dong bei shi fan da xue	12
+SUFE	shang hai cai jing da xue	12
+CUMT	zhong guo kuang ye da xue	12
+SWU	xi nan da xue	12
+SDU	shan dong da xue	12
+LZU	lan zhou da xue	12
+TJU	tian jin da xue	12
+NEU	dong bei da xue	12
+ECNU	hua dong shi fan da xue	12
+WHU	wu han da xue	12
+CQU	chong qing da xue	12
+BFSU	bei jing wai guo yu da xue	12
+PKU	bei jing da xue	12
+THU	qing hua da xue	12
+CAU	zhong guo nong ye da xue	12
+NKU	nan kai da xue	12
+ZJU	zhe jiang da xue	12
+CSU	zhong nan da xue	12
+SYSU	zhong shan da xue	12
+UESTC	dian zi ke ji da xue	12
+XJTU	xi an jiao tong da xue	12
+OUC	zhong guo hai yang da xue	12
+BNU	bei jing shi fan da xue	12
+DUT	da lian li gong da xue	12
+FDU	fu dan da xue	12
+NJU	nan jing da xue	12
+XMU	xia men da xue	12
+HUST	hua zhong ke ji da xue	12
+HNU	hu nan da xue	12
+SCUT	hua nan li gong da xue	12
+BIT	bei jing li gong da xue	12
+BUAA	bei jing hang kong hang tian da xue	12
+HIT	ha er bin gong ye da xue	12
+NPU	xi bei gong ye da xue	12
+MUC	zhong yang min zu da xue	12
+USTC	zhong guo ke xue ji shu da xue	12
+USTB	bei jing ke ji da xue	12
+CUFE	zhong yang cai jing da xue	12
+UIBE	dui wai jing ji mao yi da xue	12
+NEFU	dong bei lin ye da xue	12
+ECUST	hua dong li gong da xue	12
+HHU	he hai da xue	12
+FNU	fu jian shi fan da xue	12
+HFUT	he fei gong ye da xue	12
+CUG	zhong guo di zhi da xue	12
+SWUFE	xi nan cai jing da xue	12
+SWJTU	xi nan jiao tong da xue	12
+SNNU	shan xi shi fan da xue	12
+XDU	xi an dian zi ke ji da xue	12
+BSU	bei jing ti yu da xue	12
+ZUEL	zhong nan cai jing zheng fa da xue	12
+JNU	ji nan da xue	12
+BJTU	bei jing jiao tong da xue	12
+DMU	da lian hai shi da xue	12
+HZAU	hua zhong nong ye da xue	12
+CUC	zhong guo chuan mei da xue	12
+CUPL	zhong guo zheng fa da xue	12
+NCEPU	hua bei dian li da xue	12
+BUCM	bei jing zhong yi yao da xue	12
+CPU	zhong guo yao ke da xue	12
+BUCT	bei jing hua gong da xue	12
+BFU	bei jing lin ye da xue	12
+NJAU	nan jing nong ye da xue	12
+NAU	nan jing nong ye da xue	12
+CUMTB	zhong guo kuang ye da xue	12
+CUGB	zhong guo kuang ye da xue	12
+CUP	zhong guo kuang ye da xue	12
+CCOM	zhong yang yin yue xue yuan	12
+BUPT	bei jing you dian da xue	12
+NJUST	nan jing li gong da xue	12
+HEU	ha er bin gong cheng da xue	12
+NUAA	nan jing hang kong hang tian da xue	12
+AHU	an hui da xue	12
+人大	ren da	12
+东大	dong da	12
+上外	shang wai	12
+武汉理工	wu han li gong	12
+华中师大	hua zhong shi da	12
+吉大	ji da	12
+上海交大	shang hai jiao da	12
+同济	tong ji	12
+川大	chuan da	12
+东北师大	dong bei shi da	12
+上财	shang cai	12
+复旦大学	fu dan	12
+上海财大	shang hai cai da	12
+中国矿大	zhong guo kuang da	12
+山大	shan da	12
+兰大	lan da	12
+天大	tian da	12
+华师大	hua shi da	12
+武大	wu da	12
+重大	zhong da	12
+北外	bei wai	12
+北大	bei da	12
+清华	qing hua	12
+中国农大	zhong guo nong da	12
+南开	nan kai	12
+浙大	zhe da	12
+中大	zhong da	12
+西安交大	xi an jiao da	12
+中国海大	zhong guo hai da	12
+北师	bei shi	12
+大工	da gong	12
+复旦	fu dan	12
+南大	nan da	12
+厦大	xia da	12
+华中大	hua zhong da	12
+湖大	hu da	12
+华南理工	hua nan li gong	12
+北理	bei li	12
+北航	bei hang	12
+哈工大	ha gong da	12
+西工大	xi gong da	12
+西北工大	xi bei gong da	12
+中央民大	zhong yang min da	12
+中国科大	zhong guo ke da	12
+北科	bei ke	12
+中财大	zhong cai da	12
+中央财大	zhong yang cai da	12
+贸大	mao da	12
+对外经贸大学	dui wai jing mao da xue	12
+东北林大	dong bei lin da	12
+华理	hua li	12
+河海	he hai	12
+福师	fu shi	12
+合工大	he gong da	12
+合肥工大	he fei gong da	12
+地大	di da	12
+西南财大	xi nan cai da	12
+西财	xi cai	12
+西南交大	xi nan jiao da	12
+陕西师大	shan xi shi da	12
+陕师大	shan shi da	12
+西电	xi dian	12
+北体大	bei ti da	12
+中南大	zhong nan da	12
+暨大	ji da	12
+北京交大	bei jing jiao da	12
+海大	hai da	12
+大连海大	da lian hai da	12
+华农	hua nong	12
+华中农大	hua zhong nong da	12
+中媒	zhong mei	12
+法大	fa da	12
+华电	hua dian	12
+北中医	bei zhong yi	12
+中国药大	zhong guo yao da	12
+北化	bei hua	12
+北林	bei lin	12
+南农	nan nong	12
+南农大	nan nong da	12
+南京农大	nan jing nong da	12
+中国矿大（北京）	zhong guo kuang da	12
+北京地大	bei jing di da	12
+中石大	zhong shi da	12
+北邮	bei you	12
+南理工	nan li gong	12
+哈工程	ha gong cheng	12
+南航	nan hang	12
+安大	an da	12
+
+##################### 民间习惯说法 #######################
+中传	zhong chuan	12
+中国传媒大学	zhong chuan	12
+郑大	zheng da	12
+郑州大学	zheng da	12
+########################## 官方核准简称 ####################################
+#	中国人民大学	人大	RUC
+#	东南大学	东大	SEU
+#	上海外国语大学	上外	SISU
+#	武汉理工大学	武汉理工	WUT
+#	华中师范大学	华中师大	CCNU
+#	吉林大学	吉大	JLU
+#	上海交通大学	上海交大	SJTU
+#	同济大学	同济	Tongji
+#	四川大学	川大	SCU
+#	西北农林科技大学		NWAFU
+#	东北师范大学	东北师大	NENU
+#	上海财经大学	上财	SUFE
+#	上海财经大学	上海财大	SUFE
+#	中国矿业大学	中国矿大	CUMT
+#	西南大学		SWU
+#	山东大学	山大	SDU
+#	兰州大学	兰大	LZU
+#	天津大学	天大	TJU
+#	东北大学		NEU
+#	华东师范大学	华师大	ECNU
+#	武汉大学	武大	WHU
+#	重庆大学	重大	CQU
+#	北京外国语大学	北外	BFSU
+#	北京大学	北大	PKU
+#	清华大学	清华	THU
+#	中国农业大学	中国农大	CAU
+#	南开大学	南开	NKU
+#	浙江大学	浙大	ZJU
+#	中南大学		CSU
+#	中山大学	中大	SYSU
+#	电子科技大学		UESTC
+#	西安交通大学	西安交大	XJTU
+#	中国海洋大学	中国海大	OUC
+#	北京师范大学	北师	BNU
+#	大连理工大学	大工	DUT
+#	复旦大学	复旦	FDU
+#	南京大学	南大	NJU
+#	厦门大学	厦大	XMU
+#	华中科技大学	华中大	HUST
+#	湖南大学	湖大	HNU
+#	华南理工大学	华南理工	SCUT
+#	北京理工大学	北理	BIT
+#	北京航空航天大学	北航	BUAA
+#	哈尔滨工业大学	哈工大	HIT
+#	西北工业大学	西工大	NPU
+#	西北工业大学	西北工大	NPU
+#	中央民族大学	中央民大	MUC
+#	中国科学技术大学	中国科大	USTC
+#	北京科技大学	北科	USTB
+#	中央财经大学 	中财大	CUFE
+#	中央财经大学 	中央财大	CUFE
+#	对外经济贸易大学	贸大	UIBE
+#	对外经济贸易大学	对外经贸大学	UIBE
+#	东北林业大学	东北林大	NEFU
+#	华东理工大学	华理	ECUST
+#	河海大学	河海	HHU
+#	福建师范大学	福师	FNU
+#	合肥工业大学	合工大	HFUT
+#	合肥工业大学	合肥工大	HFUT
+#	中国地质大学（武汉）	地大	CUG
+#	西南财经大学	西南财大	SWUFE
+#	西南财经大学	西财	SWUFE
+#	西南交通大学	西南交大	SWJTU
+#	陕西师范大学	陕西师大	SNNU
+#	陕西师范大学	陕师大	SNNU
+#	西安电子科技大学	西电	XDU
+#	北京体育大学	北体大	BSU
+#	中南财经政法大学	中南大	ZUEL
+#	暨南大学	暨大	JNU
+#	北京交通大学	北京交大	BJTU
+#	大连海事大学	海大	DMU
+#	大连海事大学	大连海大	DMU
+#	华中农业大学	华农	HZAU
+#	华中农业大学	华中农大	HZAU
+#	中国传媒大学	中媒	CUC
+#	中国政法大学	法大	CUPL
+#	华北电力大学	华电	NCEPU
+#	北京中医药大学	北中医	BUCM
+#	中国药科大学	中国药大	CPU
+#	北京化工大学	北化	BUCT
+#	北京林业大学	北林	BFU
+#	南京农业大学	南农	NJAU或NAU
+#	南京农业大学	南农大	NJAU或NAU
+#	南京农业大学	南京农大	NJAU或NAU
+#	南京农业大学		NJAU
+#	南京农业大学		NAU
+#	中国矿业大学（北京）	中国矿大（北京）	CUMTB
+#	中国地质大学（北京）	地大	CUGB
+#	中国地质大学（北京）	北京地大	CUGB
+#	中国石油大学（北京）	中石大	CUP
+#	中央音乐学院		CCOM
+#	北京邮电大学	北邮	BUPT
+#	南京理工大学	南理工	NJUST
+#	哈尔滨工程大学	哈工程	HEU
+#	南京航空航天大学	南航	为NUAA
+#	安徽大学	安大	AHU
+#
+
+############################## 中国高校江湖绰号 ##########################################
+# 北京大学	中关村文理学院
+# 北京体育大学	亚洲第一青年疗养院
+# 北京外国语大学	中国抗日军政大学俄文大队
+# 北京物资学院	邓家窑村立大学——天赐良院
+# 北京协和医学院	五道口理工学院东单屠宰培训基地
+# 北京信息科技大学	四拨子职业技术学院及健翔桥电脑培训基地联合体
+# 北京邮电大学	明光村中学附属大学
+# 北京邮电大学	明光村职业技术学校
+# 北京语言大学	中央统战部亚非拉司
+# 北京中医药大学东区	花家地大学
+# 巢湖学院	土王村附属大学
+# 巢湖学院	汤山温泉招待所
+# 成都理工大学	成都市二仙桥石头研究基地
+# 成都信息工程大学	常乐村男子职业技术学校
+# 成都中医药大学	温江柳台中医职业技术学院
+# 大连海事大学	交通部嫡系部队
+# 大连海事大学	栾金村渔业运输劳力资源中心
+# 大连理工大学	红凌路职业技术培训中心
+# 大连理工大学	搬家公司人才培养基地
+# 大连理工大学软件学院	大黑山程序猿养殖基地
+# 第二军医大学	虬江尸体回收中心
+# 电子科技大学	郫县高级男子技术学院
+# 东北财经大学	大连男子会计学院
+# 东北财经大学	东北青年疗养院
+# 东北大学	沈阳南湖男子职业技术学院
+# 东北大学秦皇岛分校	小汤河职业技术学院
+# 东北电力大学	（东北亚）皇家冯家屯电工综合培训基地
+# 东华大学	国立黄道婆高专
+# 阜阳师范学院	阜阳三中附属大学
+# 复旦大学	五角场文秘职业技术学院
+# 复旦大学	五角场社区职教中心
+# 广东白云学院白云校区	广东省广州市外卖研究中心
+# 广东工业大学	宇宙工业大学
+# 广东外语外贸大学	白云山麓语言专修学院
+# 广州大学	孤岛北亭村立学校
+# 广州中医药大学	三元里中医职业技术学院
+# 桂林电子科技大学（尧山校区）	广西养牛基地
+# 国际关系学院	北京国安局岗前培训中心
+# 哈尔滨工程大学	马家沟轮船修造高级专科学校
+# 哈尔滨工程大学	马家沟男子技工学院
+# 哈尔滨工业大学	圣马家沟男子职业技术学校
+# 哈尔滨工业大学（威海校区）	青州街男子职业技术学校
+# 哈尔滨理工大学（东区）	三大动力家电维修中心
+# 哈尔滨理工大学（南区）	征仪路翻译职业学院兼信息管理通讯中心
+# 哈尔滨理工大学（西区）	哈西锅炉制造厂子弟学校
+# 海南大学	海甸岛人民免费公园
+# 汉口学院	大花岭皇家学院
+# 杭州电子科技大学	下沙男子职业技术专修学校
+# 杭州电子科技大学	杭州电子放假大学
+# 杭州电子科技大学	杭州电子搞基大学
+# 杭州幼儿师范学院	浙江公立幼儿园附属师专
+# 河北工业大学	双口镇职业技术学院
+# 河海大学	皇家水利学院
+# 河南大学	中华考古学院
+# 黑龙江中医药大学	和平路中医职业技术学校
+# 湖北医药学院	湖北酱菜学院
+# 湖南财政经济学院	望城坡女子算数专修学校
+# 湖南大学	岳麓山管理处附属学院；
+# 湖南大学	岳麓山第一高级中学
+# 湖南商学院	岳麓区第一小学附属大学
+# 湖南师范大学	二里半女子专修学院
+# 华北电力大学	朱辛庄电大
+# 华北电力大学（保定校区）	韩庄乡男子电工职业学院
+# 华东理工大学	徐汇区家电维修站
+# 华东师范大学	闵行女子高等师范专科学院
+# 华东师范大学	虹梅高师
+# 华东师范大学	虹梅女专
+# 华东师范大学	普陀师专
+# 华东政法大学	长宁区瓜果副食公司
+# 华南理工大学	五山镇理工学院
+# 华南理工大学	五山禅寺
+# 华南农业大学	中科院华南自由落体研究所
+# 华南师范大学	天河区幼教师资培训基地
+# 华侨大学	国立华侨待业青年疗养基地
+# 华侨大学（厦门校区）	兑山小学附属华侨大学
+# 华中科技大学	关山口男子职业技术学院
+# 华中科技大学	国立新屋熊大学
+# 华中科技大学	1037号森林
+# 华中农业大学	狮子山种地大学
+# 华中师范大学	广埠屯女子师范专科学校
+# 黄冈师范学院	黄冈中学附属大学
+# 吉林大学	长春市土地开发总公司
+# 吉林大学	东北人民大学
+# 吉林大学	中央党校东北军法专校
+# 济源职业技术学院	豫西北工业大学
+# 江南大学	无锡市吃喝穿用技术学院
+# 江南大学	太湖街道轻工技校
+# 江苏大学	汝山乡拖拉机制造学校
+# 江苏警官学院	中国专政工具生产集团江苏分公司
+# 江苏科技大学	小牛村养蚕所
+# 江西财经大学	老区高考高分撞车遇难者收容所一部
+# 兰州大学	夏官营高原夏菜养殖基地（榆中校区）
+# 兰州交通大学	北环路铁道职业技术学院
+# 兰州理工大学	龚家湾十字学院
+# 南京工程学院	方山男子职业技术学院 
+# 南京工程学院	江苏电力黄埔军校
+# 南京理工大学	孝陵卫皇家理工大学
+# 南京理工大学	孝陵卫皇家海洋大学
+# 南京理工大学	孝陵卫烟火鞭炮制作总局
+# 南京师范大学	江苏职教师资培训专科
+# 南京信息工程大学	龙王子弟学校
+# 南京信息工程大学	盘城气象预报中心
+# 南京信息工程大学	龙王山皇家气象学院
+# 南京信息工程大学	南京饭票大学
+# 南京艺术学院	草场门艺术职业专修学院
+# 南京邮电大学	三牌楼业余无线电俱乐部
+# 内蒙古农业大学	呼市二苗圃军事管理监狱
+# 青岛大学	青岛市南黄金路段最粗钉子户
+# 青岛农业大学	城阳实验中学附属大学
+# 青岛农业大学	庙头牛学院
+# 清华大学	五道口男子职业技术学院
+# 清华大学	五道口男子体校
+# 清华大学	五道口理工学院
+# 清华大学	五道口工程技术大学
+# 厦门大学	厦门反散步协会附属实验学院
+# 厦门大学	教立中华佛教协会闽南佛学院修行基地
+# 厦门大学（漳州校区）	大径村村立大学
+# 山东大学（兴隆山校区）	南外环理工大学
+# 山东大学（兴隆山校区）	山东大学佛学院
+# 山东工商学院	煤炭孤儿疗养院渤海分院
+# 山东科技大学	呼啸山庄
+# 山东师范大学	中华联合考研培训基地济南实验学校
+# 山东师范大学	全国研究生入学考试培训学校济南分校
+# 山西大学	小店区煤炭职业技术专修学校
+# 山西师范大学	晋南女子体育学院
+# 上海大学	宝山区落榜青年高复学校
+# 上海海事大学	黄浦江驾船员培训基地
+# 上海海洋大学	中国大闸蟹良种选育基地
+# 上海交通大学	闵行理工学院
+# 上海交通大学	东川路男子职业技术学院
+# 上海理工大学	沪东锅炉工人培训基地
+# 上海师范大学	徐汇区下岗青年再就业培训基地
+# 上海体育学院	五角场武术学校
+# 上海外国语大学	松江俄文高专
+# 上海戏剧学院	上海洗脚学院
+# 深圳大学	南山区青年创业培训中心
+# 沈阳建筑大学	张官屯建筑职业学院
+# 首都师范大学	北京高大小学初中高中的教师基地
+# 首都体育学院	蓟门桥青年疗养院
+# 首都医科大学（凉水）	河北菜户营大学
+# 四川大学	磨子桥职业技术学院
+# 四川大学	江安高中（江安校区）
+# 四川大学	成都七中指定疗养院
+# 四川外国语大学	歌乐山女子（翻译）职业技术学院
+# 天津财经大学	天津村党委财务科
+# 天津大学和南开大学	六里台七里台八里台联合大学
+# 天津音乐学院	大光明桥琴瑟歌舞协会
+# 同济大学	上海市第一建筑施工队
+# 外交学院	展览路加油站附属学校
+# 武昌工学院	张家湾大学
+# 武昌工学院	白沙洲张家湾皇家学院
+# 武汉大学	珞珈山综合职业技术培训学院
+# 武汉大学	中共中央华中地区一分校
+# 武汉大学	珞珈山人民公园
+# 武汉理工大学和华中师范大学	合称“华中高等情侣培养技术中心”
+# 西安电子科技大学	掀垫子柯基大学
+# 西安电子科技大学	北大附院
+# 西安电子科技大学	北雷大兴国禅寺附属男子修道院
+# 西安电子科技大学	北雷村男子职业技术学院
+# 西安交通大学	沙坡村职业技术学院
+# 西北大学	西北农林第二研究所关中农民讲习所
+# 西北工业大学	东大男子职业技术学校
+# 西北工业大学	西北工业中学附属大学
+# 长安大学	西北道路桥梁维修服务站
+# 长安大学	南二环公路交通职业技术学院
+# 浙江财经大学（下沙校区）	钱塘江女子体育专修学校
+# 浙江大学玉泉校区	老和山职业技术学校
+# 浙江大学紫金港校区	三墩镇职业技术学院
+# 浙江大学紫金港校区	三墩镇体校
+# 浙江工商大学	西太平洋帝国职业学员
+# 浙江科技学院	小和山高等技工学校
+# 浙江师范大学	高村中等师范专科学校
+# 郑州大学	沟赵职业技术学院
+# 郑州大学	郑州市国立西郊公园
+# 中北大学	上兰村高等兵工职业技术学院
+# 中北大学	二龙山兵工职业技术学院
+# 中国传媒大学	中共中央宣传部储备干部培训中心
+# 中国传媒大学	定福庄二小附属大学
+# 中国传媒大学南广学院	南广生态园
+# 中国地质大学（武汉）	南望山职业技术学院
+# 中国海洋大学	青岛水产基地
+# 中国海洋大学	皇家每羊大学
+# 中国计量大学	下沙网瘾戒所
+# 中国科学技术大学	南七技校
+# 中国矿业大学	侯山窝煤炭职业技术专修学院
+# 中国民航大学	666/678大学
+# 中国民航大学	天津滨海国际机场后勤总公司
+# 中国民航大学	张贵庄灰机驾驶培训及考核基地
+# 中国民航大学	21世纪中国民用飞行器设计维修中心
+# 中国民航大学	张贵庄男子职业技术学院
+# 中国农业大学	海淀种猪选育场
+# 中国农业大学食品学院	海淀区新东方职业厨师进修学校
+# 中国人民公安大学	专政工具生产一厂
+# 中国人民解放军西安陆军学院	西北第一监狱
+# 中国人民解放军重庆通信学院	总参谋部歌乐山疗养院
+# 中国石油大学	中国石油天然气集团公司子弟学校
+# 中国石油大学	帝国能源男子高中
+# 中南大学	左家陇男子技工学院
+# 中央民族大学	魏公村清真餐饮培训基地
+# 中央戏剧学院	南锣鼓巷第二百五十小学
+# 仲恺农业工程学院（白云校区）	钟落潭停水停电拓荒基地
+# 重庆邮电大学	黄桷垭幼儿园附属大学
+# 

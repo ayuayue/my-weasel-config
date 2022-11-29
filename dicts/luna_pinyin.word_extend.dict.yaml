@@ -1,0 +1,11321 @@
+# Rime dictionary   encoding: utf-8
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 多音字时，需手动添加注音，如：复校	fu jiao	1
+# 单
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 于重新部署后生效
+#
+
+---
+name: e_pinyin.word_extend
+version: "2019.5"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+锕	a	6
+溾	ai	2
+锿	ai	5
+啀	ai	5
+娾	ai	5
+凒	ai	5
+嵦	ai	3
+溰	ai	2
+嘊	ai	5
+敱	ai	5
+毐	ai	5
+昹	ai	3
+躷	ai
+濭	ai	2
+譪	ai	2
+伌	ai	5
+砹	ai	5
+硋	ai	2
+塧	ai	5
+嗌	ai	6
+僾	ai
+壒	ai	5
+鴱	ai	2
+懓	ai	3
+賹	ai	2
+瞹	ai	5
+馤	ai	2
+皧	ai	2
+譺	ai	2
+侒	an	3
+峖	an	2
+葊	an	2
+萻	an
+啽	an	2
+媕	an	3
+腤	an	2
+痷	an	5
+蓭	an	2
+𩽾	an
+誝	an	2
+鞌	an	2
+盦	an	5
+馣	an	2
+盫	an	3
+韽	an	2
+鶕	an	2
+雸	an	2
+垵	an
+埯	an	5
+唵	an	6
+隌	an	2
+揞	an	5
+晻	an	5
+罯	an	2
+荌	an	5
+洝	an	3
+豻	an	2
+堓	an	4
+婩	an	2
+貋	an
+儑	an	2
+錌	an
+岇	ang	2
+枊	ang	5
+醠	ang	2
+柪	ao	2
+軪	ao	2
+爊	ao	3
+厫	ao	2
+隞	ao	2
+嗸	ao	2
+嶅	ao	6
+蔜	ao	2
+獓	ao	2
+廒	ao	5
+滶	ao	3
+璈	ao	4
+摮	ao	2
+磝	ao
+謷	ao	2
+翶	ao	2
+鼇	ao
+芺	ao	3
+镺	ao	2
+扷	ao	2
+抝	ao	2
+垇	ao	3
+岰	ao	2
+奡	ao	5
+嫯	ao	2
+骜	ao	6
+慠	ao	2
+擙	ao	2
+鏊	ao	6
+仈	ba	5
+玐	ba	3
+朳	ba	2
+夿	ba	3
+岜	ba	6
+蚆	ba	3
+哵	ba	2
+釛	ba	2
+羓	ba	2
+紦	ba	3
+豝	ba	3
+鲃	ba	4
+犮	ba	5
+叐	ba	5
+坺	ba	2
+茇	ba	5
+妭	ba	4
+胈	ba	2
+炦	ba	2
+癹	ba	3
+菝	ba	5
+詙	ba	1
+魃	ba	7
+墢	ba	2
+鼥	ba	2
+弝	ba	2
+覇	ba	5
+矲	ba	3
+欛	ba	3
+挀	bai	2
+捭	bi
+竡	bai	3
+粨	bai	5
+絔	bai	5
+庍	xin	2
+拝	bai	5
+薭	bai	2
+贁	bai	3
+攽	ban	2
+斒	ban	3
+癍	ban	5
+辬	ban	3
+岅	ban	2
+瓪	ban	2
+昄	ban	3
+覂	ban	2
+粄	ban	5
+蝂	ban	3
+魬	ban	2
+坢	ban	3
+怑	ban	3
+姅	ban
+秚	ban	2
+湴	ban	5
+跘	ban	3
+鉡	ban	2
+靽	ban
+垹	bang	2
+捠	bang
+邫	bang	2
+幇	bang	5
+幚	bang	2
+鞤	bang	2
+牓	bang	4
+玤	bang	3
+棓	bang	5
+硥	bang	2
+塝	bang	5
+稖	bang	2
+蜯	bang	2
+艕	bang	2
+勹	bao	5
+佨	bao	2
+笣	bao	4
+蕔	bao	2
+闁	bao	3
+窇	bao	2
+宀	bao	7
+怉	bao	2
+珤	bao	2
+堢	bao	5
+媬	bao	2
+飹	bao
+寚	bao	3
+駂	bao
+鳵	bao	2
+緥	bao	2
+賲	bao
+藵	bao	2
+靌	bao	2
+勽	bao	2
+趵	bao	5
+铇	bao	2
+菢	bao	2
+袌	bao	2
+靤	bao	2
+骲	bao	2
+髱	bao
+虣	bao	2
+曓	bao	2
+儤	bao	2
+忁	bao	2
+鑤	bao
+萡	bo	2
+陂	po
+桮	bei
+揹	bei
+鹎	bei	5
+藣	bei	2
+邶	bei	5
+苝	bei	5
+昁	bei	2
+牬	bei	3
+俻	bei	2
+鄁	bei	2
+偝	bei	4
+偹	bei	2
+琲	bei	5
+軰	bei	3
+僃	bei	2
+愂	bei	2
+碚	bei	5
+蛽	bei	2
+禙	bei	2
+骳	bei	2
+犕	bei
+誖	bei	2
+褙	bei	6
+糒	bei	3
+鞴	bei	5
+鐾	bei	5
+泍	ben	2
+倴	ben	2
+逩	ben	2
+喯	ben	3
+渀	ben	2
+奙	ben	2
+翉	ben	2
+楍	ben	2
+坌	ben	6
+捹	ben	2
+桳	ben
+撪	ben	2
+輽	ben	1
+伻	beng	2
+挷	beng	4
+奟	beng	2
+絣	beng	3
+嵭	beng	2
+傰	beng	2
+痭	beng	2
+埲	beng
+菶	beng	2
+琫	beng	3
+琣	beng	3
+鞛	beng
+逬	beng	3
+跰	beng	2
+塴	beng	2
+甏	beng	5
+镚	beng	3
+皀	bi	4
+屄	bi
+悂	pi	2
+偪	bi
+毴	bi
+鈚	pi	2
+楅	bi	3
+榌	bi	2
+豍	bi
+鵖	bi	2
+鲾	bi	2
+柲	bie	3
+朼	bi	3
+夶	bi	3
+佊	bi	2
+疕	bi	2
+沘	bi	3
+柀	bi	2
+秕	bi	5
+粊	bi	2
+舭	bi	6
+粃	bi	2
+娝	bi	2
+啚	bi	3
+聛	bi	2
+貏	bi	2
+魮	pi	2
+坒	bi	3
+佖	bi	3
+邲	bi	3
+诐	bi	3
+苾	bi	7
+枈	bi	2
+畀	bi	6
+畁	bi	2
+怭	bi	2
+妼	bi	2
+珌	bi	2
+荜	bi	6
+疪	bi	3
+狴	bi	5
+袐	bi	2
+萞	bi	2
+萆	bi	6
+梐	bi
+閇	bi	2
+庳	bi	5
+堛	bi	2
+皕	bi	5
+貱	bi	2
+赑	bi	5
+湢	bi	2
+愊	bi	3
+禆	bi	3
+弻	bi	4
+閟	bi	5
+跸	bi	6
+蜌	bi	2
+腷	bi	3
+痺	bi
+煏	bi	2
+滭	bi	2
+滗	bi	5
+鞁	bi
+稫	bi	2
+馝	bi	2
+箅	bi	7
+箆	bi	2
+獙	bi	3
+鄪	bi	2
+綼	bi	2
+髲	bi	2
+駜	bi
+幤	bi	2
+罼	bi	2
+獘	bi	2
+襅	bi
+觱	bi	4
+廦	bi
+嬖	bi	6
+縪	bi	2
+鞞	bi	5
+髀	bi	6
+濞	bi	5
+奰	bi	2
+鏎	bi	2
+饆	bi	2
+鄨	bi	2
+鞸	bi	2
+魓	bi	2
+襣	bi
+襞	bi	6
+繴	bi	2
+驆	bi
+躃	bi	2
+躄	bi	4
+鷝	bi	2
+鐴	bi	2
+鼊	bi	2
+笾	bian	6
+猵	bian	2
+牑	bian	2
+箯	bian	4
+鞕	bian	3
+邉	bian	3
+鍽	bian	2
+鳊	bian	7
+釆	bian	3
+疺	bian	2
+窆	bian	5
+惼	bian	2
+碥	bian	5
+稨	bian
+褊	bian	5
+糄	bian	2
+鴘	bian	2
+藊	bian	3
+鶣	pian	2
+抃	bian	5
+汳	bian	2
+忭	bian	5
+玣	bian	2
+昪	bian	2
+覍	bian	2
+揙	bian	2
+徧	bian	6
+缏	bian	5
+辡	bian	2
+艑	bian	2
+頨	bian	2
+辧	bian	2
+飑	biao	5
+骉	biao	5
+髟	biao	5
+淲	biao	3
+猋	biao	5
+脿	biao	3
+墂	biao	2
+摽	biao	5
+蔈	biao	2
+幖	biao	2
+滮	biao	4
+骠	piao
+麃	biao	3
+熛	biao	3
+磦	biao	2
+瘭	biao	5
+儦	biao	2
+藨	biao	4
+謤	biao	2
+瀌	biao	2
+贆	biao	2
+爂	biao	2
+臕	biao
+穮	biao	2
+飇	biao
+飊	biao	2
+嫑	biao	6
+諘	biao	2
+褾	biao	2
+檦	biao	2
+俵	biao	1
+虌	bie	4
+龞	bie	3
+咇	bie	3
+莂	bie	5
+蛂	bie	2
+徶	bie	2
+襒	bie	2
+蟞	bie	2
+汃	bin	3
+邠	bin	5
+玢	bin	6
+砏	fen	2
+椕	bin	2
+瑸	bin	3
+豩	bin	2
+镔	bin	6
+豳	bin	7
+虨	bin	2
+濵	bin	2
+霦	bin	2
+顮	bin
+髩	bin
+鬂	bin	2
+仌	bing	5
+仒	bing	5
+氷	bing	6
+栟	bing	5
+掤	bing	3
+梹	bing	3
+邴	bing	7
+陃	bing	2
+抦	bing	3
+苪	bing	5
+怲	bing	2
+昞	bing	3
+昺	bing	5
+眪	bing	2
+窉	bing	2
+蛃	bing
+棅	bing	2
+鈵	bing	2
+鉼	bing	2
+餠	bing	3
+癝	bing	2
+癛	bing	2
+疒	bing	6
+幷	bing	6
+庰	bing
+栤	bing	5
+倂	bing	5
+竝	bing
+偋	bing	2
+傡	bing	2
+寎	bing	3
+誁	bing
+鮩	bing
+靐	bing	4
+癶	bo	4
+砵	bo	5
+盋	bo	2
+袚	bo	2
+袯	bo	2
+紴	bo	2
+溊	bo	2
+碆	bo	2
+僠	bo	2
+嶓	bo	3
+磻	bo	4
+鱍	bo
+仢	bo	2
+犻	bo	5
+苩	bo	5
+瓝	bo	2
+狛	bo	4
+柭	bo	2
+郣	bo	2
+侼	bo	2
+胉	bo	2
+挬	bo	2
+秡	bo	2
+瓟	bo	3
+浡	bo	5
+桲	bo	2
+淿	bo	2
+葧	bo	3
+鹁	bo	5
+湐	bo	3
+鲌	bo	5
+猼	bo	2
+馎	bo
+愽	bo	5
+僰	bo	5
+馛	bo	2
+牔	bo
+艊	bo	2
+煿	bo	3
+踣	bo	5
+镈	bo	5
+鋍	bo	2
+馞	bo	2
+壆	bo	5
+豰	bo	2
+礡	bo	2
+簙	bo	3
+懪	bo
+髆	bo	2
+髉	bo
+犦	bo	2
+欂	bo	2
+襮	bo
+鑮	bo	2
+箥	bo	2
+孹	bo	2
+譒	bo	2
+糪	bo	2
+蘗	bo	1
+巭	bu	6
+逋	bu	7
+峬	bu	2
+钸	bu	2
+庯	bu	3
+晡	bu	6
+誧	bu	2
+鳪	bu	2
+鵏	bu	3
+鸔	bu	2
+吥	bu	7
+抪	bu	2
+歨	bu	2
+柨	bu	2
+钚	bu	6
+埗	bu	6
+捗	bu	2
+荹	bu	3
+勏	bu	2
+悑	bu	2
+瓿	bu	7
+蔀	bu	4
+廍	bu	2
+踄	bu	3
+郶	bu	2
+篰	bu	2
+餢	bu
+醭	bu	5
+攃	ca	2
+礤	ca	5
+礸	ca	2
+遪	ca	2
+毝	cai	2
+倸	cai	2
+啋	cai	3
+婇	cai	5
+跴	cai	2
+棌	cai	5
+縩	cai	2
+飡	can	5
+骖	can	6
+湌	can	2
+叅	can	3
+傪	can	2
+嬠	can	2
+爘	can	2
+蝅	can	2
+蠺	can	2
+憯	can	5
+黪	can	5
+儏	can	6
+薒	can	1
+澯	can	2
+謲	can	2
+仺	cang	6
+鸧	cang	2
+凔	cang
+嵢	cang	2
+螥	cang	2
+濸	cang
+匨	cang	3
+蔵	cang	6
+欌	zang	2
+鑶	cang	5
+賶	cang
+撡	cao	2
+曺	cao	5
+傮	cao	2
+蓸	cao	2
+嶆	cao	5
+慒	cao	2
+褿	cao	2
+螬	cao	6
+艚	cao	5
+鏪	cao	2
+艸	cao
+愺	cao	5
+騲	cao	3
+肏	cao
+襙	cao
+拺	ce	2
+荝	ce	2
+敇	ce	2
+萗	ce	2
+笧	ce	2
+粣	ce
+䇲	ce
+蓛	ce	2
+筞	ce	2
+墄	ce
+箣	ce	5
+憡	ce	2
+𥮾	sen	4
+笒	cen	3
+梣	cen	5
+曽	ceng	7
+嶒	ceng	5
+竲	ceng	2
+扱	cha	6
+扠	cha	3
+芆	cha	3
+肞	cha	2
+臿	cha	3
+挿	cha	6
+訍	cha	2
+偛	cha	2
+揷	cha
+嗏	cha	5
+馇	cha	5
+锸	cha	5
+銟	cha	2
+艖	cha	2
+秅	cha	3
+垞	cha	4
+靫	cha	2
+嵖	cha	5
+猹	cha	5
+詧	cha	3
+摖	cha	3
+褨	cha	2
+檫	cha	7
+镲	cha	5
+侘	cha	3
+紁	cha	2
+疀	chai	2
+犲	chai	5
+侪	chai	6
+祡	chai	2
+喍	chai	2
+虿	chai	6
+袃	chai	3
+囆	chai	2
+觇	chan	6
+梴	chan	2
+裧	chan	2
+鋓	chan
+幨	chan	1
+襜	chan	5
+辿	chan	5
+棎	chan	3
+湹	chan	2
+煘	chan	2
+僝	chan	3
+鋋	chan	3
+獑	chan	2
+誗	chan	2
+儃	chan	2
+廛	chan	6
+潹	chan	2
+緾	chan	4
+磛	chan	2
+毚	chan	3
+鄽	chan	2
+襌	chan	4
+瀍	chan	4
+儳	chan	3
+劖	chan	2
+酁	chan	2
+繵	chan	2
+壥	chan
+嚵	chan	2
+巉	chan	5
+瀺	chan	3
+欃	chan	3
+躔	chan	5
+镵	chan	2
+纒	chan	2
+艬	chan	2
+刬	chan	5
+旵	chan	2
+丳	chan	2
+浐	chan	5
+啴	chan	3
+蒇	chan	5
+閳	chan	2
+骣	chan	5
+燀	chan	4
+簅	chan	2
+醦	chan	2
+冁	chan	5
+讇	chan	2
+灛	chan	2
+硟	chan	2
+摲	chan	2
+懴	chan	2
+羼	chan	5
+韂	chan	2
+阊	chang	6
+淐	chang	2
+琩	chang	3
+晿	chang	1
+锠	chang	5
+裮	chang	2
+鼚	chang	2
+仧	chang	5
+仩	chang	5
+镸	chang	3
+苌	chang	7
+兏	chang	2
+瓺	chang
+場	chang
+甞	chang	3
+瑺	chang	3
+膓	chang	2
+鋿	chang	2
+蟐	chang	2
+鲿	chang	3
+鏛	chang	2
+僘	chang	2
+氅	chang	5
+鋹	chang	2
+鬯	chang	5
+誯	chang
+韔	chang	2
+怊	chao	5
+弨	chao	5
+欩	chao	2
+訬	chao	2
+繛	chao	3
+牊	chao	2
+巣	chao	5
+鼌	chao	2
+鄛	chao	2
+漅	chao	2
+樔	chao	2
+窲	chao	2
+罺	chao	2
+轈	chao	2
+謿	chao	5
+眧	chao	2
+𪎊	chao
+煼	chao	2
+巐	chao	2
+仦	chao	5
+仯	chao	3
+耖	chao	5
+觘	chao	2
+伡	che	5
+砗	che	7
+莗	che	2
+蛼	che	2
+伬	che	3
+偖	che	2
+撦	che	2
+奲	che
+屮	che	6
+迠	che	2
+烢	che	2
+烲	che	2
+聅	che	2
+硩	che	2
+頙	che	2
+摰	nie	2
+瞮	che	2
+勶	che	4
+爡	che	2
+棽	chen	4
+綝	chen	4
+瞋	chen	6
+諃	chen	2
+謓	chen	2
+迧	chen	2
+茞	chen	3
+莀	chen	5
+莐	chen	2
+軙	chen	2
+敐	chen	2
+揨	chen	2
+鈂	chen	1
+愖	chen	2
+煁	chen	2
+樄	chen	2
+瘎	chen	5
+霃	chen	2
+螴	chen	2
+薼	chen	2
+麎	chen
+曟	chen	5
+趻	chen	2
+墋	chen	2
+夦	chen
+踸	chen	2
+贂	chen
+疢	chen	4
+龀	chen	5
+趂	chen	2
+榇	chen	5
+齓	chen	2
+嚫	chen
+阷	cheng	3
+泟	cheng	3
+爯	cheng	2
+琤	cheng	5
+棦	cheng	2
+浾	cheng	2
+偁	cheng	4
+赪	cheng	5
+靗	cheng	2
+摚	cheng	2
+憆	cheng	2
+緽	cheng	2
+頳	cheng	2
+橕	cheng	3
+罉	cheng	3
+穪	cheng	2
+鏿	cheng
+鐣	cheng	4
+鏳	cheng	2
+饓	cheng
+朾	cheng	3
+枨	cheng	5
+郕	cheng	5
+荿	cheng	5
+峸	cheng	5
+乗	cheng	7
+洆	cheng	2
+宬	cheng	7
+娍	cheng	4
+珹	cheng	5
+埕	cheng	6
+挰	cheng	2
+脀	cheng	2
+珵	cheng	5
+掁	cheng	2
+碀	cheng	2
+脭	cheng	2
+窚	cheng	2
+堘	cheng	2
+筬	cheng	1
+椉	cheng	2
+裎	cheng	5
+絾	cheng	3
+塖	cheng	2
+塍	cheng	6
+溗	cheng	2
+酲	cheng	6
+畻	cheng	3
+憕	cheng	2
+檙	cheng	2
+鯎	cheng	5
+瀓	cheng	2
+騬	cheng	2
+侱	cheng	2
+徎	cheng	2
+悜	cheng	3
+庱	cheng	2
+睈	cheng
+牚	cheng
+竀	cheng	2
+妛	chi
+呮	qi	6
+侙	chi	2
+彨	chi	3
+鸱	chi	7
+眵	chi	5
+瓻	chi	2
+粚	chi	2
+摛	chi	5
+殦	chi	2
+噄	chi	2
+瞝	chi	2
+鵄	chi	2
+齝	chi
+攡	chi	2
+麶	chi	2
+黐	chi	4
+茌	chi	5
+岻	chi
+竾	chi	4
+耛	chi	2
+赿	chi	4
+蚳	chi	4
+貾	chi
+筂	chi	2
+遅	chi	5
+趍	chi	4
+遟	chi	2
+漦	chi	2
+篪	chi	5
+謘	chi	2
+叺	chi	3
+肔	chi	2
+卶	chi	2
+垑	chi	2
+拸	chi	2
+胣	chi	2
+蚇	chi	3
+袳	chi
+袲	chi	1
+欼	chi	2
+裭	chi	2
+鉹	chi	2
+灻	chi	2
+杘	chi	2
+抶	chi	3
+迣	chi	6
+勅	chi	5
+恜	chi
+翄	chi	2
+痓	chi	2
+烾	chi	2
+跅	chi	2
+訵	chi	2
+湁	chi	6
+趐	chi	4
+雴	chi	2
+跮	chi	2
+傺	chi	5
+鉓	chi	3
+腟	chi	2
+痸	chi	2
+遫	chi	2
+銐	chi	2
+翤	chi	2
+憏	chi
+慗	chi	2
+瘛	chi	5
+翨	chi	2
+趩	chi
+懘	chi	2
+饎	chi	2
+鷘	chi	2
+茺	chong	5
+珫	chong	2
+浺	chong	2
+翀	chong	7
+摏	chong	2
+嘃	chong
+憃	chong	2
+徸	chong	2
+罿	chong	3
+蹖	chong
+艟	chong	6
+痋	chong	3
+崈	chong	4
+隀	chong	2
+漴	chong	2
+褈	chong	2
+蝩	chong	2
+爞	chong	2
+喠	chong	4
+揰	dong
+搊	chou	3
+醔	chou	1
+瘳	chou	5
+犨	chou	3
+犫	chou	3
+诪	chou	3
+栦	chou	3
+菗	chou	3
+椆	chou	3
+絒	chou	2
+皗	chou	2
+詶	chou
+裯	chou	3
+雔	chou	2
+雠	chou	7
+燽	chou	2
+吜	chou	2
+杽	chou	2
+侴	chou	2
+偢	chou	2
+矁	chou	2
+魗	chou
+遚	chou
+臰	chou	2
+殠	chou	2
+摴	chu	3
+樗	chu	7
+蒢	chu	2
+豠	chu	2
+趎	chu	2
+蜍	chu	5
+犓	chu	2
+篨	chu	2
+幮	chu
+蹰	chu	7
+鶵	chu	4
+椘	chu	2
+楮	chu	7
+濋	chu	3
+璴	chu	2
+檚	chu
+齼	chu	2
+竌	chu	1
+拀	chu	2
+豖	chu	2
+竐	chu	2
+欪	chu	2
+俶	chu	7
+珿	chu	2
+埱	chu	2
+觕	chu	2
+琡	chu	2
+傗	chu
+鄐	chu	2
+滀	chu	5
+閦	chu	5
+踀	chu	2
+嘼	chu	2
+儊	chu	4
+諔	chu	2
+憷	chu	6
+歜	chu	3
+斶	chu	4
+臅	chu
+欻	xu	5
+搋	chuai	5
+膗	chuai	2
+膪	chuai	4
+巛	chuan	6
+氚	chuan	5
+剶	chuan	2
+舡	chuan	5
+舩	chuan	2
+遄	chuan	6
+圌	chuan	5
+猭	chuan
+瑏	chuan	4
+暷	chuan	2
+篅	chuan	2
+輲	chuan	2
+荈	chuan	3
+歂	chuan	2
+僢	chuan	2
+汌	chuan	5
+玔	chuan	2
+賗	chuan	2
+刅	chuang	3
+窓	chuang	5
+牎	chuang
+牕	chuang	3
+窻	chuang	3
+噇	chuang	1
+傸	chuang	2
+磢	chuang
+刱	chuang	2
+剏	chuang	2
+剙	chuang
+龡	chui	2
+桘	chui
+埀	chui	3
+倕	chui	3
+菙	chui	2
+搥	chui
+棰	chui	7
+腄	chui	3
+顀	chui	2
+杶	chun	2
+旾	chun	4
+萅	chun	3
+堾	chun	2
+媋	chun	2
+瑃	chun	3
+槆	chun	2
+暙	chun	2
+蝽	chun	6
+箺	chun	2
+橁	chun	2
+輴	chun	2
+櫄	chun	3
+鶞	chun	2
+陙	chun
+浱	chun	3
+犉	chun	3
+湻	chun	2
+滣	chun	3
+漘	chun	2
+醕	chun	2
+錞	chun	3
+鯙	chun	2
+偆	chun	3
+萶	chun	2
+惷	chun
+睶	chun	2
+踳	chun	2
+逴	chuo	2
+踔	chuo	5
+辵	chuo	4
+娕	chuo	2
+娖	chuo	3
+涰	chuo	2
+惙	chuo	3
+婥	chuo	4
+酫	chuo	5
+趠	chuo	2
+擉	chuo	2
+磭	chuo	2
+歠	chuo	4
+齱	chuo	2
+鑡	chuo	2
+玼	ci	3
+趀	ci
+偨	ci
+骴	ci	2
+縒	ci	2
+珁	ci	2
+柌	ci	2
+垐	ci
+堲	ci	2
+辝	ci	2
+鈶	ci	2
+甆	ci	2
+飺	ci	2
+餈	ci
+薋	ci	3
+濨	ci	2
+嬨	ci	2
+鴜	ci
+礠	ci	3
+佌	ci	5
+泚	ci	5
+皉	ci	2
+跐	ci	2
+朿	ci	5
+刾	ci	2
+佽	ci	5
+茦	ci	2
+庛	ci
+栨	ci	4
+莿	ci	2
+蛓	ci	2
+絘	ci	2
+螆	ci	3
+茐	cong	2
+枞	cong	7
+忩	cong	2
+悤	cong	3
+棇	cong	2
+焧	cong	2
+楤	cong	3
+聡	cong	5
+漗	cong
+骢	cong	7
+聦	cong	2
+樬	cong	2
+暰	cong	2
+熜	cong	5
+緫	cong	3
+瞛	cong	2
+蟌	cong	2
+篵	cong	2
+謥	cong	2
+繱	cong
+騘	cong	2
+従	cong	5
+徖	cong	2
+悰	cong	5
+孮	cong	5
+婃	cong	5
+潀	cong	2
+潈	cong	7
+漎	cong	2
+賩	cong	2
+潨	cong	2
+賨	cong	3
+藂	cong	2
+灇	cong	2
+欉	cong	2
+爜	cong	4
+憁	cong	2
+楱	cou	5
+辏	cou	6
+腠	cou	6
+麁	cu	2
+麄	cu	2
+麤	cu	5
+殂	cu	5
+捽	cu	5
+媨	cu	2
+瘄	cu	2
+趗	cu	2
+蔟	cu	5
+誎	cu	2
+踧	cu	3
+噈	cu	2
+憱	cu	2
+瘯	cu	2
+鼀	cu	2
+蹵	cu	2
+汆	cuan	7
+镩	cuan	4
+攅	cuan	2
+櫕	cuan	2
+巑	cuan	2
+殩	cuan	2
+熶	cuan	5
+簒	cuan	2
+凗	cui	2
+墔	cui	2
+榱	cui	5
+嶉	cui	3
+獕	cui	2
+漼	cui	2
+慛	cui	2
+槯	cui	2
+磪	cui	2
+鏙	cui	2
+趡	cui	2
+皠	cui	4
+伜	cui	2
+忰	cui	2
+疩	cui	2
+脃	cui	3
+翆	cui	2
+啛	cui	3
+啐	cui	6
+琗	cui	2
+椊	cui	2
+毳	cui	6
+焠	cui	4
+膵	cui	2
+膬	cui	2
+顇	cui	2
+濢	cui	2
+竁	cui	2
+臎	cui	2
+膥	cun	2
+竴	cun	5
+侟	cun	3
+拵	cun	2
+洊	cun	5
+踆	zun	3
+澊	cun	3
+刌	cun	3
+籿	cun	3
+𢫬	sa
+瑳	cuo	3
+遳	cuo	2
+醝	cuo	2
+襊	cuo
+髊	cuo	2
+虘	cuo	2
+蒫	cuo	2
+睉	cuo	2
+嵳	cuo	2
+矬	cuo	7
+蔖	cuo
+鹾	cuo	5
+齹	cuo	2
+脞	cuo	5
+剉	cuo
+剒	cuo	2
+莡	cuo
+莝	cuo	2
+夎	cuo	5
+逪	cuo	2
+蓌	cuo	2
+咑	da	5
+垯	da	5
+畣	da	2
+褡	da	6
+撘	da	5
+迏	da	3
+迖	da	5
+迚	da	7
+呾	da	5
+怛	da	7
+荙	da	3
+羍	da	2
+炟	da	4
+逹	da	5
+剳	da	3
+笪	da	7
+匒	da	2
+詚	da	2
+溚	da	2
+蟽	da	3
+龖	da	5
+龘	da	6
+亣	da	5
+汏	da	5
+眔	da	2
+懛	dai	2
+轪	dai	2
+侢	dai
+垈	dai	2
+帒	dai	2
+绐	dai	6
+柋	dai	3
+帯	dai	6
+蚮	dai	2
+軩	dai	2
+瑇	dai
+廗	dai	2
+叇	dai	2
+曃	dai	2
+緿	dai	2
+鴏	dai	2
+鮘	chou	2
+艜	dai	2
+蹛	dai	2
+簤	dai	2
+霴	dai
+瀻	dai	2
+黱	dai	4
+襶	dai	2
+卩	dan	7
+妉	dan	2
+瓭	dan	2
+砃	dan	2
+単	dan	6
+耼	dan	2
+酖	dan	2
+媅	dan	2
+瘅	dan	5
+匰	dan	3
+頕	dan	2
+儋	dan	6
+勯	dan	5
+聸	dan	2
+刐	dan	2
+玬	dan	2
+衴	dan	2
+紞	dan	4
+亶	dan	6
+黕	dan
+澸	dan	3
+帎	dan	2
+狚	dan	2
+泹	dan	3
+沊	dan	2
+柦	dan	2
+疍	dan	4
+萏	dan	6
+啿	dan	3
+蜑	dan	2
+腅	dan	2
+觛	dan	2
+蓞	dan
+窞	dan	5
+髧	dan	2
+馾	dan
+噉	dan	5
+僤	dan	4
+嘾	dan	2
+駳	dan
+鴠	dan	2
+餤	dan	2
+憺	dan	4
+禫	dan	3
+甔	dan	2
+癚	dan	2
+嚪	dan	2
+霮	dan	2
+饏	dan	2
+珰	dang	5
+筜	dang	2
+澢	dang	2
+蟷	dang	2
+艡	dang	2
+谠	dang	6
+檔	dang
+圵	dang	2
+砀	dang	6
+垱	dang	5
+瓽	dang	2
+逿	dang	2
+愓	dang	3
+婸	dang	3
+雼	dang	2
+趤	dang	2
+瞊	dang	2
+璗	dang	3
+礑	dang	2
+簜	dang
+蘯	dang	2
+譡	dang
+闣	dang
+忉	dao	5
+朷	dao	2
+氘	dao	6
+虭	dao	2
+舠	dao	3
+釖	dao	2
+鱽	dao
+陦	dao	2
+宲	shi	2
+捯	dao	4
+禂	dao	2
+隝	dao	2
+嶋	dao	7
+嶌	dao	2
+壔	dao
+菿	dao	5
+稲	dao	5
+翢	dao	2
+衜	dao	2
+艔	dao	2
+噵	dao	4
+檤	dao	4
+衟	dao	2
+翿	dao	2
+軇	dao
+瓙	dao	2
+纛	dao	7
+恴	de	3
+淂	de	5
+惪	de	4
+悳	de	5
+锝	de	7
+揼	beng	2
+扥	den	5
+扽	den	5
+豋	deng	4
+嬁	deng	3
+璒	deng	2
+竳	deng	2
+簦	deng	5
+艠	deng	2
+覴	deng	2
+戥	deng	5
+僜	teng	2
+隥	deng	2
+墱	deng	2
+仾	di	2
+奃	di	2
+彽	di	2
+袛	di	5
+埞	di	3
+羝	di	5
+隄	di
+趆	di	2
+䃅	di
+鞮	di	4
+廸	di	5
+肑	di	2
+苖	di	4
+籴	di	6
+唙	di	2
+梑	di	2
+靮	di	2
+觌	di	5
+髢	di	2
+馰	di	2
+蔐	di
+蔋	di	2
+頔	di	5
+魡	di	4
+篴	di	3
+藡	di	2
+藋	di	3
+嚁	di	2
+豴	di
+鸐	di	2
+坘	di	2
+厎	di	4
+阺	di	2
+拞	di
+呧	di	2
+弤	di	2
+柢	di	6
+掋	di	3
+菧	di	2
+軧	di	2
+楴	di	3
+聜	di	2
+弚	di	2
+玓	di	5
+杕	di	3
+坔	di	3
+枤	di	2
+怟	di	2
+俤	di	5
+埊	di	3
+逓	di	2
+珶	di	2
+梊	di	2
+菂	di	6
+眱	di	2
+偙	di	5
+釱	di	2
+啇	di	4
+焍	di	2
+祶	di	2
+揥	di
+媂	di	5
+僀	di
+鉪	di
+腣	di	2
+禘	di	5
+摕	di	2
+墑	di
+蔕	di	5
+遰	di	2
+墬	di	4
+慸	di	2
+甋	di	2
+踶	di	2
+嶳	di
+嗲	dia
+敁	dian	5
+厧	dian	2
+傎	dian	2
+嵮	dian	2
+槙	dian	5
+瘨	dian	4
+蹎	dian	2
+顚	dian	4
+攧	dian	2
+巓	dian	1
+齻	dian	2
+奌	dian	5
+婰	dian	2
+椣	dian	2
+敟	dian	1
+蒧	dian	2
+蕇	dian	2
+嚸	dian	5
+坫	dian	6
+扂	dian
+婝	dian	2
+琔	dian	2
+電	dian
+蜔	dian	2
+橂	dian	2
+壂	dian	3
+磹	dian	2
+驔	dian	2
+汈	diao	3
+刟	diao	2
+奝	diao	2
+蛁	diao
+弴	diao	2
+颩	diao	5
+鳭	diao	2
+瞗	diao	2
+錭	diao	2
+鮉	diao
+鼦	diao
+扚	diao	2
+伄	diao	3
+訋	diao	2
+窎	diao	2
+铞	diao	4
+铫	diao
+铫	yao
+罀	diao	2
+鈟	diao	2
+竨	diao	4
+雿	diao	2
+鋽	diao	2
+瘹	diao	2
+鑃	diao	2
+苵	die	2
+怢	die	2
+挕	die	2
+垤	die	5
+峌	die	2
+胅	die	2
+恎	die	2
+绖	die	5
+耊	die	2
+眣	die	2
+瓞	die	5
+戜	die	5
+啑	die	2
+镻	die	2
+堞	die	6
+揲	die	5
+臷	die	2
+趃	die
+詄	die	2
+惵	die	2
+殜	die	2
+牃	die	2
+蜨	die	2
+嵽	die	2
+褋	die	5
+艓	die	2
+蹀	die	6
+褺	die	2
+鲽	die	6
+鮙	die	1
+疉	die	2
+氎	die	2
+哋	mi	6
+亇	ding	5
+帄	ding	5
+奵	ding	4
+玎	ding	7
+耵	ding	7
+虰	ding
+靪	ding	2
+鼑	ding	2
+嵿	ding	5
+薡	ding	3
+鐤	ding	3
+饤	ding	2
+忊	ding	3
+矴	ding	2
+萣	ding	3
+椗	ding	3
+碇	ding	6
+碠	ding	2
+蝊	ding	2
+磸	ding	1
+顁	ding	3
+铥	diu	5
+苳	dong	3
+岽	dong	6
+昸	dong	2
+氡	dong	7
+鸫	dong	6
+菄	dong	2
+笗	dong	2
+涷	dong	3
+娻	dong	2
+徚	dong	2
+蝀	dong	3
+鮗	dong
+鯟	dong	2
+墥	dong
+蕫	dong	4
+箽	dong	2
+諌	dong	3
+嬞	dong	4
+垌	dong	7
+挏	dong	3
+迵	dong	2
+峝	dong	2
+姛	dong	2
+戙	dong
+硐	dong	7
+湩	dong	2
+働	dong	6
+霘	dong	2
+吺	dou	2
+剅	dou	4
+侸	dou	2
+唗	dou	3
+兠	dou	4
+蔸	dou	5
+橷	dou
+篼	dou	6
+唞	dou	3
+阧	dou	2
+枓	dou	5
+郖	dou	2
+荳	dou
+饾	dou	2
+浢	dou	2
+梪	dou	2
+毭	dou	2
+酘	dou	2
+脰	dou	4
+鋀	dou	2
+斣	dou	2
+闘	dou	5
+鬪	dou	3
+鬬	dou	5
+剢	du	2
+阇	du	6
+醏	du	1
+裻	du	2
+蝳	du	2
+錖	du	2
+騳	du	3
+皾	du	2
+襩	du	1
+髑	du	6
+豄	du
+贕	du	2
+韣	du	2
+鑟	du
+韇	du	2
+韥	du	2
+讟	du	3
+厾	du	3
+帾	du	2
+琽	du	2
+暏	du	3
+覩	du	5
+芏	du	5
+妬	du	5
+荰	du	2
+秺	du	2
+靯	du
+螙	du	2
+殬	du	2
+蠧	du	3
+剬	duan	2
+偳	duan	2
+媏	duan	2
+褍	duan	2
+鍴	duan	3
+塅	duan	5
+葮	duan	3
+瑖	duan	2
+腶	duan	2
+碫	duan	2
+縀	duan
+毈	duan
+簖	duan	5
+躖	duan	2
+垖	dui	2
+塠	dui	2
+嵟	dui	2
+痽	dui	2
+磓	dui
+鴭	dui
+頧	dui
+祋	dui	2
+陮	dui	2
+憝	dui	5
+薱	dui	2
+譈	dui	2
+瀩	dui	2
+譵	dui	2
+蜳	dun	2
+撴	dun	5
+壿	dun	2
+獤	dun	2
+墪	dun	2
+橔	dun	2
+犜	dun	3
+撉	dun	2
+礅	dun	5
+镦	dui
+蹾	dun	2
+鐜	dun	5
+驐	dun
+伅	dun	5
+逇	dun	2
+砘	dun	5
+楯	dun	6
+腞	dun	2
+碷	dun	2
+遯	dun	5
+潡	dun	3
+憞	dun	2
+踲	dun
+夛	duo	5
+茤	duo	4
+剟	duo	5
+崜	duo	2
+敠	duo	2
+毲	duo	2
+敪	duo	2
+裰	duo	5
+嚉	duo	2
+仛	cha	5
+剫	duo	2
+敚	duo	2
+喥	duo	2
+痥	duo	2
+朶	duo	5
+挆	duo	2
+挅	duo	3
+哚	duo	7
+埵	duo	6
+趓	duo
+椯	duo	2
+躱	duo	3
+亸	duo	5
+鬌	duo	2
+饳	duo	2
+陏	duo	2
+陊	duo	2
+刴	duo
+垜	duo	5
+柮	duo	2
+尮	duo	3
+桗	duo	2
+媠	duo	2
+跢	duo	2
+跥	duo	2
+憜	duo
+嶞	duo	2
+嫷	duo	2
+墯	duo	2
+鵽	duo	2
+妸	e	5
+妿	e	2
+屙	e	6
+娿	e	5
+迗	e	5
+吪	e	2
+囮	e	4
+涐	e	6
+珴	e	5
+睋	e	3
+锇	e	5
+皒	e	5
+磀	e	2
+誐	e	5
+魤	e	2
+頟	e	3
+騀	e	2
+枙	e	4
+砈	e	2
+歺	e	6
+屵	e	3
+戹	e	3
+岋	e	2
+阨	e	5
+苊	e	5
+阸	e	3
+砐	e	2
+呝	e	2
+咢	e	2
+咹	e	4
+峉	e	2
+姶	e	2
+砨	e	2
+蚅	e	3
+匎	e	2
+硆	e	2
+卾	e	2
+偔	e
+阏	e	6
+谔	e	6
+堮	e	3
+軶	e	2
+豟	e	2
+遌	e	2
+崿	e	3
+鈪	e	5
+湂	e	2
+搹	e	2
+琧	e	2
+詻	e
+廅	e	2
+蝁	e	2
+鹗	e	6
+锷	e	7
+僫	e	2
+蕚	e	3
+遻	e	2
+頞	e	3
+擜	e	2
+覨	e
+餩	e
+歞	e	2
+蘁	e	2
+櫮	e	2
+讍	e
+鑩	e
+奀	en	5
+煾	en	2
+峎	en	3
+鞥	eng	5
+侕	er	5
+陑	er	2
+荋	er
+耏	er	2
+咡	er	4
+峏	er	3
+洏	er
+栭	er	5
+胹	er	2
+鸸	er	5
+唲	er	5
+𦛨	lao
+袻	er
+聏	er
+輀	er	2
+鲕	er	5
+髵	er	2
+隭	er	2
+轜	er	2
+尓	er	6
+尒	er	6
+毦	er	3
+栮	er	2
+铒	er	7
+衈	er	2
+爾	er
+駬	er	2
+薾	er	3
+趰	er	2
+弍	er	5
+刵	er	4
+佴	er	6
+貮	er	3
+誀	er	2
+樲	er	3
+沷	fa	3
+彂	fa	5
+橃	fei
+姂	fa	2
+茷	fa	2
+栰	fa	2
+笩	fa	4
+傠	fa	2
+瞂	fa	2
+藅	fa
+佱	fa	2
+灋	fa	5
+髪	fa	6
+忛	fan	5
+犿	fan	3
+勫	fan	5
+墦	fan	6
+噃	fan	3
+憣	fan
+嬏	fan	2
+旙	fan	2
+旛	fan	2
+颿	fan	3
+轓	fan	3
+籓	fan	5
+飜	fan	2
+鱕	fan
+凣	fan	3
+凢	fan	3
+杋	fan	4
+匥	fan	3
+柉	fan	5
+籵	fan	3
+舤	fan	3
+舧	fan	2
+笲	fan	3
+棥	fan	2
+緐	fan	2
+璠	fan	7
+薠	fan	2
+橎	fan	5
+膰	fan	2
+燔	fan	6
+襎	fan	2
+羳	fan
+蹯	fan	4
+蘩	fan	5
+瀪	fan	2
+瀿	fan	2
+蠜	fan	2
+鷭	fan	2
+犭	fan	6
+攵	fan	6
+払	fan	5
+仮	fan	5
+奿	fan	2
+軓	fan	2
+訉	fan	2
+笵	fan
+盕	fan	2
+飰	fan	2
+滼	fan	2
+嬎	fan	2
+嬔	fan	2
+匚	fang	6
+邡	fang	5
+汸	pang	4
+牥	fang	2
+祊	fang	5
+钫	fang	5
+蚄	fang	3
+淓	fang	3
+趽	fang	2
+鴋	fang	2
+埅	fang	5
+堏	fang	2
+鲂	fang	6
+昉	fang	6
+昘	fang	2
+瓬	fang	2
+眆	fang	2
+旊	fang	2
+髣	fang	2
+婓	fei	4
+渄	fei	3
+婔	fei	2
+猆	fei	2
+靟	fei
+暃	fei	2
+裶	fei	2
+鲱	fei	7
+餥	fei	2
+馡	fei	3
+騑	fei	5
+騛	fei	3
+飝	fei	5
+淝	fei	7
+蜰	fei	2
+裵	fei	2
+蟦	fei	2
+胇	fei	2
+朏	fei	3
+胐	fei	2
+陫	fei	3
+奜	fei	2
+棐	fei	5
+蕜	fei	5
+篚	fei	5
+杮	fei	4
+昲	fei	2
+厞	fei	2
+剕	fei	3
+俷	fei	2
+疿	fei
+萉	fei	2
+屝	fei	2
+蕟	fei	3
+鼣	fei
+癈	fei	2
+濷	fei
+靅	fei	2
+帉	fen	2
+妢	fen	3
+昐	fen	5
+竕	fen	2
+衯	fen	3
+翂	fen	2
+棻	fen	5
+兝	fen	2
+雰	fen	5
+餴	fen	2
+朆	fen	2
+饙	fen	2
+坆	fen	2
+岎	fen	2
+枌	fen	3
+炃	fen	2
+朌	fen	2
+肦	fen	2
+蚡	fen	2
+蚠	fen	2
+羒	fen	2
+梤	fen	2
+棼	fen	6
+蒶	fen	3
+馚	fen	2
+隫	fen
+蕡	fen	4
+鳻	fen	2
+燓	fen	2
+豮	fen	2
+燌	fen
+鼢	fen	5
+鼖	fen	2
+轒	fen
+馩	fen	2
+黂	fen	2
+瞓	fen	3
+黺	fen
+坋	fen	3
+弅	fen	2
+秎	fen	2
+偾	fen	6
+獖	ben	2
+橨	fen	2
+鲼	fen	5
+瀵	fen	5
+仹	feng	5
+凨	feng	5
+凬	feng	4
+沨	feng	5
+妦	feng	2
+肨	feng	2
+凮	feng	3
+炐	feng	2
+盽	feng
+埄	beng	5
+琒	feng	3
+桻	feng	2
+崶	feng	2
+猦	feng	2
+犎	feng	3
+鄷	feng	2
+僼	feng	2
+檒	feng	5
+鎽	feng	5
+鏠	feng	3
+蘴	feng	2
+寷	feng	2
+蠭	feng	3
+飌	feng	5
+靊	feng	2
+夆	feng	5
+捀	feng	4
+浲	feng	3
+堸	feng	2
+舽	feng	2
+溄	feng	2
+摓	feng	2
+艂	feng	2
+漨	feng
+綘	feng	5
+篈	feng	3
+唪	feng	5
+甮	feng	2
+焨	feng
+湗	feng
+赗	feng	2
+鳯	feng	5
+煈	feng	5
+鴌	feng	2
+覅	fiao	5
+仏	fo	5
+坲	fo	3
+紑	fou	5
+妚	fou	2
+缻	fou	2
+缹	fou	2
+雬	fou	2
+邞	fu	3
+沕	fu	5
+妋	fu	3
+玞	fu	2
+姇	fu
+荂	fu	2
+砆	fu
+怤	fu	2
+衭	fu
+垺	pou	2
+荴	fu	2
+尃	fu	3
+娐	fu	2
+旉	fu	3
+趺	fu	6
+紨	fu	4
+跗	fu	7
+稃	fu	5
+筟	fu	2
+鄜	fu	5
+綒	fu	2
+豧	fu	2
+鳺	fu	5
+糐	fu
+麱	fu
+懯	fu	2
+乀	fu	7
+甶	fu	3
+芣	fu	5
+冹	fu	2
+刜	fu	5
+苻	fu	5
+茀	fu	5
+枎	fu	2
+咈	fu	4
+帗	fu	2
+岪	fu	2
+泭	fu	3
+绂	fu	6
+玸	fu	2
+韨	fu	2
+垘	fu	2
+枹	fu	4
+柫	fu	2
+畐	fu	3
+畉	fu	3
+罘	fu	6
+郛	fu	5
+炥	fu	2
+洑	fu	5
+祓	fu	5
+栿	fu	2
+砩	fu	5
+蚨	fu	6
+哹	fu
+畗	fu	3
+琈	fu	2
+菔	fu	5
+桴	fu	6
+虙	fu	4
+笰	fu	2
+烰	fu	2
+艴	fu	5
+翇	fu	2
+葍	fu
+棴	fu	2
+罦	fu
+艀	fu	2
+鉜	fu
+鉘	fu
+颫	fu	2
+粰	fu	4
+綍	fu	5
+榑	fu	2
+酻	fu	2
+稪	fu	2
+箙	fu	5
+髴	fu	2
+幞	fu	5
+澓	fu	2
+踾	fu	2
+諨	fu	5
+黻	fu	5
+鮲	fu
+癁	fu	2
+襥	fu	2
+鶝	fu
+拊	fu	7
+弣	fu	2
+郙	fu	2
+俌	fu	2
+胕	fu	3
+釡	fu
+捬	fu	2
+酜	fu	2
+椨	fu	2
+盙	fu	2
+焤	fu	2
+滏	fu	6
+鬴	fu	2
+簠	fu	5
+坿	fu	2
+竎	fu	2
+柎	fu	3
+峊	fu	3
+祔	fu	4
+蚥	fu	2
+袝	fu	2
+陚	fu	2
+蚹	fu	2
+偩	fu	3
+婏	fu	4
+萯	fu	2
+軵	fu	2
+覄	fu
+秿	fu	2
+蛗	fu	2
+詂	fu	2
+媍	fu	2
+椱	fu	2
+鲋	fu	5
+赙	fu	5
+褔	fu	6
+禣	fu	2
+蕧	fu	2
+蝜	fu	2
+輹	fu	2
+鍢	fu	5
+鍑	fu	5
+鳆	fu	2
+钆	ga	6
+尜	ga	5
+嘠	ga	2
+錷	ga	2
+玍	ga	5
+魀	ga	2
+侅	gai	3
+郂	gai	2
+陔	gai	5
+垓	gai	6
+荄	gai	4
+峐	gai
+姟	gai	5
+晐	gai	2
+畡	gai	2
+祴	gai	3
+隑	gai	3
+絯	gai	3
+豥	gai	2
+賌	gai
+忋	gai	5
+絠	gai	3
+鎅	gai	3
+乢	gai	5
+匃	gai	2
+匄	gai	3
+杚	gai	2
+摡	gai	4
+葢	gai	4
+槩	gai	5
+戤	gai	5
+漑	gai	2
+槪	gai	3
+瓂	gai	2
+迀	gan	5
+芉	gan	3
+忓	gan	5
+玕	gan	5
+攼	gan	2
+玵	gan	2
+乹	gan	2
+虷	gan	2
+粓	gan	2
+凲	gan	2
+筸	gan	2
+鳱	gan	2
+漧	gan	2
+尶	gan	2
+魐	gan	2
+仠	gan	3
+扞	gan	6
+衦	gan	2
+皯	gan	5
+笴	gan	2
+澉	gan	5
+簳	gan	5
+鳡	gan	5
+旰	gan	7
+汵	gan	3
+盰	gan	2
+倝	gan	4
+凎	gan	2
+骭	gan	2
+詌	gan	2
+檊	gan	2
+灨	gan	2
+罓	wang	3
+冮	gang	5
+矼	gang	4
+牨	gang	2
+疘	gang	2
+堈	gang
+釭	gang	5
+犅	gang	2
+堽	gang	5
+罁	gang	2
+鎠	gang	1
+焵	gang
+焹	gang
+筻	gang	5
+戆	zhuang
+戆	gang
+羙	gao	7
+皐	gao	2
+滜	gao	2
+槔	gao	2
+槹	gao	2
+餻	gao	2
+櫜	gao	4
+韟	gao	1
+鼛	gao	2
+鷎	gao	1
+鷱	gao	5
+夰	gao	2
+菒	gao	2
+稁	gao	2
+筶	gao	5
+獔	gao	2
+槀	gao	3
+稾	gao	3
+藁	gao	6
+藳	gao	3
+檺	gao	5
+勂	gao	2
+峼	gao	2
+祮	gao
+祰	gao	2
+暠	gao	4
+禞	gao	2
+犵	ge	5
+纥	ge
+戓	ge	6
+肐	ge
+牫	ge	3
+牱	ge	5
+袼	ge	5
+滒	ge	5
+戨	ge	4
+鴚	ge	2
+謌	ge	5
+呄	ge	2
+佮	ge	2
+匌	ge	2
+挌	ge
+茖	ge	2
+敋	ge	2
+蛒	ge	2
+愅	ge
+裓	ge	2
+塥	ge	4
+觡	ge	2
+滆	ge	5
+槅	ge	4
+搿	ge
+鞈	ge	2
+韐	ge	2
+輵	ge	2
+臈	ge	2
+諽	ge	2
+櫊	ge	2
+轕	ge	2
+鞷	ge	2
+鰪	ge	2
+哿	ge	5
+虼	ge	5
+獦	ge	2
+哏	gen	7
+茛	gen	6
+搄	gen	2
+刯	geng	2
+畊	geng	3
+浭	geng	3
+菮	geng	2
+椩	geng	2
+赓	geng	6
+焿	geng	2
+絚	geng
+鹒	geng	2
+羮	geng	5
+縆	geng	2
+緪	geng	2
+郠	geng	2
+挭	geng	4
+莄	geng	3
+峺	geng	2
+绠	geng	6
+鲠	geng	6
+堩	geng	5
+杛	gong	2
+糼	gong	4
+匑	gong	2
+塨	gong	2
+幊	gong	5
+躳	gong	2
+觥	gong	7
+愩	gong	3
+匔	gong	2
+髸	gong	2
+兣	gong	2
+篢	gong	3
+觵	gong	2
+龏	gong	2
+廾	gong	5
+珙	gong	7
+拲	gong	2
+栱	gong	4
+輁	gong	2
+羾	gong	2
+唝	gong	4
+慐	gong	2
+熕	gong	2
+抅	gou	5
+泃	ju	5
+冓	gou	3
+缑	gou	6
+褠	gou	2
+鞲	gou	5
+簼	gou	2
+芶	gou	5
+岣	gou	5
+玽	gou	2
+耇	gou	3
+耉	gou	2
+耈	gou	2
+蚼	gou	2
+笱	gou	5
+豿	gou	3
+坸	gou	2
+茩	gou	2
+姤	gou	5
+袧	gou	2
+傋	gou	2
+訽	gou	2
+搆	gou
+彀	gou	6
+雊	gou	5
+觏	gou	5
+煹	gou	2
+撀	gou	2
+泒	gu	3
+柧	gu	2
+唂	gu	3
+罛	gu	3
+蛄	gu	6
+笟	gu	5
+蓇	gu	3
+軱	gu	2
+酤	gu	5
+嗗	gu	6
+觚	gu	7
+箛	gu	5
+篐	gu	2
+嫴	gu	2
+橭	gu	2
+夃	gu	2
+扢	gu	3
+抇	gu	2
+唃	gu	5
+羖	gu	5
+蛌	gu	2
+啒	gu	2
+傦	gu	4
+淈	gu	3
+尳	gu	2
+焸	gu	2
+馉	gu	1
+愲	gu	2
+鼔	gu	5
+榾	gu	3
+皷	gu	2
+榖	gu	6
+嘏	gu
+嘏	jia
+薣	gu	2
+皼	gu	2
+臌	gu	6
+濲	gu	2
+盬	gu	4
+瀔	gu	2
+怘	gu	2
+凅	gu
+堌	gu	5
+崓	gu	2
+牿	gu	5
+棝	gu	2
+祻	gu	3
+頋	gu	2
+稒	gu	2
+鲴	gu	5
+苽	gua	4
+䯄	gua
+鸹	gua	5
+歄	gua
+焻	gua	2
+劀	gua	2
+緺	gua	2
+銽	gua
+叧	gua	6
+冎	gua	2
+坬	gua	2
+诖	gua	5
+啩	gua	2
+罣	gua	5
+絓	gua	2
+罫	gua	3
+箉	guai	2
+恠	guai	5
+覌	guan	5
+萖	guan	2
+蒄	guan	5
+窤	guan
+瘝	guan	5
+闗	guan	3
+観	guan	6
+癏	guan	2
+鱞	guan
+筦	guan	5
+痯	guan	2
+錧	guan	3
+鳤	guan	2
+卝	guan	4
+毌	guan	2
+丱	guan	5
+泴	guan	2
+涫	guan	5
+悺	guan
+婠	guan	3
+悹	guan	2
+祼	guan
+潅	guan	2
+遦	guan	2
+樌	guan	2
+雚	guan	3
+罆	guan	2
+躀	guan	2
+瓘	guan	5
+爟	guan	2
+鹳	guan	7
+礶	guan	2
+矔	guan	2
+鑵	guan	5
+鱹	guan	2
+灮	guang	2
+炗	guang	2
+炚	guang	3
+侊	guang	5
+炛	guang	2
+垙	guang	3
+挄	guang	4
+茪	guang	4
+洸	guang	6
+姯	guang	2
+珖	guang	4
+烡	guang	2
+硄	guang
+僙	guang	2
+銧	guang	3
+黆	guang	2
+臩	guang	2
+俇	guang	2
+桄	guang	5
+臦	guang	2
+撗	guang	3
+邽	gui	5
+茥	gui	2
+帰	gui	7
+胿	gui	2
+亀	gui	5
+窐	gui	2
+袿	gui	2
+椝	gui	2
+郌	gui	2
+嫢	gui	3
+摫	gui	2
+槻	gui	5
+螝	gui	2
+嶲	gui	3
+瞡	gui	2
+膭	gui
+竃	gui	2
+鬶	gui	2
+巂	gui	3
+騩	gui	2
+瓌	gui	4
+櫷	gui	2
+氿	gui	6
+宄	gui	6
+庋	gui	5
+匦	gui	6
+佹	gui	6
+陒	gui	2
+垝	gui	3
+恑	gui	2
+姽	gui	6
+庪	gui	2
+祪	gui	2
+晷	gui	7
+蛫	gui	2
+湀	gui	5
+觤	gui
+厬	gui	2
+簋	gui	7
+蟡	gui
+攰	gui	3
+昋	gui	3
+刿	gui	5
+攱	gui	5
+椢	gui	2
+筀	gui	2
+猤	gui	2
+蓕	gui	2
+溎	gui	2
+撌	gui	2
+禬	gui
+鞼	gui	2
+鱥	gui	2
+惃	gun	2
+绲	gun	5
+蓘	gun	2
+裷	gun
+蔉	gun	2
+磙	gun	5
+鲧	gun	6
+琯	guan
+睔	gun	2
+睴	gun	2
+璭	gun	2
+謴	gun	2
+呙	guo	6
+啯	guo	3
+崞	guo	5
+墎	guo	2
+瘑	guo	4
+鐹	guo	3
+囶	guo	3
+囻	guo	3
+圀	guo	4
+國	guo
+腘	guo	6
+聝	guo	2
+蔮	guo	2
+漍	guo	3
+慖	guo	2
+馘	guo	5
+猓	guo	5
+淉	guo	4
+惈	guo	3
+褁	guo	2
+蜾	guo	5
+綶	guo	2
+輠	guo	2
+腂	guo	3
+铪	ha	5
+胲	hai	5
+烸	hai	2
+酼	hai	2
+醢	hai	6
+嗐	hai	5
+餀	hai	2
+駴	hai	2
+嚡	hai	2
+饚	hai	2
+佄	han	2
+顸	han	5
+哻	han	2
+谽	han	2
+嫨	han	1
+馠	han	2
+邗	han	6
+肣	han	2
+凾	han	3
+唅	han	5
+浛	han	5
+娢	han	2
+圅	han	2
+琀	han	5
+梒	han	2
+崡	han	5
+嵅	han	2
+甝	han	2
+筨	han	2
+蜬	han	2
+鋡	han	2
+澏	han	2
+韓	han
+厈	han	2
+浫	han	2
+蔊	han	3
+豃	han	2
+鬫	han	2
+屽	han	5
+闬	han	5
+垾	han	3
+莟	han	2
+猂	han	2
+涆	han	2
+晘	han	2
+淊	han	2
+睅	han	2
+皔	han	2
+蛿	han
+傼	han
+撖	han	5
+蜭	han	2
+暵	han	2
+鋎	han	2
+熯	han	3
+螒	han	2
+澣	han	4
+顄	han	2
+雗	han
+譀	han	2
+鶾	han	2
+苀	hang	2
+迒	hang	5
+斻	hang	3
+蚢	hang
+笐	hang	2
+颃	hang	5
+貥	hang	2
+筕	hang	2
+魧	hang	2
+嚆	hao	4
+毜	hao	2
+呺	hao	5
+竓	hao
+椃	hao	2
+獆	hao	2
+噑	hao	2
+虠	hao	2
+嘷	hao	3
+獋	hao	2
+諕	hao	2
+儫	hao	2
+籇	hao	2
+譹	hao	2
+昦	hao	2
+秏	hao
+哠	hao	2
+悎	hao	5
+恏	hao	5
+晧	hao	6
+淏	hao	6
+傐	hao	2
+鄗	hao	4
+聕	hao	2
+滈	hao	5
+暤	hao	2
+暭	hao	2
+皞	hao	5
+皜	hao	3
+澔	hao	5
+薃	hao	3
+曍	hao	2
+皡	hao	3
+翯	hao	3
+皥	hao	3
+鰝	hao	2
+抲	he	2
+欱	he	2
+嗬	he	7
+蠚	he	2
+咊	he	3
+姀	he	3
+柇	he	1
+盇	he	2
+峆	he	2
+狢	he	2
+饸	he	5
+籺	he	4
+哬	he	4
+盉	he	5
+萂	he	2
+龁	he	3
+啝	he	4
+秴	he	4
+渮	he	2
+惒	he	2
+訸	he	5
+楁	he	5
+毼	he	2
+鉌	he	2
+貈	he	2
+鲄	he
+詥	he	2
+澕	he	3
+熆	he	2
+翮	he	6
+篕	he	2
+餲	he	2
+鞨	he	2
+礉	he	2
+皬	he	6
+龢	he	5
+佫	he	3
+垎	he	4
+焃	he	2
+寉	he	2
+碋	he
+嗃	he	2
+煂	he	3
+麧	he	2
+鹖	he	5
+熇	he	5
+癋	he	2
+爀	he	3
+燺	he	2
+齃	he	1
+鸖	he	2
+潶	hei	5
+拫	hen	4
+鞎	hen	2
+詪	hen	5
+涥	heng	2
+悙	heng	2
+脝	heng	2
+姮	heng	6
+胻	heng	2
+烆	heng	2
+鸻	heng	4
+鑅	heng	2
+啈	heng	5
+堼	heng	2
+叿	hong	5
+灴	hong	2
+訇	hong	6
+揈	hong	2
+焢	hong	2
+渹	hong	2
+谾	hong	2
+薨	hong	7
+嚝	hong	2
+鍧	hong	5
+仜	hong	2
+屸	hong	3
+妅	hong	2
+玒	hong	2
+呍	hong	2
+吰	hong	2
+闳	hong	7
+汯	hong	3
+纮	hong	5
+玜	hong	2
+苰	hong	2
+宖	hong	2
+垬	hong	3
+荭	hong	7
+竑	hong	5
+娂	hong
+耾	hong	2
+翃	hong	5
+浤	hong	5
+硔	hong	4
+谹	hong	2
+紭	hong	5
+葓	hong	2
+硡	hong
+舼	hong	2
+鈜	hong	3
+竤	hong	3
+粠	hong	3
+渱	hong	3
+谼	hong	2
+翝	hong	2
+鞃	hong	2
+潂	hong	2
+篊	hong	2
+鋐	hong	4
+蕻	hong	5
+霐	hong	2
+黉	hong	6
+彋	hong	2
+霟	hong	2
+晎	hong	2
+閧	hong	2
+撔	hong	2
+銾	hong	2
+澒	hong	5
+澋	hong	5
+闂	hong	5
+闀	hong	5
+矦	hou	4
+葔	hou	2
+帿	hou	2
+睺	hou	4
+銗	hou	2
+骺	hou	7
+篌	hou	7
+糇	hou	2
+翭	hou	2
+鍭	hou	2
+鯸	hou	2
+吽	hou	6
+犼	hou	5
+郈	hou	3
+垕	hou	5
+洉	hou	2
+鄇	hou	2
+堠	hou	5
+豞	hou	2
+鲎	hou	6
+鲘	hou	2
+匢	hu	2
+垀	hu	2
+苸	hu	3
+昒	hu
+曶	hu	3
+泘	hu	3
+轷	hu	4
+烀	hu	5
+恗	hu	2
+匫	hu	2
+虖	hu	3
+唿	hu	6
+淴	hu	2
+雽	hu	2
+雐	hu	2
+嘑	hu	2
+滹	hu	7
+寣	hu
+歑	hu	2
+幠	hu	2
+膴	hu	4
+謼	hu
+瓳	hu	2
+壷	hu
+焀	hu	2
+搰	hu	2
+喖	hu	2
+鹄	hu
+猢	hu	7
+媩	hu	2
+絗	hu	2
+楜	hu	2
+蔛	hu	2
+鹕	hu	5
+嘝	hu	2
+箶	hu	2
+魱	hu	2
+螜	hu
+縠	hu	5
+鴩	hu	1
+頶	hu
+觳	hu	6
+鍸	hu
+瀫	hu
+鰗	hu
+鶮	hu	2
+虍	hu	5
+乕	hu	2
+汻	hu	3
+俿	hu	2
+萀	hu	2
+虝	hu	2
+箎	hu	4
+錿	hu	2
+弖	hu
+冴	hu	7
+冱	hu	5
+帍	hu	3
+枑	hu	2
+昈	hu	2
+岵	hu	5
+怙	hu	6
+戽	hu	5
+祜	hu	6
+婟	hu	2
+綔	hu	5
+摢	hu	5
+蔰	hu
+嫮	hu	3
+嫭	hu	4
+槴	hu	2
+熩	hu
+鳸	hu	2
+擭	hu	3
+濩	hu	5
+簄	hu	2
+鹱	hu	5
+鳠	hu	2
+韄	hu
+頀	hu	2
+芲	hua	4
+蕐	hua	2
+錵	hua	5
+蘤	hua	5
+姡	hua	2
+撶	hua	5
+磆	hua	2
+螖	hua	2
+鋘	hua	2
+夻	hua	2
+杹	hua	2
+崋	hua	5
+觟	hua	2
+嬅	hua	5
+摦	hua	2
+槬	hua	3
+諙	hua	2
+黊	hua	2
+舙	hua	2
+繣	hua	2
+蘳	hua	2
+佪	huai	1
+褢	huai	2
+褱	huai	2
+懐	huai	5
+瀤	huai	2
+櫰	huai	3
+耲	huai	2
+蘹	huai	2
+咶	huai	2
+蘾	huai	2
+欥	huan	3
+歓	huan	5
+懁	huan	2
+鵍	huan
+酄	huan
+嚾	huan	2
+獾	huan	7
+貛	huan	2
+讙	huan	5
+驩	huan	5
+荁	huan	2
+峘	huan	3
+狟	huan
+洹	huan	7
+萈	huan	2
+萑	huan	6
+雈	huan	2
+寏	huan	2
+貆	huan	2
+羦	huan	2
+綄	huan	5
+锾	huan	5
+瞏	huan
+阛	huan	2
+澴	huan	4
+缳	huan	5
+豲	huan	2
+鹮	huan	6
+镮	huan	3
+糫	huan
+轘	huan	2
+睆	huan	3
+輐	huan	2
+攌	huan
+肒	huan
+圂	huan	2
+烉	huan	2
+梙	huan	2
+逭	huan	5
+嵈	huan	2
+愌	huan	2
+瑍	huan	2
+漶	huan	5
+槵	huan	2
+鲩	huan	6
+擐	huan	5
+藧	huan	2
+鰀	huan	2
+巟	huang	4
+衁	huang	2
+塃	huang	2
+偟	huang	3
+堭	huang	2
+揘	huang	2
+葟	huang	2
+喤	huang
+崲	huang	4
+媓	huang	4
+瑝	huang	4
+楻	huang	2
+墴	huang	2
+锽	huang	4
+獚	huang	2
+艎	huang	2
+熿	huang	2
+穔	huang	2
+諻	huang	2
+癀	huang	5
+蟥	huang	5
+鳇	huang	5
+趪	huang
+韹	huang	2
+鷬	huang
+鱑	huang	2
+怳	huang	4
+炾	huang	2
+晄	huang	4
+宺	huang	2
+奛	huang	2
+詤	huang
+熀	huang	4
+櫎	huang	3
+兤	huang	2
+滉	huang	5
+愰	huang	5
+榥	huang
+曂	huang	2
+皝	huang	4
+鎤	huang	2
+皩	huang	2
+灳	hui	2
+拻	hui
+虺	hui	6
+咴	hui	5
+洃	hui	2
+袆	hui	5
+珲	hun
+豗	hui	5
+烣	hui	2
+婎	hui	2
+隓	hui	2
+翚	hui	5
+楎	hui	2
+禈	hui	2
+睳	hui	2
+幑	hui	3
+噕	hui	2
+隳	hui	6
+瀈	hui	2
+鰴	hui	2
+廻	hui
+廽	hui	3
+恛	hui	5
+逥	hui	3
+硘	hui	1
+痐	hui
+蛕	hui
+蜖	hui	2
+烠	hui	2
+毇	hui	2
+檓	hui	2
+屶	hui	2
+屷	hui	2
+泋	hui	2
+哕	hui	7
+浍	hui	6
+芔	hui	5
+恚	hui	7
+翙	hui	5
+阓	hui	2
+湏	hui	3
+缋	hui	5
+颒	hui	2
+詯	hui	3
+彚	hui	2
+蔧	hui	2
+嘒	hui	4
+僡	hui	2
+瘣	hui	2
+槥	hui	4
+暳	hui	2
+圚	hui	2
+潓	hui	4
+憓	hui	2
+寭	hui	2
+璤	hui	2
+薉	hui	2
+橞	hui	3
+徻	hui	3
+嬒	hui	3
+藱	hui
+檅	hui	3
+篲	hui
+餯	hui
+嚖	hui	2
+瞺	hui	2
+蟪	hui	5
+櫘	hui	3
+譓	hui	2
+儶	hui	2
+鏸	hui	2
+譮	hui	2
+鐬	hui	2
+韢	hui	2
+孈	hui	2
+顪	hui	2
+譿	hui	2
+昬	hun	4
+阍	hun	5
+涽	hun	2
+惛	hun	5
+棔	hun	2
+殙	hun	2
+惽	hun	2
+睧	hun	2
+睯	hun
+忶	hun	2
+繉	hun	2
+鼲	hun	2
+诨	hun	7
+俒	hun	2
+倱	hun	2
+掍	hun	3
+焝	hun	2
+溷	hun	7
+慁	hun	2
+觨	hun	1
+吙	huo	5
+剨	huo	2
+耠	huo	4
+锪	huo	5
+劐	huo	5
+騞	huo	2
+佸	huo	6
+秮	huo	2
+秳	huo	3
+趏	huo	2
+邩	huo	2
+钬	huo	7
+漷	huo	5
+沎	huo	2
+咟	huo	3
+捇	huo	2
+眓	huo	2
+閄	huo	2
+俰	huo	2
+掝	huo	2
+旤	huo
+湱	huo	2
+嗀	gu	2
+蒦	huo
+奯	huo	2
+檴	huo	2
+雘	huo	2
+謋	huo
+矆	huo	2
+镬	huo	6
+耯	huo
+攉	huo	5
+蠖	huo	6
+艧	huo	2
+瀖	huo	2
+曤	huo	2
+嚿	huo
+臛	huo	2
+矐	huo	2
+癨	huo	2
+靃	huo	2
+刉	ji	3
+芨	ji	5
+刏	ji	2
+枅	ji	2
+剞	ji	5
+笄	ji	6
+赍	ji	7
+攲	ji	4
+敧	ji	4
+喞	ji	2
+嵆	ji	2
+筓	ji	3
+嗘	ji	5
+稘	ji	2
+鳮	ji	5
+毄	ji	2
+僟	ji	2
+樭	ji	2
+槣	ji	3
+撃	ji	6
+踦	ji	3
+躸	ji	2
+觭	ji	3
+齑	ji	7
+機	ji
+墼	ji	6
+憿	ji	5
+禨	ji	2
+隮	ji	3
+鄿	qi
+賷	ji	2
+簊	ji	2
+耭	ji	2
+鶏	ji	5
+韲	ji	2
+鐖	ji	3
+譤	ji	2
+鞿	ji	3
+虀	ji	3
+羇	ji	5
+鑇	ji	2
+覉	ji	2
+鑙	ji
+鸄	ji	2
+覊	ji	3
+亼	ji	5
+亽	ji	6
+伋	ji	5
+彶	ji	3
+忣	ji
+郆	ji	2
+佶	ji	6
+叝	ji	3
+皍	ji	2
+姞	ji	5
+揤	ji
+觙	ji	2
+卙	ji	3
+楖	ji	3
+偮	ji	2
+谻	ji	2
+脨	ji
+庴	ji	2
+焏	ji	2
+殛	ji	6
+湒	ji	2
+趌	ji	3
+塉	ji	2
+蒺	ji	7
+蝍	ji	2
+愱	ji	2
+耤	ji
+槉	ji	2
+銡	ji	2
+膌	ji	2
+鞊	ji	2
+蕀	ji	2
+蕺	ji	5
+踖	ji	2
+嶯	ji	2
+箿	ji	2
+鹡	ji	2
+濈	ji	4
+潗	ji	3
+橶	ji
+檝	ji
+螏	ji
+蹐	ji	3
+簎	ji	2
+鍓	ji	5
+襋	ji	2
+艥	ji
+轚	ji	2
+霵	ji
+鏶	ji	2
+鷑	ji
+躤	ji
+雦	ji	2
+雧	ji	2
+丮	ji	2
+犱	ji	5
+妀	ji	2
+泲	ji	3
+虮	ji	5
+掎	ji	5
+鱾	ji	2
+撠	ji	2
+穖	ji	2
+彐	ji	5
+彑	ji	3
+旡	ji	5
+坖	ji	2
+芰	ji	6
+垍	ji	4
+茍	ji	2
+哜	ji	5
+峜	ji	2
+洎	ji	7
+畟	ji	2
+剤	ji	5
+紒	ji	2
+萕	ji	2
+梞	ji
+硛	ji	2
+徛	ji	2
+済	ji	5
+惎	ji	3
+葪	ji	2
+蔇	ji	2
+臮	ji	2
+塈	ji	3
+裚	ji
+痵	ji	2
+兾	ji	2
+継	ji	5
+跽	ji	5
+稩	ji	2
+穊	ji	2
+墍	ji	5
+鲚	ji	5
+漈	ji	5
+漃	ji	5
+禝	ji	2
+諅	ji	2
+暩	ji
+穄	ji	2
+縘	ji	2
+檕	ji	2
+罽	ji	5
+齌	ji	2
+鵋	ji	2
+蘎	ji
+穧	ji	2
+鯚	ji
+廭	ji	2
+癠	ji	2
+糭	ji
+懻	ji	2
+蘮	ji	1
+瀱	ji	2
+鱀	ji	2
+蘻	ji	2
+鰿	ji
+鰶	ji	2
+抸	jia	2
+宊	jia
+拁	jia	2
+泇	jia	5
+毠	jia	2
+埉	jia	2
+耞	jia	2
+梜	jia	2
+笳	jia	7
+跏	jia	6
+猳	jia	2
+犌	jia	3
+鉫	jia	2
+腵	jia	2
+豭	jia	4
+貑	jia	2
+糘	jia	2
+麚	jia	2
+圿	jia	2
+扴	jia	2
+郏	jia	6
+恝	jia	5
+唊	jia	2
+𣍰	jia
+铗	jia	5
+袷	jia	5
+蛱	jia	6
+跲	jia	2
+頬	jia	4
+鴶	jia	2
+玾	jia	2
+叚	jia	5
+斚	jia	2
+斝	jia	5
+徦	jia	4
+婽	jia	2
+椵	jia	2
+槚	jia	4
+榎	jia	5
+瘕	jia	7
+幏	jia	3
+榢	jia	2
+戋	jian	6
+冿	jian	5
+姧	jian
+菺	jian	2
+㭴	jian
+猏	jian	2
+惤	jian	3
+揃	jian	5
+靬	jian	2
+葏	jian	2
+葌	jian	2
+犍	jian	6
+牋	jian
+傔	jian	2
+瑊	jian	5
+搛	jian	5
+蒹	jian	5
+椷	jian	2
+椾	jian	5
+碊	jian	2
+豣	jian	2
+睷	jian
+蕑	jian	2
+鹣	jian	6
+熞	jian
+篯	jian	3
+熸	jian	5
+麉	jian	2
+馢	jian	2
+餰	jian
+鞯	jian	5
+鳒	jian	2
+瀐	jian	2
+礛	jian	2
+殱	jian	2
+覸	jian	2
+鵳	jian	2
+鰔	jian	2
+瀸	jian	2
+櫼	jian	2
+譼	jian	2
+韀	jian	2
+囏	jian	2
+虃	jian	2
+鑯	jian
+囝	jian	6
+枧	jian	6
+挸	jian	2
+笕	jian	7
+倹	jian	2
+趼	jian	5
+帴	jian	5
+湕	jian	2
+検	jian	6
+硷	jian	2
+詃	jian	2
+裥	jian	5
+瑐	jian	2
+暕	jian	2
+弿	jian	2
+谫	jian	5
+絸	jian
+戬	jian	5
+彅	jian	3
+襔	jian
+藆	jian
+鎆	jian
+謇	jian	6
+鬋	jian	2
+鹸	jian	2
+鰎	jian	2
+蠒	jian	2
+瀽	jian	3
+鹻	jian	2
+襺	jian
+牮	jian	5
+珔	jian	2
+栫	jian	5
+俴	jian	3
+剣	jian	6
+揵	jian	5
+徤	jian	3
+釼	jian	2
+剱	jian	2
+袸	jian	2
+葥	jian	2
+楗	jian	5
+臶	jian	4
+跈	jian	3
+旔	jian
+寋	jian	2
+賎	jian	3
+蔪	jian	2
+榗	jian	2
+趝	jian
+墹	jian
+踺	jian	5
+劎	jian	2
+諓	jian	2
+糋	jian	2
+橺	jian	2
+橌	xian	2
+劔	jian	3
+鞬	jian	4
+鍳	jian	2
+磵	jian	2
+礀	jian	2
+瞯	jian
+螹	jian
+擶	jian
+繝	jian	2
+覵	jian	2
+鏩	jian	2
+瀳	jian	2
+轞	jian
+鑬	jian
+鑳	jian	5
+茳	jiang	5
+畕	jiang	2
+葁	jiang	2
+摪	jiang	1
+翞	jiang	2
+螀	jiang	3
+壃	jiang	2
+彊	jiang
+橿	jiang	2
+鳉	jiang	3
+礓	jiang	5
+疅	jiang	1
+奨	jiang	5
+耩	jiang	5
+膙	jiang	2
+顜	jiang	2
+匞	jiang	2
+夅	jiang	2
+弜	jiang	3
+杢	jiang	3
+洚	jiang	5
+袶	jiang	2
+弶	jiang	3
+畺	jiang	2
+滰	jiang	2
+摾	jiang	2
+嵹	jiang	2
+醤	jiang	3
+糡	jiang	2
+糨	jiang	6
+櫤	jiang	3
+謽	jiang	2
+芁	jiao	3
+茮	jiao	2
+峧	jiao	4
+焳	jiao	2
+嘄	jiao
+僬	jiao	5
+嶕	jiao	3
+嶣	jiao	2
+骹	jiao	3
+憍	jiao	4
+膲	jiao	2
+燋	jiao	3
+穚	jiao	2
+鹪	jiao	5
+蟭	jiao
+簥	jiao	2
+鷮	jiao	2
+櫵	jiao	2
+纟	jiao	6
+臫	jiao	2
+挢	jiao	5
+恔	jiao	5
+捁	jiao	2
+晈	jiao
+笅	jiao	5
+烄	jiao	3
+筊	jiao	3
+賋	jiao	2
+湬	jiao	3
+敫	jiao	5
+煍	jiao	2
+摷	jiao	2
+暞	jiao	2
+踋	jiao	2
+撹	jiao	5
+劋	jiao	5
+儌	jiao	2
+潐	jiao	2
+敽	jiao	2
+敿	jiao
+徼	jiao	7
+璬	jiao	2
+曒	jiao
+皦	jiao	3
+鵤	jiao
+孂	jiao	2
+纐	jiao
+鱎	jiao
+灚	jiao	2
+呌	jiao	5
+挍	jiao	3
+訆	jiao
+珓	jiao	3
+窌	jiao	2
+斠	jiao	4
+嘂	jiao	2
+嘦	jiao	4
+漖	jiao	4
+噍	jiao	5
+噭	jiao	3
+燞	jiao	2
+獥	jiao	2
+嬓	jiao	2
+藠	jiao	2
+趭	jiao
+譥	jiao	2
+皭	jiao	2
+釂	jiao	2
+掲	jie	2
+菨	jie	2
+痎	jie	2
+堦	jie
+椄	jie	2
+喈	jie	6
+喼	jie	3
+脻	jie	2
+湝	jie	3
+媘	jie	2
+嫅	jie	2
+煯	jie	2
+鞂	jie	2
+擑	jie
+蝔	jie
+鶛	jie	2
+卪	jie	3
+兯	jie	5
+讦	jie	7
+刦	jie	3
+刧	jie	3
+昅	jie	2
+岊	jie	4
+劼	jie	7
+刼	jie	5
+疌	jie	3
+衱	jie	3
+迼	jie	2
+狤	jie
+莭	jie	2
+桝	jie	3
+掶	jie
+崨	jie	2
+偼	jie	2
+袺	jie	2
+絜	jie	6
+蛣	jie	2
+媫	jie
+楬	jie	3
+蜐	jie	2
+嵥	jie	2
+鉣	jie	2
+魝	jie	2
+楶	jie	3
+滐	jie	2
+蓵	jie
+榤	jie	2
+鲒	jie	5
+踕	jie
+誱	jie
+擳	jie	2
+幯	jie
+擮	jie	2
+礍	jie
+嶻	jie	2
+鍻	jie	2
+櫭	jie	2
+巀	jie	2
+蠞	jie
+蠘	jie	2
+蠽	jie	2
+毑	jie	2
+媎	jie	5
+飷	jie
+觧	jie	4
+檞	jie	4
+丯	jie	2
+吤	jie	2
+岕	jie	5
+庎	jie	2
+忦	jie
+妎	jie	2
+玠	jie	5
+斺	jie	4
+砎	jie	2
+畍	jie	2
+衸	jie	2
+悈	jie	2
+徣	jie	2
+堺	jie	6
+琾	jie	4
+楐	jie	2
+蛶	jie	2
+骱	jie	5
+犗	jie	3
+魪	jie
+褯	jie	2
+曁	ji	4
+繲	jie	2
+钅	jin	7
+兓	jin	3
+荕	jin	2
+砛	jin	2
+觔	jin	4
+珒	jin	3
+埐	jin	2
+矝	jin	4
+琎	jin	5
+惍	jin	2
+琻	jin	5
+堻	jin	2
+黅	jin	2
+鹶	jin
+嶜	jin	2
+卺	jin	6
+菫	jin	1
+厪	jin	2
+蓳	jin
+馑	jin	5
+廑	jin	5
+漌	jin	3
+嫤	jin	4
+鏱	jin	2
+伒	jin	4
+劤	jin	5
+妗	jin	7
+枃	jin	5
+侭	jin	2
+荩	jin	5
+浕	jin	2
+赆	jin	5
+祲	jin	5
+煡	jin	2
+搢	jin	5
+溍	jin	3
+寖	jin	5
+瑨	jin	5
+墐	jin	3
+慬	jin	5
+歏	jin	2
+殣	jin	3
+僸	jin	3
+凚	jin	2
+濅	jin	2
+嚍	jin	2
+嬧	jin	3
+璶	jin
+齽	jin	2
+仱	jing
+巠	jing	3
+坕	jing	2
+秔	jing	2
+殑	qing	7
+猄	jing	5
+旍	jing	2
+婛	jing	2
+経	jing	6
+稉	jing
+聙	jing	2
+橸	jing	2
+鵛	jing	1
+鶁	jing	2
+麖	jing	2
+鼱	jing	2
+麠	jing	1
+丼	jing	7
+坓	jing	2
+汫	jing	3
+宑	jing	2
+刭	jing	6
+汬	jing	2
+穽	jing	4
+璄	jing	4
+擏	jing	2
+幜	jing	2
+璥	jing	2
+憼	jing	2
+暻	jing	6
+燝	jing	2
+蟼	jing	2
+陉	jing	5
+妌	jing	3
+弪	jing	5
+浄	jing	6
+婙	jing	2
+倞	jing	5
+梷	jing	2
+竫	jing	2
+竧	jing	2
+傹	jing	2
+踁	jing	2
+獍	jing	5
+誩	jing	4
+頚	jing	2
+曔	jing	2
+瀞	jing	5
+竸	jing	2
+扃	jiong	6
+埛	jiong	5
+扄	shang	2
+駉	jiong	2
+冋	jiong	5
+泂	jiong	4
+侰	jiong	2
+逈	jiong	3
+浻	jiong	3
+宭	jiong	2
+烱	jiong	3
+煚	jiong	3
+颎	jiong	4
+綗	jiong	2
+煛	jiong	2
+僒	jiong
+褧	jiong	3
+澃	jiong	2
+燛	jiong	2
+顈	jiong
+蘏	jiong
+蘔	jiong	2
+丩	jiu	4
+勼	jiu	4
+朻	jiu
+牞	jiu	3
+阄	jiu	7
+萛	jiu	2
+揂	jiu	2
+揫	jiu	3
+摎	jiu	2
+樛	jiu	6
+鬏	jiu	5
+乆	jiu	5
+乣	jiu	4
+汣	jiu	3
+奺	jiu	3
+舏	jiu	2
+镹	jiu	4
+紤	jiu	2
+韮	jiu	5
+匛	jiu	2
+畂	jiu	2
+柾	jiu	5
+桕	jiu	7
+倃	jiu	2
+匓	jiu	2
+廐	jiu	3
+僦	jiu	6
+廏	jiu	2
+慦	jiu	2
+殧	jiu	2
+匶	jiu	2
+鯦	jiu	2
+麔	jiu
+齨	jiu
+圧	ju	6
+凥	ju	2
+苴	ju	6
+匊	ju	2
+捄	ju	2
+挶	ju	2
+砠	ju	3
+眗	ju	2
+罝	ju	5
+痀	ju	2
+陱	ju	2
+梮	ju	2
+崌	ju	3
+涺	ju	2
+娵	ju	2
+婅	ju	4
+婮	ju	2
+椐	ju	6
+跔	ju	2
+锔	ju	5
+腒	ju	2
+蜛	ju	2
+艍	ju	2
+踘	ju	3
+諊	ju	2
+鴡	ju	5
+鮈	ju	3
+鞫	ju	6
+鶋	ju
+泦	ju	2
+狊	ju	3
+毩	ju
+郹	ju
+啹	ju	2
+淗	ju
+椈	ju	5
+毱	ju	5
+湨	ju	2
+輂	ju	2
+犑	ju	2
+蓻	ju	2
+閰	ju	5
+跼	ju
+粷	ju	2
+趜	ju
+躹	ju	2
+檋	ju	2
+鵙	ju	2
+蹫	ju	2
+鵴	ju
+蘜	ju	2
+巈	ju	2
+鼰	ju	2
+鼳	ju	1
+驧	ju	1
+弆	ju	3
+挙	ju	5
+椇	ju	3
+筥	ju	3
+蒟	ju	6
+聥	ju
+踽	ju	6
+襷	ju	2
+讵	ju	7
+岠	ju	3
+邭	ju	2
+洰	ju	5
+怇	ju	2
+姖	ju	3
+坥	qu	2
+拠	ju	5
+歫	ju	2
+昛	ju	2
+怚	ju	2
+钜	ju
+秬	ju	5
+耟	ju
+蚷	ju	2
+粔	ju	2
+烥	ju	2
+冣	ju	2
+袓	ju	5
+埧	ju	2
+埾	ju	2
+焣	ju	2
+跙	ju	2
+犋	ju	4
+豦	ju	2
+虡	ju	3
+駏	ju	2
+愳	ju	2
+窭	ju	5
+勮	ju	6
+鮔	ju	2
+屦	ju	6
+壉	ju	2
+澽	ju	3
+懅	ju
+簴	ju	2
+醵	ju	5
+躆	ju	2
+鐻	ju	2
+爠	ju	2
+姢	juan	5
+梋	xuan	2
+瓹	juan	2
+脧	juan	2
+裐	juan	2
+勬	juan	4
+鋑	juan	2
+鞙	juan	2
+蠲	juan	7
+呟	juan	2
+巻	juan
+埍	juan	3
+菤	juan	2
+锩	juan	5
+臇	juan	2
+奆	juan	2
+帣	juan	2
+弮	juan	2
+桊	juan	4
+勌	juan	2
+悁	juan	3
+鄄	juan	6
+淃	juan	4
+睊	juan
+罥	juan	5
+絭	juan	2
+睠	juan	2
+飬	juan	2
+蔨	juan
+慻	juan	2
+餋	juan	2
+獧	juan	2
+羂	juan	3
+屫	jue	1
+亅	jue	6
+孒	jue	6
+夬	jue	5
+叏	jue	5
+氒	jue	2
+刔	jue	2
+芵	jue
+吷	jue	3
+妜	jue	3
+玦	jue	6
+泬	jue	5
+挗	jue	2
+砄	jue	2
+虳	jue	2
+疦	jue	2
+捔	jue	3
+蚗	jue	2
+欮	jue	2
+赽	jue	3
+殌	jue	3
+覐	jue	2
+趹	jue	2
+觖	jue	5
+斍	jue
+焆	jue	2
+逫	jue	2
+趉	jue	2
+傕	jue	2
+鈌	jue	2
+覚	jue	6
+瑴	jue	3
+劂	jue	5
+勪	jue	5
+镼	jue	2
+爴	jue	2
+嶡	jue	3
+嶥	jue	2
+瘚	jue	2
+熦	jue	2
+潏	jue	5
+憰	jue	2
+鴂	jue	4
+璚	jue	3
+橛	jue	6
+橜	jue	2
+憠	jue	2
+镢	jue	5
+臄	jue	2
+蟨	jue	2
+蟩	jue	2
+蹷	jue	2
+爑	jue
+矍	jue	7
+觼	jue	2
+爝	jue	5
+鷢	jue
+玃	jue	3
+戄	jue	2
+彏	jue	2
+欔	jue	2
+龣	jue
+矡	jue	2
+躩	jue	2
+貜	jue	2
+抣	jun	2
+汮	jun	2
+袀	jun	3
+莙	jun	5
+蚐	jun	2
+桾	jun	4
+碅	jun	2
+銞	jun	2
+覠	jun	2
+皹	jun	2
+鲪	jun	2
+麇	jun	5
+鍕	jun	5
+麏	jun	2
+麕	jun	4
+呁	jun	2
+陖	jun
+捃	jun	5
+埈	jun	2
+馂	jun	2
+晙	jun	3
+葰	jun	3
+棞	jun	2
+畯	jun	5
+蜠	jun	2
+箟	jun	1
+箘	jun	3
+懏	jun	2
+寯	jun	3
+燇	jun	2
+鵔	jun	1
+鵘	jun	2
+鵕	jun	2
+攈	jun	2
+攟	jun	3
+衉	ka	2
+佧	ka	5
+胩	ka	4
+奒	kai	2
+锎	kai	5
+垲	kai	5
+闿	kai	5
+蒈	kai	5
+輆	kai	2
+暟	kai	4
+颽	kai
+炌	kai	2
+炏	kai	3
+欬	kai	4
+烗	kai	2
+勓	kai	2
+鎎	kai	2
+栞	kan	6
+冚	kan	5
+莰	kan	5
+埳	kan	2
+偘	kan	2
+惂	kan	2
+欿	kan	2
+塪	kan	2
+歁	kan	2
+輡	kan
+轁	kan	2
+顑	kan	2
+衎	kan	5
+崁	kan	5
+墈	kan	3
+阚	kan
+磡	kan	7
+矙	kan	3
+闶	kang	5
+粇	kang	2
+嵻	kang	2
+漮	kang	2
+嫝	kang	2
+槺	kang	4
+穅	kang	2
+躿	kang
+鏮	kang	2
+𩾌	kang
+摃	kang
+匟	kang	2
+邟	kang	2
+囥	kang	2
+犺	kang	5
+砊	kang	2
+钪	kang	6
+嵪	kao	2
+髛	kao	2
+丂	kao	4
+洘	kao	3
+栲	kao	6
+薧	kao	2
+鲓	kao	2
+鯌	kao
+匼	ke	3
+胢	ke	1
+牁	ke	3
+趷	ke	2
+钶	ke	5
+蚵	ke	6
+萪	ke	2
+嵙	ke	3
+搕	ke	2
+犐	ke	3
+薖	ke	2
+榼	ke	5
+樖	ke	2
+醘	ke	2
+礚	ke	3
+揢	ke	2
+翗	ke	2
+嶱	ke
+岢	ke	6
+炣	ke	3
+敤	ke	5
+嵑	ke
+兙	ke	2
+勀	ke	5
+勊	ke	2
+峇	ke	5
+兛	ke	2
+袔	ke	2
+娔	ke
+堁	ke	4
+兞	ke	2
+骒	ke	5
+缂	ke	5
+兡	ke	2
+锞	ke	6
+愙	ke	5
+碦	ke	2
+礊	ke	2
+肎	ken	2
+肻	ken	2
+豤	ken	1
+貇	ken	2
+錹	ken	2
+掯	ken	2
+硍	ken	3
+裉	ken	5
+褃	ken
+劥	keng	4
+阬	kang
+妔	keng	2
+挳	keng	2
+硁	keng	3
+牼	keng
+硻	keng	2
+誙	keng	2
+銵	keng
+鍞	keng	5
+埪	kong
+涳	kong	5
+悾	kong	3
+硿	kong	3
+躻	kong	2
+錓	kong	2
+鵼	kong	3
+鞚	kong	3
+芤	kou	5
+眍	kou	4
+彄	kou	2
+劶	kou	2
+竘	kou	2
+怐	kou	2
+敂	kou	5
+宼	kou	3
+冦	kou	3
+筘	kou	5
+窛	kou	4
+蔲	kou	3
+滱	kou	2
+瞉	kou	2
+簆	kou	2
+鷇	kou	5
+扝	ku	2
+矻	ku	2
+刳	ku	7
+郀	ku
+桍	ku	2
+崫	ku	2
+跍	ku	2
+圐	ku	2
+狜	ku	2
+楛	ku	5
+俈	ku	2
+绔	ku	6
+秙	ku	2
+焅	ku	2
+袴	ku	5
+喾	ku	7
+瘔	ku	2
+鮬	ku	2
+姱	kua	4
+晇	kua	2
+舿	kua	2
+侉	kua	6
+咵	kua	5
+銙	kua	2
+骻	kua	2
+蒯	kuai	7
+巜	kuai	7
+圦	kuai	2
+凷	kuai	3
+郐	kuai	5
+哙	kuai	5
+狯	kuai	5
+鲙	kuai	5
+墤	kuai	2
+廥	kuai	2
+旝	kuai
+糩	kuai	2
+寛	kuan	3
+鑧	kuan
+梡	kuan	3
+欵	kuan	3
+歀	kuan	3
+窽	kuan
+窾	kuan	4
+邼	kuang	2
+劻	kuang	2
+诓	kuang	7
+匩	kuang	2
+洭	kuang	2
+恇	kuang	3
+軭	kuang	1
+筺	kuang	2
+抂	kuang	2
+狅	kuang	5
+軖	kuang	2
+軠	kuang	2
+夼	kuang	6
+懭	kuang	2
+纩	kuang	5
+岲	kuang
+昿	kuang	2
+贶	kuang	5
+砿	kuang	2
+眖	kuang	2
+絋	kuang
+軦	kuang	2
+絖	kuang	2
+鉱	kuang	3
+鋛	kuang	2
+黋	kuang	2
+懬	kuang	2
+爌	kuang	3
+矌	kuang	2
+穬	kuang
+刲	kui	4
+悝	kui	5
+聧	kui	2
+顝	kui	2
+蘬	kui	2
+晆	kui	2
+頄	kui	2
+馗	kui	6
+鄈	kui	2
+骙	kui	3
+楏	kui	2
+楑	kui	2
+暌	kui	7
+戣	kui	5
+頯	kui	2
+藈	kui	2
+櫆	kui	4
+鍷	kui	2
+鍨	kui	5
+蘷	kui	2
+虁	kui	2
+巙	kui	3
+躨	kui	2
+尯	kui	5
+跬	kui	5
+煃	kui	2
+磈	kui	3
+蹞	kui	2
+卼	kui	2
+欳	kui	2
+蒉	kui	5
+愦	kui	5
+媿	kui
+瞆	kui	2
+聭	kui	2
+樻	kui	5
+餽	kui
+籄	kui	2
+鐀	kui	2
+鑎	kui
+堒	kun	2
+菎	kun	2
+晜	kun	2
+猑	kun	2
+裈	kun	3
+婫	kun
+髠	kun	2
+髡	kun	6
+鹍	kun	5
+裩	kun	2
+髨	kun	2
+尡	kun	2
+蜫	kun	2
+潉	kun	2
+熴	kun
+阃	kun	6
+悃	kun	5
+壸	kun	5
+祵	kun	2
+硱	kun	2
+稇	kun	2
+裍	kun
+稛	kun	2
+閸	kun	3
+涃	kun	2
+拡	kuo	5
+桰	kuo
+葀	kuo	2
+萿	kuo	4
+蛞	kuo	6
+筈	kuo	3
+煀	kuo	2
+彉	kuo	4
+噋	kuo	2
+頢	kuo
+髺	kuo	2
+鞟	kuo	2
+彍	kuo	3
+韕	kuo
+霩	kuo	2
+懖	kuo	2
+鞹	kuo	2
+柆	la	3
+菈	la	5
+翋	la	2
+搚	la	2
+磖	la
+砬	la	6
+揦	la	2
+藞	la	2
+嚹	la	2
+溂	la	4
+楋	la	2
+揧	la	2
+辢	la	2
+蝋	la
+瘌	la	5
+蝲	la	3
+鬎	la	2
+瓎	la
+镴	la	3
+鯻	la	2
+鞡	la	2
+俫	lai	4
+郲	lai	2
+崃	lai	5
+梾	lai	5
+逨	lai	2
+唻	lai	6
+猍	lai	2
+庲	lai	2
+琜	lai	2
+铼	lai	6
+筙	lai	2
+箂	lai	2
+騋	lai	2
+鶆	lai
+鯠	lai	2
+𠡠	chi
+赉	lai	6
+頼	lai	5
+鵣	lai
+藾	lai	3
+櫴	lai	2
+葻	lan	2
+厱	lan	2
+儖	lan
+镧	lan	7
+燷	lan	2
+燣	lan	2
+懢	lan	2
+襕	lan	5
+譋	lan	2
+灆	lan	2
+礷	lan
+籣	lan	5
+欗	lan	5
+襽	lan	1
+钄	lan	2
+韊	lan
+浨	lan	2
+罱	lan	5
+漤	lan	5
+醂	lan	1
+覧	lan	7
+擥	lan
+孏	lan	2
+灠	lan	2
+爦	lan	2
+燗	lan
+壏	lan	2
+嚂	lan	2
+爁	lan	2
+蘫	lan	3
+瓓	lan	2
+爤	lan	2
+糷	lan	2
+啷	lang	7
+勆	lang	2
+欴	lang	2
+蓈	lang	2
+桹	lang	3
+斏	lang	3
+嫏	lang	4
+瑯	lan
+硠	lang	2
+稂	lang	5
+𨱍	lang
+筤	lang	2
+艆	lang
+郒	lang	2
+躴	lang	2
+駺	lang	2
+悢	lang	3
+朖	lang	2
+烺	lang	5
+蓢	lang	5
+塱	lang	5
+樃	lang	2
+誏	lang	2
+朤	lang	4
+埌	lang	5
+崀	lang	6
+蒗	lang	5
+唥	lang	4
+粩	lao	3
+労	lao	5
+狫	lao	2
+窂	lao	2
+哰	lao
+崂	lao	6
+浶	lao	2
+铹	lao	5
+僗	lao
+憦	lao
+憥	lao	2
+磱	lao	2
+蟧	lao	2
+簩	lao	5
+顟	lao	2
+髝	lao	1
+耂	lao	5
+荖	lao	5
+咾	lao	5
+恅	lao	2
+珯	lao	6
+栳	lao	5
+硓	lao
+铑	lao	7
+蛯	lao	2
+橑	lao	3
+鮱	lao
+轑	lao	2
+耢	lao	5
+嗠	lao	2
+嫪	lao	5
+躼	lao	1
+軂	lao
+仂	le	5
+阞	le	2
+扐	le	3
+艻	le	2
+氻	le	2
+忇	le	3
+玏	le	4
+泐	le	5
+竻	le	5
+砳	le	3
+韷	le	2
+簕	le	5
+鳓	le	5
+饹	ge	3
+蔂	lei	2
+畾	lei	5
+檑	lei	5
+瓃	lei	2
+櫑	lei	2
+礧	lei	2
+蘲	lei
+罍	lei	5
+靁	lei	4
+壨	lei	2
+鱩	lei	2
+欙	lei	2
+纝	lei	2
+鼺	lei	2
+厽	lei	2
+诔	lei	7
+塁	lei	3
+絫	lei	3
+傫	lei	2
+蕌	lei	2
+樏	lei	2
+磥	lei	4
+藟	lei	3
+癗	lei	2
+矋	lei	2
+櫐	lei	2
+礨	lei	2
+蠝	lei	2
+灅	lei
+蘽	lei	2
+讄	lei
+儽	lei	2
+鑘	lei	2
+鸓	lei	2
+鑸	lei	5
+洡	lei	2
+銇	lei	4
+頛	lei
+頪	lei	2
+錑	lei	2
+攂	lei	2
+礌	lei	5
+颣	lei	2
+蘱	lei
+禷	lei
+塄	leng	5
+碐	leng	2
+踜	leng	2
+薐	leng	2
+堎	leng	5
+睖	leng	2
+唎	li	5
+刕	li	3
+荲	li	2
+剓	li	2
+㛤	li
+菞	li	2
+梸	li	2
+悡	li	2
+棃	li	3
+犂	li	4
+剺	li	2
+蓠	li	6
+睝	li	2
+筣	li	3
+艃	li	2
+缡	li	5
+孷	li	2
+嫠	li	5
+樆	li	1
+貍	li
+竰	li	2
+盠	li	2
+蔾	li	2
+鋫	li	2
+鲡	li	6
+糎	li	2
+褵	li	3
+錅	li	2
+醨	li	5
+蟍	li
+謧	li	1
+嚟	li	6
+邌	li
+鯏	li
+斄	li	3
+鵹	li	2
+鏫	li	2
+黧	li	6
+囄	li	5
+蠫	li	2
+廲	li	2
+鑗	li
+劙	li	2
+矖	li	2
+穲	li	2
+峛	li	2
+峲	li	2
+粴	li	2
+蟸	li	2
+鳢	li	6
+欚	li	2
+屴	li	3
+朸	li	2
+坜	li	5
+苈	li	6
+叓	li	2
+呖	li	5
+苙	li	3
+岦	li	4
+沴	li	4
+赲	li	2
+茘	li	3
+栎	li
+砅	li	2
+轹	li	5
+疬	li	7
+珕	li	2
+栵	li	2
+栛	li	2
+秝	li	3
+猁	li	6
+悧	li	3
+娳	li	2
+婯	li	3
+蚸	li	2
+脷	li	5
+粝	li	6
+悷	li	3
+棙	li	2
+蛠	li	2
+詈	li	7
+凓	li	2
+塛	li	2
+搮	li	2
+蒚	li	2
+厯	li	3
+鳨	li
+溧	li	7
+瑮	li	2
+歴	li	6
+暦	li	4
+蜧	li	2
+篥	li	5
+檪	li	3
+磿	li	2
+巁	li	2
+櫔	li	2
+曞	li	5
+蠇	li	1
+犡	li	2
+儮	li	5
+禲	li	2
+瓅	li	5
+攊	li	2
+瓑	li	5
+皪	li	4
+爏	li	2
+盭	li	2
+礰	li	2
+麜	li	2
+攦	li	2
+囇	li	2
+讈	li
+攭	li	2
+瓥	li	2
+鱱	li
+靋	li	1
+瓈	li	3
+嫾	lian	3
+𦈐	lian
+梿	lian	3
+裢	lian	5
+亷	lian	4
+溓	lian	2
+慩	lian	2
+覝	lian	2
+熑	lian	2
+聨	lian	4
+聫	lian	2
+磏	lian	2
+噒	lian	2
+劆	lian	2
+聮	lian	2
+薕	lian	2
+螊	lian	1
+濓	lian	5
+翴	lian	2
+櫣	lian	2
+蹥	lian
+臁	lian	5
+謰	lian	2
+燫	lian	3
+蠊	lian	5
+鬑	lian	2
+譧	lian	2
+籨	lian	2
+裣	lian	5
+蔹	lian	6
+嬚	lian	2
+鄻	lian
+歛	lian
+羷	lian	2
+蘝	lian	2
+浰	lian	3
+堜	lian	5
+萰	lian	2
+僆	lian	2
+湅	lian	6
+媡	lian	2
+瑓	lian	2
+摙	lian	2
+稴	lian	2
+錬	lian	5
+澰	lian	2
+鰊	lian	2
+纞	lian	5
+簗	liang	2
+俍	liang	3
+椋	liang	6
+辌	liang	2
+蜋	liang	3
+墚	liang	5
+冫	liang	7
+両	liang	6
+唡	liang	2
+脼	liang	2
+裲	liang
+蜽	liang	2
+緉	liang	2
+哴	liang	3
+喨	liang	3
+湸	liang	3
+輌	liang	5
+煷	liang	2
+蹽	liao	2
+嵺	liao	3
+膋	liao	2
+漻	liao	3
+憀	liao	3
+敹	liao	5
+嶚	liao	2
+嶛	liao	2
+憭	liao	3
+嫽	liao	3
+璙	liao	2
+暸	liao	5
+膫	liao	2
+窷	liao	2
+鹩	liao	7
+竂	liao	3
+藔	liao	2
+賿	liao	1
+蹘	liao	2
+蟟	liao
+簝	liao	2
+豂	liao	2
+廫	liao	2
+屪	liao	2
+镽	liao
+爎	liao	3
+髎	liao	5
+飉	liao	2
+钌	liao	7
+鄝	liao	2
+爒	liao	2
+尥	liao	5
+尦	liao	2
+炓	liao	3
+尞	liao	4
+蟉	liao	2
+毟	lie	2
+挘	lie	2
+埓	lie	2
+劽	lie	2
+挒	lie	3
+茢	lie	2
+迾	lie	2
+姴	lie	2
+峢	lie	2
+洌	lie	7
+埒	lie	6
+烮	lie	3
+浖	lie	3
+脟	lie	2
+猟	lie	4
+蛚	lie	2
+趔	lie	7
+聗	lie
+睙	lie	4
+煭	lie	3
+颲	lie	2
+巤	lie	2
+儠	lie	2
+擸	lie	2
+犣	lie	2
+爉	lie	2
+鬛	lie	3
+躐	lie	5
+厸	lin	3
+崊	lin	2
+惏	lin	3
+晽	lin	3
+粦	lin	5
+碄	lin	2
+箖	lin	3
+獜	lin	2
+潾	lin	5
+璘	lin	6
+暽	lin	2
+斴	lin	2
+燐	lin
+瞵	lin	5
+疄	lin	3
+麐	lin	3
+翷	lin	2
+繗	lin	2
+蹸	lin	2
+鏻	lin	3
+瀶	lin	2
+驎	lin	3
+菻	lin	5
+撛	lin	2
+澟	lin	2
+顲	lin	2
+恡	lin	2
+悋	lin	2
+焛	lin	2
+亃	lin	2
+僯	lin	2
+橉	lin	2
+甐	lin	2
+躙	lin
+轥	lin	2
+刢	ling	2
+阾	ling	3
+夌	ling	5
+坽	ling
+岺	ling	5
+彾	ling	5
+狑	ling	1
+姈	ling	3
+柃	ling	5
+昤	ling	3
+朎	ling	2
+砱	ling	2
+秢	ling	2
+倰	ling	2
+皊	ling	3
+鸰	ling	5
+竛	ling	2
+袊	ling	2
+琌	ling	3
+掕	ling	2
+蛉	ling	6
+崚	ling	5
+笭	ling	3
+衑	ling	2
+舲	ling	4
+婈	ling	2
+紷	ling	3
+跉	ling	2
+詅	ling	2
+祾	ling	4
+蓤	ling	2
+裬	ling	2
+駖	ling	2
+輘	ling	2
+霊	ling	6
+蕶	ling	3
+霗	ling	2
+鹷	ling
+魿	ling	2
+澪	ling	6
+霝	ling	2
+齢	ling
+燯	ling	2
+酃	ling	5
+瀮	ling	3
+蘦	ling	2
+孁	ling	2
+醽	ling	2
+麢	ling	2
+龗	ling	3
+炩	ling	4
+熘	liu	7
+沠	liu	2
+畄	liu	5
+旈	liu	4
+裗	liu	2
+蒥	liu	2
+蓅	liu	5
+嵧	liu	2
+旒	liu	6
+媹	liu	2
+瑠	liu	7
+飗	liu	3
+駠	liu
+磂	liu	2
+镏	liu	7
+鹠	liu	2
+瑬	liu	4
+璢	liu
+橊	liu	3
+疁	liu	3
+镠	liu	5
+駵	liu	2
+癅	liu	2
+藰	liu	2
+嚠	liu	2
+麍	liu	2
+懰	liu	2
+鐂	liu	2
+鰡	liu	2
+飅	liu	2
+驑	liu	2
+珋	liu	3
+栁	liu	4
+桞	liu	3
+桺	liu	3
+锍	liu	5
+罶	liu	2
+熮	liu	2
+橮	liu	2
+羀	liu	2
+嬼	liu	2
+塯	liu	3
+廇	liu	3
+澑	liu	2
+磟	liu	1
+鹨	liu	5
+蹓	liu	3
+雡	liu	2
+鬸	liu
+飂	liu	2
+囖	lo	5
+栊	long	7
+昽	long	3
+砻	long	7
+竜	long	6
+湰	long	5
+蕯	long
+槞	long	2
+嶐	long	2
+漋	long	2
+篭	long	2
+癃	long	7
+鏧	long	2
+霳	long	2
+巃	long	5
+巄	long	2
+礲	long	2
+龒	long	6
+襱	long
+蠬	long	1
+蠪	long	2
+豅	long	2
+靇	long	2
+鑨	long	2
+驡	long	2
+儱	long	2
+竉	long	2
+梇	long	2
+硦	long	2
+衖	long	3
+蒌	lou	7
+溇	lou	5
+廔	lou	2
+耧	lou	5
+艛	lou	2
+軁	lou
+鞻	lou	2
+嵝	lou	5
+甊	lou	2
+屚	lou	2
+氇	lu	5
+謢	lu	2
+垆	lu	6
+枦	lu	2
+栌	lu	6
+轳	lu	6
+舮	lu
+舻	lu	6
+玈	lu	2
+鈩	lu	2
+魲	lu	2
+璷	lu	2
+攎	lu	2
+獹	lu
+瓐	lu	2
+籚	lu	2
+纑	lu	2
+髗	lu	2
+黸	lu	2
+捛	lu	2
+挔	lu	2
+硵	lu	2
+塷	lu	2
+蓾	lu	2
+樐	lu	2
+澛	lu
+镥	lu	5
+鏀	lu	5
+圥	lu	3
+甪	lu	5
+坴	lu	2
+侓	lu	5
+峍	lu
+勎	lu	2
+辂	lu	5
+菉	lu	5
+硉	lu	2
+淕	lu	2
+渌	lu	6
+娽	lu	2
+翏	lu	2
+琭	lu	5
+椂	lu	5
+睩	lu	3
+稑	lu	2
+僇	lu	5
+盝	lu	3
+剹	lu	2
+勠	lu	6
+塶	lu	2
+摝	lu	3
+蔍	lu	2
+箓	lu	6
+廘	lu	2
+粶	lu	5
+漉	lu	7
+趢	lu	2
+樚	lu	2
+醁	lu	2
+踛	lu	2
+膔	lu	2
+膟	lu	2
+觮	lu	2
+熝	lu	2
+蕗	lu	5
+穋	lu	2
+錴	lu
+螰	lu	2
+簏	lu	5
+鴼	lu	2
+蹗	lu	1
+簶	lu	2
+鵱	lu
+簵	lu	2
+簬	lu	5
+鵦	lu
+鏕	lu	2
+鯥	lu	2
+鏴	lu	3
+觻	lu	2
+虂	lu	2
+娈	luan	7
+脔	luan	7
+鵉	luan	2
+圝	luan	5
+奱	luan	2
+曫	luan	2
+灓	luan	2
+羉	luan	2
+虊	luan	2
+癴	luan	2
+癵	luan	2
+釠	luan	2
+薍	luan	5
+寽	lue	3
+剠	lue	2
+稤	lue	2
+陯	lun	2
+崘	lun	2
+惀	lun	2
+婨	lun
+棆	lun	3
+腀	lun	2
+碖	lun	2
+耣	lun
+蜦	lun	2
+踚	lun	2
+磮	lun	2
+鯩	lun	2
+稐	lun	2
+埨	lun	2
+溣	lun	2
+頱	luo	2
+脶	luo	4
+椤	luo	7
+镙	luo	6
+覶	luo	2
+鸁	luo	2
+剆	luo	2
+砢	luo	3
+倮	luo	7
+蓏	luo	3
+躶	luo
+瘰	luo	6
+蠃	luo	5
+臝	luo	3
+攞	luo	5
+曪	luo	3
+癳	luo	2
+峈	luo	2
+洜	luo	4
+笿	luo
+摞	luo	6
+漯	luo	6
+鮥	luo	2
+鵅	luo	2
+纙	luo	2
+鱳	li	2
+馿	lv	5
+氀	lv	2
+藘	lv	2
+鷜	lv	2
+郘	lv
+梠	lv	5
+焒	lv	2
+祣	lv	2
+稆	lv	5
+絽	lv	2
+膂	lv	6
+膐	lv	2
+穞	lv
+儢	lv	2
+垏	lv	2
+哷	lv	2
+葎	lv	4
+嵂	lv	5
+箻	lv	2
+勴	lv	3
+櫖	lv
+爈	lv	2
+卛	lv	2
+鑢	lv	2
+锊	lue	5
+圙	lue	4
+鋢	lue	2
+痲	ma
+嫲	ma	5
+犘	ma	3
+蟇	ma	2
+遤	ma	2
+溤	ma	2
+鷌	ma	2
+鰢	ma	2
+杩	ma	7
+祃	ma	3
+閁	ma	4
+睰	ma	2
+礣	ma	2
+鬕	ma	2
+荬	mai	5
+鷶	mai	2
+佅	mai	2
+衇	mai	2
+霡	mai	2
+颟	man	5
+姏	man	5
+悗	man	5
+慲	man	2
+鞔	man	5
+鬗	man
+鬘	man	5
+矕	man	2
+屘	man	2
+睌	man	5
+鏋	man	5
+鄤	man	2
+僈	man	2
+墁	man	5
+摱	man	3
+蔄	man	2
+獌	man	2
+嫚	man	6
+缦	man	7
+槾	man	5
+熳	man	6
+澫	man	2
+镘	man	5
+澷	man
+牤	mang	5
+邙	mang	5
+吂	mang	3
+汒	mang	2
+杧	mang	5
+尨	mang	6
+杗	mang	2
+甿	mang	3
+厖	mang	3
+笀	mang	5
+恾	mang	2
+哤	mang	2
+狵	mang	2
+庬	mang	2
+浝	mang	2
+娏	mang	2
+硭	mang	5
+铓	mang	4
+牻	mang	4
+釯	mang	2
+朚	mang	2
+痝	mang
+蛖	mang	2
+駹	mang	2
+蘉	mang	2
+莾	mang	3
+茻	mang	5
+壾	mang
+漭	mang	5
+蠎	mang	2
+茆	mao	7
+枆	mao	2
+罞	mao	2
+旄	mao	6
+軞	mao	2
+酕	mao	2
+渵	mao	2
+堥	mao	5
+嵍	mao
+緢	mao	5
+髳	mao	2
+蝥	mao	6
+蟊	mao	6
+鶜	mao	2
+夘	mao	3
+戼	mao	2
+峁	mao	7
+泖	mao	5
+笷	mao	2
+蓩	mao
+冃	mao	5
+芼	mao	5
+皃	mao	5
+眊	mao	4
+覒	mao
+鄚	mao	3
+媢	mao	2
+楙	mao	4
+毷	mao	2
+獏	mo	3
+暓	mao	2
+愗	mao	2
+鄮	mao	3
+瞀	mao	5
+蝐	mao	2
+霿	mao	2
+孭	mie	2
+嚒	me	6
+嚰	me	3
+癦	me	2
+庅	me	5
+苺	mei
+栂	mei	2
+脄	mei	2
+珻	mei	3
+脢	mei	3
+郿	mei	5
+堳	mei	2
+葿	mei	3
+睂	mei	2
+猸	mei	2
+湈	mei	2
+瑂	mei	3
+楳	mei	3
+腜	mei
+禖	mei	2
+镅	mei	5
+塺	mei	2
+鹛	mei	5
+徾	mei	2
+矀	mei	3
+攗	mei
+蘪	mei	2
+凂	mei	2
+挴	mei
+浼	mei	6
+嵄	mei	2
+渼	mei	5
+媄	mei	5
+媺	mei	5
+嬍	mei	2
+燘	mei	2
+黣	mei	2
+抺	mei	5
+沬	mei	6
+祙	mei	5
+眛	mei	4
+跊	mei
+鬽	mei	3
+痗	mei	2
+煝	mei	2
+睸	mei	2
+韎	mei	2
+蝞	mei
+篃	mei	2
+嚜	me	5
+钔	men	6
+閅	men	2
+菛	men	2
+虋	men	2
+暪	men	3
+擝	meng	2
+莔	meng	5
+冡	meng	4
+掹	meng	2
+溕	meng	2
+甍	meng	6
+蕄	meng	2
+瞢	meng	5
+鄸	meng	2
+橗	meng	2
+儚	meng	5
+蝱	meng	2
+幪	meng	3
+獴	meng	4
+濛	meng
+氋	meng	2
+曚	meng	5
+鹲	meng
+礞	meng	5
+鯍	meng
+艨	meng	5
+矒	meng	2
+靀	meng	2
+饛	meng	2
+顭	meng	2
+鼆	meng	2
+瓾	meng	2
+艋	meng	5
+蠓	meng	5
+鯭	meng	2
+夣	meng	3
+懜	meng	3
+霥	meng	2
+冞	mi	2
+猕	mi	5
+蒾	mi	4
+詸	mi	2
+穈	mi	2
+縻	mi	6
+麊	mi	2
+檷	mi	2
+麛	mi	3
+镾	mi	2
+劘	mi	2
+攠	mi	3
+戂	mi	2
+爢	mi	2
+醾	mi	2
+醿	mi	2
+鸍	mi	2
+釄	mi	2
+侎	mi	3
+沵	mi	7
+洣	mi	5
+眫	mi
+脒	mi	6
+敉	mi	5
+粎	mi	2
+葞	mi
+渳	mi	2
+蔝	mi
+銤	mi
+灖	mi	2
+孊	mi	2
+宓	mi	7
+峚	mi	2
+宻	mi	2
+淧	mi	2
+塓	mi	2
+幎	mi	2
+蔤	mi	2
+榓	mi	2
+熐	mi	2
+漞	mi	2
+滵	mi	2
+鼏	mi	2
+樒	mi	2
+濗	mi	2
+幦	mi	2
+藌	mi	2
+櫁	mi	2
+羃	mi	3
+簚	mi	2
+芇	mian	3
+杣	mian	3
+婂	mian	5
+蝒	mian
+臱	mian	2
+嬵	mian	2
+檰	mian	4
+櫋	mian	2
+矈	mian
+矊	mian	2
+矏	mian	2
+丏	mian	5
+汅	mian	3
+沔	mian	6
+眄	mian	5
+俛	mian	5
+勔	mian	2
+偭	mian	5
+喕	mian
+愐	mian	2
+媔	mian	3
+絻	mian	2
+糆	mian	2
+麺	mian	5
+媌	miao	3
+鹋	miao	6
+嫹	miao	2
+鱙	miao	2
+杪	miao	7
+篎	miao	2
+竗	miao	2
+玅	miao
+庿	miao	2
+吀	mie	5
+哶	mie	2
+烕	mie	2
+覕	mie	2
+搣	mie	3
+薎	mie	2
+鴓	mie	2
+幭	mie	2
+瀎	mie	2
+懱	mie
+櫗	mie	2
+蠛	mie	5
+鑖	mie	2
+鱴	mie
+苠	min	4
+旼	min	5
+怋	min	2
+姄	min	2
+盿	min	2
+罠	min	5
+冧	lin	7
+捪	min	2
+崏	min	3
+渂	min	2
+琝	min	2
+琘	min	2
+缗	min	6
+碈	min	2
+鈱	min	2
+痻	min	2
+暋	min	3
+賯	min	2
+錉	min	2
+鴖	min	2
+鍲	min
+冺	min	2
+刡	min	2
+垊	min	2
+呡	min	3
+勄	min	2
+敃	min	1
+笢	min	5
+敯	min	4
+愍	min	7
+慜	min	5
+僶	min	3
+鳘	min	5
+蠠	min	2
+眀	ming	6
+眳	ming	4
+朙	ming	5
+鄍	ming	2
+蓂	ming	5
+猽	ming	2
+嫇	ming	3
+榠	ming	2
+覭	ming	2
+佲	ming	5
+姳	ming	5
+凕	ming	3
+慏	ming	2
+詺	ming	5
+嚤	mo	3
+嫫	mo	6
+橅	mo
+糢	mo
+謩	mo	2
+擵	mo	2
+嚩	mo	3
+髍	mo
+懡	mo	2
+圽	mo	2
+劰	mo	2
+歾	mo	3
+冐	mo	3
+帓	mo	4
+怽	mo
+枺	mo	1
+昩	mo	3
+帞	mo	3
+莈	mo	1
+砞	mo	2
+眜	mo	3
+眿	mo	2
+皌	mo	3
+眽	mo	3
+粖	mo	3
+袹	mo	2
+絈	mo	2
+蛨	mo	2
+貃	mo	2
+塻	mo	2
+嗼	mo	4
+貊	mo	5
+靺	mo	2
+暯	mo	2
+銆	mo	3
+瞙	mo	2
+瞐	mo	3
+黙	mo	5
+镆	mo	5
+魩	mo	2
+瘼	mo	5
+嫼	mo	3
+貘	mo	5
+藦	mo
+蟔	mo	2
+爅	mo	2
+礳	mo	2
+纆	mo	3
+耱	mo	5
+哞	mou	6
+侔	mou	5
+劺	mou	2
+洠	mou	2
+恈	mou	2
+桙	mou
+蛑	mou	2
+踎	mou	2
+麰	mou	5
+瞴	mou
+鴾	mou	2
+鍪	mou	6
+蟱	mou
+呒	mu	5
+呣	mu	3
+毪	mu	3
+氁	mu	2
+坶	mu	5
+峔	mu	2
+牳	mu	3
+胟	mu	2
+畒	mu
+畆	mu	2
+畞	mu	2
+砪	mu	2
+娒	mu	3
+畮	mu	2
+鉧	mu	4
+踇	mu	3
+仫	mu	5
+狇	mu	2
+炑	mu	3
+莯	mu	5
+蚞	mu
+毣	mu	2
+萺	mu
+雮	mu	4
+幙	mu	4
+慔	mu	3
+楘	mu	3
+霂	mu	6
+艒	mu	2
+鞪	mu	2
+乸	na	5
+拏	na	5
+蒘	na	2
+镎	na	5
+郍	nuo	2
+雫	na	6
+妠	na	3
+肭	na	5
+袦	na	1
+笝	na	2
+豽	na	2
+貀	na	2
+靹	na	2
+蒳	na	3
+嗱	na	5
+魶	na
+腉	nai	2
+熋	nai	3
+摨	nai
+螚	nai	3
+艿	nai	5
+疓	nai	2
+迺	nai
+倷	nai	2
+釢	nai	3
+渿	nai	2
+鼐	nai	6
+褦	nai	2
+抩	nan	2
+侽	nan	5
+莮	nan	5
+畘	nan	2
+娚	nan	5
+萳	nan	2
+暔	nan	3
+諵	nan	4
+揇	nan	2
+湳	nan	5
+煵	nan	3
+蝻	nan	5
+戁	nan	3
+婻	nan	5
+乪	nang	2
+嚢	nang	5
+鬞	nang
+蠰	nang	2
+欜	nang	2
+擃	nang	2
+攮	nang	5
+灢	nang	2
+儾	nang	2
+齉	nang	3
+怓	nao	2
+峱	nao	3
+硇	nao	5
+猱	nao	5
+詉	nao	2
+嶩	nao	2
+獶	nao	2
+夒	nao	2
+巎	nao	3
+獿	nao	2
+垴	nao	6
+匘	nao	3
+嫐	nao	3
+碯	nao	2
+抐	ne	2
+眲	ne	5
+腇	nei	2
+鮾	nei
+鯘	nei
+氝	nei	2
+嫰	nen
+坭	ni	6
+抳	ni	2
+怩	ni	7
+籾	ni	2
+铌	ni	7
+秜	ni	2
+屔	ni	2
+郳	ni	5
+蚭	ni	1
+猊	ni	7
+淣	ni	3
+埿	ni
+婗	ni	4
+跜	ni	2
+蜺	ni	2
+貎	ni	3
+觬	ni
+鲵	ni	7
+麑	ni	4
+臡	ni	2
+苨	ni	2
+狔	ni	3
+柅	ni	4
+掜	ni	2
+晲	ni	2
+鉨	ni	5
+孴	ni	3
+馜	ni	2
+儞	ni	3
+隬	ni	2
+薿	ni	2
+鑈	ni	2
+氼	ni	3
+屰	ni	3
+伲	ni	6
+迡	ni	2
+胒	ni	2
+眤	ni	2
+痆	ni	2
+堄	ni	2
+惄	ni	3
+愵	ni	2
+嫟	ni
+誽	ni	2
+縌	ni	4
+懝	ni	2
+嬺	ni	2
+秊	nian	2
+哖	nian	5
+姩	nian	5
+秥	nian	2
+淰	nian	5
+焾	nian	3
+撚	nian
+簐	nian	2
+卄	nian	2
+埝	nian	6
+艌	nian	2
+醸	niang	3
+茑	niao	5
+褭	niao	3
+揑	nie	5
+苶	nie	4
+帇	nie	5
+圼	nie	2
+枿	nie	3
+陧	nie	2
+臬	nie	6
+菍	nie	2
+惗	nie	5
+敜	nie	2
+湼	nie	4
+嵲	nie	3
+鉩	xi	2
+踂	nie	2
+槷	nie	2
+踙	nie	2
+踗	nie	2
+嶭	nie	2
+篞	nie	2
+臲	nie	2
+孼	nie	2
+糵	nie	2
+巕	nie
+蠥	nie	2
+糱	nie	2
+囓	nie
+讘	nie
+钀	nie	5
+脌	nin	2
+囜	nin	2
+拰	nin	5
+聍	ning	6
+寕	ning	4
+寍	ning	2
+寜	ning	5
+儜	ning	5
+鑏	ning	2
+鬡	ning
+橣	ning	2
+矃	ning	2
+侫	ning	3
+倿	ning	2
+寗	ning	3
+澝	ning	2
+牜	niu	5
+汼	niu	3
+狃	niu	5
+沑	nv	2
+忸	niu	6
+炄	niu	2
+莥	niu	2
+靵	niu	2
+秾	nong	6
+檂	nong	2
+禯	nong	2
+癑	nong
+襛	nong	2
+醲	nong	4
+欁	nong	2
+挊	nong	3
+挵	nong	2
+齈	nong	1
+羺	nou	2
+啂	nou	2
+槈	nou	4
+耨	nou	7
+檽	nou	2
+鎒	nou	2
+譳	nou	2
+伖	nu	2
+孥	nu	6
+砮	nu	5
+笯	nu	2
+伮	nu	3
+胬	nu	6
+傉	nu
+搙	nu	2
+奻	nuan	3
+渜	nuan	2
+煗	nuan	2
+硸	nue	2
+黁	nun	3
+梛	nuo	3
+橠	nuo	2
+掿	nuo
+逽	nuo	2
+堧	nuo	4
+搦	nuo	5
+锘	nuo	5
+榒	nuo	2
+稬	nuo	2
+搻	nuo	2
+蹃	nuo
+糑	nuo	2
+嶿	nuo	1
+懧	nuo	2
+糥	nuo	3
+穤	nuo	2
+籹	nv
+衂	nv	2
+恧	nv	5
+朒	nv	2
+讴	ou	6
+筽	ou	4
+塸	ou	2
+蓲	ou	2
+鴎	ou	2
+膒	ou	2
+熰	ou	2
+藲	ou	2
+櫙	ou	3
+齵	ou	2
+吘	ou	3
+腢	ou	2
+蕅	ou	5
+怄	ou	6
+帊	pa
+妑	pa	2
+皅	pa	3
+舥	pa	2
+钯	ba
+跁	pa	2
+掱	pa	5
+筢	pa	5
+潖	pa	3
+袙	pa	3
+猅	pai	2
+棑	pai	3
+箄	pai	2
+輫	pai	2
+簰	pai	3
+簲	pai	5
+犤	pai	3
+渒	pai	2
+蒎	pai	5
+鎃	pai	2
+眅	pan	2
+萠	pan	3
+畨	pan	5
+蒰	pan
+幋	pan	2
+媻	pan	2
+槃	pan
+搫	pan	2
+螌	pan	2
+褩	pan	2
+縏	pan	2
+鎜	pan	2
+瀊	pan	2
+鞶	pan	3
+冸	pan	2
+沜	pan	2
+炍	pan	2
+柈	pan	4
+牉	pan	3
+袢	pan	6
+溿	pan	1
+頖	pan	4
+鋬	pan	3
+襻	pan	5
+鑻	pan	3
+沗	pang	2
+胮	pang	2
+雱	pang	4
+膖	pang	2
+霶	pang	2
+厐	pang	3
+逄	pang	6
+徬	bang
+嫎	pang	2
+篣	pang	2
+鳑	pang	3
+髈	pang	2
+嗙	pang	5
+覫	pang
+萢	pao	4
+脬	pao	7
+垉	pao	2
+爮	pao	2
+炰	pao	4
+蚫	bao	2
+軳	pao	2
+鞄	pao	2
+奅	pao	2
+砲	pao
+麭	pao	2
+嚗	pao	4
+礟	pao	2
+肧	pei	2
+怌	pei	2
+柸	bei	4
+衃	pei	2
+醅	pei	6
+阫	pei	2
+婄	pei	5
+毰	pei	2
+锫	pei	5
+俖	pei	2
+伂	pei	2
+帔	pei	5
+昢	pei
+斾	pei	5
+姵	pei	5
+珮	pei
+旆	pei	7
+浿	pei	2
+淠	pi	5
+馷	pei	2
+霈	pei	6
+嶏	pei	1
+瓫	pen	2
+葐	pen	2
+湓	pen	6
+呠	pen	2
+翸	pen	2
+歕	pen	2
+匉	peng	2
+恲	peng	2
+梈	peng	3
+軯	peng
+閛	peng	2
+漰	peng	2
+駍	peng	2
+磞	peng	3
+竼	peng	2
+莑	peng	2
+倗	peng	2
+堋	peng	5
+淜	peng	3
+椖	peng	3
+塳	peng	2
+塜	peng	3
+稝	peng	2
+樥	peng	2
+槰	peng	2
+熢	peng	2
+輣	peng	2
+憉	peng	2
+錋	peng	2
+韸	peng	2
+髼	peng
+鬅	peng	2
+蟚	peng	2
+蟛	peng	6
+蘕	peng	2
+韼	peng	1
+纄	peng	2
+鬔	peng	2
+騯	peng
+鑝	peng	2
+皏	peng	2
+淎	peng	2
+剻	peng	2
+掽	peng	2
+椪	peng	6
+伓	pi	4
+伾	pi	5
+抷	pi	3
+狉	pi	2
+狓	pi	3
+炋	pi	2
+怶	pi	2
+秠	pi	2
+秛	pi	2
+耚	pi	2
+旇	pi	5
+翍	pi	2
+豾	pi	2
+鉟	pi	1
+鲏	pi	2
+銔	pi	2
+髬	pi	2
+駓	pi	2
+磇	pi	2
+螕	bi	2
+錍	pi	2
+魾	pi	2
+錃	pi	2
+憵	pi	2
+礔	pi	2
+礕	pi	2
+阰	pi	3
+芘	pi	6
+毞	pi	2
+岯	pi	2
+肶	pi	2
+毘	pi	5
+蚍	pi	7
+笓	pi	2
+陴	pi	5
+埤	pi	5
+蚽	pi	2
+蚾	pi	2
+豼	pi	2
+猈	pi	2
+椑	pi	3
+腗	pi	2
+焷	pi	2
+罴	pi	7
+膍	pi	3
+隦	pi	2
+篺	pi	2
+螷	pi	2
+朇	pi	2
+蠯	pi	2
+庀	pi	5
+圮	pi	6
+苉	pi	2
+脴	pi
+銢	pi
+鴄	pi	2
+諀	pi	2
+擗	pi	5
+噽	pi	2
+嚭	pi	5
+揊	pi	2
+睤	pi	2
+嫓	pi	2
+潎	pi	1
+壀	pi	2
+澼	pi	3
+甓	pi	5
+疈	pi	2
+囨	pian	5
+媥	pian	2
+犏	pian	5
+甂	pian	2
+鍂	pian	2
+胼	pian	7
+腁	pian	2
+楩	pian	3
+楄	pian	5
+賆	pian	2
+骿	pian	2
+諚	pian	2
+蹁	pian	6
+騈	pian	2
+覑	pian	3
+谝	pian	6
+貵	pian	2
+彯	piao	5
+翲	piao	2
+螵	piao	6
+旚	piao	2
+犥	piao	2
+魒	piao	2
+薸	piao	2
+闝	piao	2
+殍	piao	6
+篻	piao	2
+醥	piao	2
+顠	piao	2
+皫	piao	2
+勡	piao
+僄	piao	2
+徱	piao	2
+慓	piao	3
+氕	pie	5
+暼	pie	4
+苤	pie	6
+撆	pie	2
+鐅	pie	2
+嫳	pie	3
+礗	pin
+穦	pin	2
+馪	pin	1
+驞	pin	2
+玭	pin	5
+娦	pin	2
+琕	pin	2
+𧏖	bin
+薲	pin	2
+嚬	pin	4
+榀	pin	6
+汖	pin	2
+甹	ping	3
+俜	ping	5
+砯	ping	5
+涄	ping	2
+聠	ping
+艵	ping	2
+頩	ping	4
+冖	tu	5
+呯	ping	5
+郱	ping	2
+泙	ping	5
+玶	ping	2
+荓	ping	2
+帡	ping
+胓	ping	2
+洴	ping	3
+硑	ping	2
+蚲	ping	2
+帲	ping	2
+屛	ping	5
+蓱	ping	3
+蛢	ping	2
+幈	ping	2
+缾	ping
+甁	ping	5
+焩	ping	2
+鲆	ping	5
+竮	ping	2
+輧	ping	2
+箳	ping	2
+慿	ping	3
+檘	ping	2
+簈	ping
+蘋	pin
+攴	po	5
+钋	po	5
+岥	po	2
+酦	po	2
+蔢	po	2
+嘙	po	3
+謈	po	2
+皤	po	5
+櫇	po	2
+尀	po	2
+钷	po	5
+笸	po	5
+廹	po	3
+岶	po	2
+敀	po	5
+洦	po	5
+砶	po	2
+哱	po	2
+烞	po	2
+奤	po	5
+蒪	po	2
+抔	pou	6
+捊	pou	3
+掊	pou	5
+裒	pou	5
+箁	pou	2
+咅	pou	4
+犃	pou
+炇	pu
+巬	pu	2
+陠	pu	2
+痡	pu	3
+擈	pu	2
+圤	pu	2
+蒱	pu	3
+蜅	pu	2
+酺	pu	5
+墣	pu	2
+獛	pu	2
+瞨	pu	2
+镤	pu	5
+穙	pu	2
+贌	pu	2
+纀	pu	2
+烳	pu	2
+圑	pu	2
+暜	pu
+諩	pu	2
+潽	pu	4
+氆	pu	2
+檏	pu	2
+镨	pu	5
+舖	pu
+迉	qi	3
+恓	xi	3
+桤	qi	5
+郪	qi	4
+捿	qi	3
+桼	qi	2
+娸	qi	4
+朞	qi	5
+紪	qi	1
+傶	qi	2
+僛	qi
+慽	qi	2
+緀	qi	2
+諆	qi	1
+霋	qi	2
+諿	xu	2
+魌	qi	3
+鵸	qi	2
+鶈	qi	2
+圻	qi	7
+岓	qi	2
+庈	qi	2
+忯	qi	2
+肵	qi	2
+斉	qi	5
+亝	qi	3
+荎	chi	2
+疧	qi	2
+竒	qi	4
+剘	qi	2
+蚑	qi	2
+蚚	qi	2
+蚔	qi	2
+倛	qi	2
+颀	qi	7
+斊	qi	2
+掑	qi	5
+萁	qi	6
+軝	qi	2
+跂	qi	6
+帺	ji	2
+釮	qi	2
+猉	qi	2
+蛴	qi	6
+嵜	qi	2
+锜	qi	5
+鬾	qi	2
+鬿	qi	2
+愭	qi	5
+褀	qi	5
+蜝	qi	1
+蜞	qi	5
+粸	qi
+綨	qi	2
+綥	qi	2
+璂	qi	5
+蕲	qi	7
+踑	qi	2
+禥	qi	2
+鲯	qi	2
+藄	qi	1
+鮨	qi	5
+濝	qi	2
+懠	qi	2
+櫀	qi	2
+檱	qi	2
+鶀	qi	2
+鬐	qi	4
+艩	qi	2
+纃	qi
+騹	qi
+魕	qi	2
+玂	qi	2
+麡	qi	2
+邔	qi	2
+芑	qi	5
+屺	qi	6
+玘	qi	5
+盀	qi
+呇	qi	2
+唘	qi	2
+啔	qi	2
+婍	qi	5
+棨	qi	5
+晵	qi	2
+裿	qi	2
+綮	qi	6
+諬	qi	2
+闙	qi	1
+汔	qi	5
+芞	qi	2
+矵	qi	2
+炁	qi	6
+盵	qi	2
+咠	qi	2
+栔	qi	3
+唭	qi	3
+欫	qi	2
+夡	qi	2
+湆	qi	3
+湇	qi	5
+愒	qi	4
+碛	qi	7
+碶	qi	6
+暣	qi	4
+甈	qi	2
+噐	qi	5
+憇	qi	3
+磩	qi	2
+磜	qi	4
+蟿	qi	2
+罊	qi	2
+礘	qi	2
+鼜	qi	2
+葜	qia	5
+愘	qia	2
+搳	xia	2
+拤	qia	3
+峠	qia	5
+酠	qia
+跒	qia	2
+圶	qia	2
+冾	qia	2
+帢	qia	3
+硈	qia
+殎	qia
+圲	qian	2
+圱	qian	2
+汘	qian	2
+奷	qian
+茾	qian	2
+杄	qian	4
+岍	qian	5
+汧	qian	5
+臤	qian	2
+欦	qian	2
+竏	qian	2
+拪	qian	3
+蚈	qian	3
+谸	qian	2
+孯	qian	2
+婜	qian
+雃	qian	2
+掔	qian	5
+鹐	qian	2
+摼	qian	2
+撁	qian	2
+箞	qian	5
+諐	qian	2
+褰	qian	7
+檶	qian	3
+攑	qian	2
+攐	qian	2
+櫏	qian	3
+攓	qian	2
+鐱	qian	2
+鬝	qian
+鬜	qian
+岒	qian	3
+拑	qian	3
+歬	qian	2
+掮	qian	7
+乾	gan
+軡	qian
+偂	qian	5
+朁	qian	2
+媊	qian
+墘	qian	5
+榩	qian	2
+銭	qian	5
+羬	qian	2
+橬	qian	2
+黚	qian
+濳	qian	2
+鰬	qian
+灊	qian	3
+凵	qian	5
+肷	qian	5
+嵰	qian	2
+槏	qian	2
+蜸	qian	2
+鑓	qian	2
+刋	qian	5
+悓	qian	4
+棈	qian	5
+椠	qian	5
+蒨	qian	5
+皘	qian
+蔳	qian	2
+輤	qian
+篏	qian	3
+儙	qian	2
+篟	qian	2
+壍	qian	3
+嬱	qian	2
+鏲	qian
+玱	qiang	4
+戗	qiang	6
+斨	qiang	3
+羗	qiang	2
+猐	qiang	2
+琷	qiang	2
+啌	xiang
+椌	qiang	4
+嗴	qiang
+獇	qiang
+溬	qiang	2
+蜣	qiang	5
+锖	qiang	5
+羫	qiang	2
+牄	qiang	2
+篬	cang	2
+謒	qiang
+蹡	qiang	2
+鎗	qiang	2
+嫱	qiang	6
+蔃	qiang	2
+樯	qiang	6
+漒	qiang	2
+蘠	qiang	2
+摤	qiang	2
+勥	qiang	5
+墏	qiang	2
+镪	qiang	6
+唴	qiang	5
+羻	qiang	2
+硗	qiao	5
+郻	qiao
+鄥	qiao	2
+踍	qiao	2
+劁	qiao	4
+毃	qiao	2
+頝	qiao	2
+幧	qiao	2
+燆	qiao	2
+橾	qiao
+繑	qiao	2
+趬	qiao	2
+荍	qiao	3
+峤	jiao
+硚	qiao	4
+鄡	qiao	2
+墧	qiao	2
+鞒	qiao	5
+嫶	qiao	2
+癄	qiao	2
+趫	qiao	3
+藮	qiao	2
+顦	qiao	2
+釥	qiao	2
+髜	qiao	1
+诮	qiao	7
+陗	qiao	2
+帩	qiao	2
+踃	xiao	2
+髚	qiao	2
+僺	qiao	3
+墽	qiao	2
+撽	qiao	2
+韒	qiao	2
+鞩	qiao
+躈	qiao	2
+癿	qie	5
+聺	qie	2
+厒	qie	2
+郄	xi	6
+匧	qie	2
+洯	qie	5
+倢	qie	5
+悏	qie	3
+笡	qie	2
+淁	qie	2
+蛪	ni	2
+朅	qie	4
+箧	qie	7
+緁	qie	2
+踥	qie	2
+藒	qie	2
+穕	qie	2
+鯜	qie
+骎	qin	5
+菳	qin	2
+嵚	qin	4
+媇	qin	2
+綅	qin	3
+誛	qin	2
+顉	qin	2
+鮼	qin
+寴	qin	2
+扲	qin	2
+忴	qin	2
+珡	qin	2
+埁	qin	2
+耹	qin	2
+菦	qin	2
+蚙	qin	2
+捦	qin	2
+琹	qin	4
+鈙	qin	2
+鈫	qin	3
+雂	qin	2
+靲	qin	2
+溱	qin	7
+嫀	qin	2
+斳	qin	2
+鳹	qin	1
+檎	qin	6
+螓	qin	4
+瘽	qin	5
+澿	qin	2
+懄	qin	2
+懃	qin
+蠄	qin
+鵭	qin	2
+坅	qin	2
+昑	qin	2
+笉	qin	5
+赾	qin	2
+赺	qin	3
+梫	qin	2
+锓	qin	5
+寑	qin	3
+螼	qin
+抋	qin	2
+吣	qin	6
+吢	qin	5
+菣	qin	2
+揿	qin	6
+藽	qin	2
+瀙	qin	2
+郬	qing	2
+埥	qing	3
+圊	qing	5
+庼	qing
+淸	qing	7
+寈	qing	2
+軽	qing	6
+綪	qing	5
+漀	qing	2
+鲭	qing	6
+鶄	jing
+鑋	qing	2
+夝	qing	3
+甠	qing	2
+勍	qing	5
+啨	qing	5
+棾	qing	2
+暒	qing	4
+樈	qing	2
+檠	qing	6
+黥	qing	6
+苘	qing	5
+謦	qing	6
+凊	qing	6
+掅	qing	2
+殸	qing	3
+碃	qing	4
+靘	qing	3
+儬	qing	3
+濪	qing	2
+卭	qiong	3
+宆	qiong	3
+桏	qiong	2
+赹	qiong
+笻	qiong
+筇	qiong	6
+蛩	qiong	6
+蛬	qiong	2
+焭	qiong	2
+焪	qiong	2
+惸	qiong	4
+跫	qiong	6
+睘	qiong	2
+熍	qiong	2
+銎	qiong	5
+橩	qiong	2
+儝	qiong	2
+憌	qiong	2
+藑	qiong	2
+竆	qiong	2
+瓗	qiong	2
+丠	qiu	5
+坵	qiu	2
+秌	qiu	2
+恘	qiu	5
+媝	qiu	2
+湫	qiu	7
+鹙	qiu	3
+蝵	qiu
+篍	qiu	2
+緧	qiu	2
+趥	qiu
+穐	qiu
+鞧	qiu	3
+蟗	qiu
+蘒	qiu	2
+龝	qiu	2
+厹	qiu	2
+玌	qiu	2
+扏	qiu
+叴	qiu	4
+犰	qiu	5
+朹	qiu	5
+肍	qiu	2
+汓	qiu	3
+俅	qiu	5
+觓	qiu	2
+訄	qiu	2
+訅	qiu	1
+莍	qiu	2
+逎	qiu	2
+唒	qiu	5
+浗	qiu	5
+紌	qiu	1
+梂	qiu	2
+殏	qiu	3
+赇	qiu	5
+毬	qiu
+盚	qiu	2
+皳	qiu	2
+崷	qiu	3
+湭	qiu	4
+渞	qiu	2
+蛷	qiu	2
+煪	qiu	2
+絿	qiu	2
+觩	qiu	2
+璆	qiu	4
+蝤	qiu	5
+銶	qiu
+鼽	qiu	5
+鮂	qiu
+蠤	qiu	1
+搝	qiu	2
+匤	qu	2
+佉	qu	5
+伹	qu	3
+诎	qu	6
+阹	qu	2
+抾	qu	2
+岴	qu	2
+胠	qu	3
+浀	qu	3
+袪	qu	2
+紶	qu	5
+蛐	qu	7
+筁	qu	2
+駆	qu	5
+憈	qu	2
+麹	qu	5
+駈	qu	2
+髷	qu	2
+魼	qu	2
+黢	qu	5
+鰸	qu
+鱋	qu
+佢	qu	6
+朐	qu	5
+斪	qu	2
+胊	qu
+菃	qu	2
+衐	qu	2
+鸲	qu	5
+淭	qu	2
+翑	qu	2
+絇	qu	2
+葋	qu	2
+軥	qu	2
+蕖	qu	7
+璖	qu
+磲	qu	6
+螶	qu	2
+璩	qu	6
+蟝	qu	2
+翵	qu	2
+鼩	qu	2
+蘧	qu	6
+匷	qu	2
+忂	qu	2
+灈	qu	3
+欋	qu	2
+戵	qu	2
+氍	qu	5
+籧	qu	2
+臞	qu	5
+癯	qu	5
+蠷	qu
+躣	qu	2
+蠼	qu	5
+鑺	qu	5
+鸜	qu	3
+竬	qu	2
+蝺	qu	2
+厺	qu	2
+刞	qu	2
+呿	qu	5
+郥	qu	2
+耝	qu	2
+阒	qu	6
+閴	qu	2
+麮	qu	2
+鼁	qu	1
+奍	quan	3
+峑	quan	2
+恮	quan	2
+悛	quan	6
+棬	quan
+騡	quan
+鐉	quan
+佺	quan	7
+洤	quan	4
+姾	quan	2
+辁	quan	4
+牷	quan	3
+埢	quan	2
+硂	quan	3
+啳	quan	2
+惓	quan	5
+婘	quan
+葲	quan	2
+犈	quan	3
+筌	quan	6
+腃	quan	3
+湶	quan	5
+絟	quan	2
+瑔	quan	2
+搼	quan	2
+跧	quan	2
+觠	quan
+権	quan	5
+踡	quan
+縓	quan	2
+闎	quan
+鳈	quan	2
+鬈	quan	5
+巏	quan	2
+孉	quan	2
+齤	quan	6
+蠸	quan	2
+汱	quan	2
+甽	quan	3
+畎	quan	6
+烇	quan	3
+绻	quan	6
+虇	quan	1
+牶	quan	2
+勧	quan	5
+韏	quan	2
+蒛	que	3
+埆	que	5
+崅	que
+隺	que	2
+悫	que	6
+硞	que
+舃	que	2
+塙	qiao	2
+搉	que	2
+皵	que	5
+碏	que	3
+趞	que	2
+碻	qiao	2
+燩	que	2
+礐	que	5
+礭	que	2
+夋	qun	5
+囷	qun	5
+峮	qun	2
+輑	qun	2
+帬	qun	2
+裠	qun	2
+冄	ran	5
+呥	ran
+肰	ran	2
+柟	ran	5
+衻	ran	2
+袇	ran	3
+蚦	ran	2
+袡	ran	2
+蚺	ran	6
+舑	ran	2
+髥	ran
+嘫	ran	4
+繎	ran	5
+姌	ran	5
+珃	ran	5
+媣	ran	4
+橪	ran	3
+蹨	ran	2
+穣	rang	3
+獽	rang
+瀼	rang	5
+禳	rang	7
+穰	rang	7
+躟	rang	2
+鬤	rang	2
+壌	rang	2
+爙	rang	2
+譲	rang	5
+懹	rang	2
+荛	rao	6
+犪	rao	3
+隢	rao	2
+遶	rao	5
+忈	ren	4
+朲	ren	5
+芢	ren	2
+秂	ren	5
+忎	ren	4
+鈓	ren	2
+魜	ren	5
+銋	ren
+鵀	ren	2
+荵	ren	2
+栣	ren	2
+栠	ren	2
+涊	ren	3
+秹	ren	2
+棯	ren	3
+刄	ren	5
+仭	ren	2
+讱	ren	5
+扨	ren	2
+屻	ren	2
+杒	ren	2
+牣	ren	3
+肕	ren	2
+纴	ren	3
+祍	ren	2
+衽	ren	6
+姙	ren	5
+梕	ren
+釰	ren	2
+袵	ren	3
+靱	ren	2
+腍	ren
+餁	ren
+辸	reng	2
+礽	reng	5
+陾	reng	2
+芿	reng	2
+驲	ri	3
+鈤	ri	5
+肜	rong	6
+茙	rong	2
+狨	rong	5
+峵	rong	2
+烿	rong	2
+搑	rong	2
+媶	rong	2
+搈	rong	2
+榵	rong	2
+嵤	rong	2
+嫆	rong	2
+瑢	rong	5
+穁	rong
+蝾	rong	5
+褣	rong	2
+縙	rong	2
+髶	rong	2
+駥	rong	2
+螎	rong	2
+嬫	rong	4
+瀜	rong	3
+曧	rong	2
+坈	rong	2
+傇	rong	2
+氄	rong	2
+禸	rou
+粈	rou	5
+葇	rou	3
+渘	rou	4
+媃	rou	4
+瑈	rou	3
+腬	rou	2
+煣	rou	3
+蝚	rou	2
+瓇	rou	1
+騥	rou
+鰇	rou
+鶔	rou	2
+韖	rou	2
+宍	rou	5
+楺	rou	2
+邚	ru	2
+侞	ru	5
+帤	ru	2
+桇	ru	3
+挐	ru	5
+铷	ru	6
+袽	ru	2
+筎	ru	5
+渪	ru	2
+蕠	ru	2
+鴑	ru	2
+薷	ru	7
+獳	ru	2
+嬬	ru	5
+𦈡	ru
+曘	ru	2
+臑	ru	5
+燸	ru	2
+襦	ru	6
+颥	ru	5
+醹	ru
+鱬	ru	2
+肗	ru	2
+鄏	ru	2
+擩	ru	3
+洳	ru	7
+蓐	ru	6
+溽	ru	6
+媷	ru	3
+撋	ruan
+壖	ruan	4
+耎	ruan	3
+偄	ruan
+愞	ruan	2
+媆	ruan	2
+瑌	ruan	2
+腝	ruan	2
+碝	ruan
+蝡	ruan	2
+緛	ruan	2
+瓀	ruan	2
+礝	ruan	2
+甤	rui	2
+緌	rui	5
+桵	rui	3
+惢	rui	6
+蕋	rui	2
+橤	rui	2
+繠	rui	2
+蘃	rui	2
+蘂	rui	3
+汭	rui	5
+枘	rui
+蚋	rui	6
+蜹	rui	2
+叡	rui	2
+壡	rui	2
+閠	run	3
+橍	run	2
+鄀	ruo	5
+焫	ruo	2
+渃	ruo	6
+婼	ruo	6
+楉	ruo	4
+𦶟	ruo
+蒻	ruo	6
+鰙	ruo	2
+鰯	ruo	2
+鶸	ruo	5
+訯	sa
+靸	sa	3
+潵	sa	5
+钑	sa	4
+脎	sa	4
+馺	sa	2
+隡	sa	2
+櫒	sa	3
+毢	sai	2
+揌	sai	2
+毸	sai
+嘥	sai	2
+顋	sai	2
+僿	sai	2
+簺	sai
+弎	san	5
+毶	san	2
+毵	san	5
+厁	san	2
+犙	san	2
+糁	san
+馓	san	6
+糂	san	2
+橵	san	2
+糤	san
+糣	san
+鏒	san	1
+俕	san	2
+桒	sang	2
+槡	sang	5
+磉	sang	5
+褬	sang	1
+颡	sang	6
+鎟	sang	2
+溞	sao	4
+慅	sao	3
+鄵	sao	2
+螦	sao	2
+懆	sao
+鳋	sao	5
+騒	sao	7
+埽	sao	5
+瘙	sao	7
+氉	sao	2
+矂	sao	2
+鐰	sao
+髞	sao
+洓	se	5
+栜	se	2
+雭	se	2
+铯	se	7
+歮	se	2
+歰	se	2
+擌	se
+瘷	se	2
+濇	se	5
+璱	se	5
+瀒	se
+轖	se	2
+穯	se	2
+鏼	se
+涁	shen	2
+椮	sen	3
+襂	sen	2
+鬙	seng	3
+唦	sha	3
+猀	sha	2
+粆	sha	2
+铩	sha	7
+桬	sha	2
+硰	sha	2
+蔱	sha	2
+榝	sha	2
+閷	sha	2
+鯋	sha	2
+繺	sha
+儍	sha	5
+倽	sha	2
+萐	sha	2
+唼	sha	5
+帹	sha	3
+喢	sha	2
+歃	sha	6
+翜	sha	2
+箑	sha	3
+翣	sha	3
+閯	sha	2
+酾	shi
+簁	shai	2
+邖	shan	2
+钐	shan	6
+狦	shan
+脠	shan
+痁	shan	3
+笘	shan	3
+搧	shan	5
+剼	shan	2
+嘇	shan	2
+澘	shan	3
+檆	shan	4
+鯅	shan	1
+縿	shan	2
+羴	shan	4
+炶	shan	4
+晱	shan	3
+睒	shan	3
+煔	shan	2
+覢	shan
+赸	shan	4
+椫	shan	2
+傓	shan	2
+骟	shan	5
+僐	shan	2
+鄯	shan	5
+墠	shan	5
+墡	shan	3
+敾	shan	5
+磰	shan	2
+䦅	shan
+蟮	shan	6
+蟺	shan
+饍	shan	3
+譱	shan	2
+灗	shan	2
+蔏	shang	2
+漡	shang	2
+滳	shang	3
+慯	shang	3
+螪	shang	2
+謪	shang	2
+鬺	shang	2
+垧	shang	5
+埫	shang	3
+贘	shang	2
+鑜	shang	2
+丄	shang	6
+尙	shang	6
+恦	shang	2
+绱	shang	5
+莦	shao	3
+弰	shao
+娋	shao	2
+焼	shao	6
+筲	shao	5
+艄	shao	6
+旓	shao	2
+輎	shao	2
+蕱	shao	2
+颵	shao
+髾	shao	2
+鮹	shao	2
+玿	shao	2
+萔	shao
+卲	shao	5
+劭	shao	6
+柖	shao	2
+袑	shao	2
+睄	shao	3
+綤	shao	2
+潲	shao	6
+猞	she	6
+賖	she	2
+檨	she	2
+佘	she
+蛥	she	2
+舎	she	5
+渉	she	7
+涻	she	2
+弽	she	4
+滠	she	5
+摵	she	2
+蔎	she	2
+慴	xi
+騇	she	2
+蠂	she	2
+韘	she	2
+扟	shen	2
+屾	shen	5
+侁	shen	3
+籶	shen	2
+诜	shen	6
+罙	shen	3
+妽	shen	2
+柛	shen
+氠	shen	2
+籸	shen	2
+穼	shen	2
+眒	shen	2
+峷	shen	2
+甡	shen	5
+堔	shen	5
+敒	shen	2
+葠	shen
+兟	shen	2
+訷	shen	3
+裑	shen	5
+罧	shen	2
+甧	shen
+駪	shen	2
+薓	shen
+鲹	shen	5
+曑	shen	2
+鵢	shen
+鯓	shen	3
+鉮	shen	2
+伔	shen	3
+邥	shen	2
+抌	shen	2
+弞	shen	2
+矤	shen	2
+矧	shen	6
+宷	shen	2
+谂	shen	6
+谉	shen	2
+訠	shen	2
+頣	shen	2
+魫	shen	2
+曋	shen
+瞫	shen	2
+覾	shen
+昚	shen	5
+侺	shen	2
+胂	shen	5
+眘	shen	2
+脤	shen	2
+祳	shen	2
+瘆	shen	5
+愼	shen	3
+阩	sheng	2
+呏	sheng	2
+斘	sheng	2
+苼	sheng	6
+枡	sheng	3
+昇	sheng
+狌	sheng	5
+泩	sheng	5
+珄	sheng	2
+殅	sheng	2
+竔	sheng	2
+曻	sheng	2
+陹	sheng
+焺	sheng	2
+湦	sheng	3
+鉎	sheng	5
+鍟	sheng	5
+鼪	sheng	3
+鵿	sheng	2
+縄	sheng	5
+憴	sheng	2
+譝	sheng	2
+鱦	sheng	1
+眚	sheng	5
+偗	sheng	2
+渻	sheng	2
+晠	sheng	3
+剰	sheng	5
+貹	sheng	2
+琞	sheng	3
+嵊	sheng	6
+墭	sheng	2
+榺	sheng	2
+蕂	sheng	2
+賸	sheng
+邿	shi	2
+呞	shi	2
+鸤	shi	2
+浉	shi	4
+敆	shi	2
+葹	shi
+湤	shi	2
+蓍	shi	7
+蒒	shi	2
+鉇	shi
+瑡	shi	3
+箷	shi	3
+鲺	shi	3
+褷	shi
+鶳	shi	2
+襹	shi	2
+籭	shi	2
+饣	shi	6
+辻	shi	7
+佦	shi	2
+竍	shi	2
+囸	shi	4
+旹	shi	3
+峕	shi	2
+炻	shi	6
+祏	shi	4
+姼	shi	3
+遈	shi	3
+湜	shi	6
+寔	shi	5
+嵵	shi	2
+鉐	shi	2
+榯	shi	2
+鲥	shi	6
+鮖	shi
+鼫	shi	3
+鼭	shi
+乨	shi	3
+兘	shi	5
+宩	shi	2
+笶	shi	3
+鉂	shi	3
+礻	shi	6
+丗	shi	5
+卋	shi	5
+亊	shi	7
+柹	shi
+呩	shi	2
+贳	shi	5
+枾	shi
+昰	shi	6
+眂	shi
+狧	shi	2
+恀	shi
+冟	shi	2
+栻	shi	5
+烒	shi	2
+秲	shi	2
+視	shi
+揓	shi
+崼	shi	3
+徥	shi	2
+觢	shi	2
+睗	shi	2
+鉃	shi
+煶	shi	5
+舓	shi	2
+奭	shi	5
+銴	shi	2
+餝	shi	2
+遾	shi
+諟	shi	4
+澨	shi	3
+嬕	shi	2
+檡	shi	2
+簭	shi	3
+齛	shi	2
+鰘	shi
+襫	shi
+敊	shou	3
+垨	shou	2
+艏	shou	5
+涭	shou	2
+痩	shou	5
+膄	shou	3
+殳	shu	7
+尗	shu	3
+杸	shu
+陎	shu	2
+柕	shu	2
+倐	shu	3
+𦈌	shu
+掓	shu	5
+焂	shu	2
+鄃	shu	2
+摅	shu	5
+毺	shu	2
+毹	shu	5
+踈	shu	4
+跾	shu	2
+鮛	shu
+鵨	shu
+瀭	shu	2
+秫	shu	7
+婌	shu	5
+璹	shu	3
+潻	shu	3
+薥	shu	2
+癙	shu	2
+襡	shu	2
+糬	shu	2
+蠴	shu
+鱪	shu	1
+鸀	shu	3
+鱰	shu	2
+忄	shu	6
+沭	shu	7
+荗	shu	3
+怷	shu	2
+捒	shu	2
+蒁	shu	2
+庻	shu	2
+絉	shu	2
+尌	shu	2
+裋	shu	2
+鉥	shu	3
+腧	shu	7
+潄	shu	3
+錰	shu	2
+濖	shu	2
+鶐	shu	1
+鏣	shu	2
+虪	shu	2
+誜	shua	2
+缞	shuai	2
+腨	shuan	2
+滝	shuang	6
+骦	shuang	2
+欆	shuang	2
+礵	shuang	2
+鷞	shuang
+鹴	shuang	2
+艭	shuang	2
+塽	shuang	3
+漺	shuang	2
+慡	shuang	2
+樉	shuang	3
+縔	shuang	2
+鏯	shuang
+灀	shuang	3
+脽	shui	2
+氺	shui	7
+閖	shui	3
+捝	shui
+帨	shui	5
+涚	shui	5
+祱	shui	3
+裞	shui	2
+蕣	shun	2
+橓	shun	2
+瞚	shun	2
+鬊	shun	2
+哾	shuo	5
+妁	shuo	7
+矟	shuo	2
+搠	shuo	5
+蒴	shuo	7
+獡	shuo	2
+咝	si	7
+泀	si	2
+俬	si
+恖	si
+虒	si	3
+愢	si	2
+媤	si	4
+缌	si	5
+楒	si	3
+鉰	si	2
+飔	si	5
+禗	si	2
+榹	si	2
+罳	si	2
+銯	si	2
+凘	si	3
+禠	si	2
+蕬	si	2
+磃	si
+澌	si	5
+燍	si
+蟴	si
+蟖	si	2
+簛	si	2
+騦	si	2
+鐁	si	2
+鼶	si	1
+亖	si	6
+罒	si	7
+汜	si	7
+佀	si	5
+泤	si	4
+価	si	6
+孠	si	2
+柶	si	2
+牭	si	2
+娰	si	2
+肂	si	3
+飤	si	2
+洍	si	2
+涘	si	5
+梩	si	2
+笥	si	6
+竢	si	4
+覗	si	5
+鈻	si	2
+貄	si
+禩	si	4
+蕼	si	2
+儩	si	2
+枀	song	5
+柗	song	2
+娀	song	2
+倯	song
+菘	song	7
+庺	song	3
+梥	song	2
+愡	song	2
+硹	song	2
+蜙	song	2
+濍	song
+憽	song	3
+檧	song	2
+竦	song	7
+傱	song	2
+愯	song	5
+嵷	song	3
+駷	song	2
+𩠌	song
+鎹	song	5
+凁	sou	2
+捜	sou	6
+鄋	sou	2
+獀	sou	2
+廋	sou	6
+廀	sou	2
+溲	sou	6
+摉	sou
+摗	sou
+锼	sou	5
+螋	sou	5
+醙	sou	2
+叜	sou	2
+傁	sou	2
+蓃	sou	2
+瞍	sou	5
+櫢	sou	2
+欶	sou	2
+瘶	sou	2
+窣	su	5
+鯂	su
+蘓	su	3
+櫯	su	2
+玊	su	5
+洬	su	3
+珟	su	2
+涑	su	6
+梀	su	2
+殐	su	2
+粛	su	3
+骕	su	5
+傃	su	2
+谡	su	5
+塐	su	2
+溸	su	2
+鹔	su	2
+嫊	su	2
+趚	su	2
+蔌	su	5
+榡	su	2
+遬	su
+膆	su	1
+觫	su	5
+愬	su	5
+樕	su
+樎	su	2
+潥	su	2
+憟	su	2
+縤	su	2
+璛	su	2
+藗	su	2
+橚	su	2
+蹜	su	2
+鱐	su	2
+狻	suan	7
+匴	suan	2
+祘	suan	3
+笇	suan	4
+筭	suan	5
+夊	sui	6
+芕	sui	2
+挼	sui	5
+荾	sui	2
+哸	sui
+倠	sui	2
+浽	sui	4
+娞	sui	2
+眭	sui	6
+滖	sui	2
+熣	sui	2
+鞖	sui
+濉	sui	5
+遀	sui	2
+瓍	sui	2
+膸	sui	2
+瀡	sui	4
+髄	sui	5
+亗	sui	3
+砕	sui	4
+粋	cui	4
+谇	sui	5
+埣	sui	2
+脺	sui	2
+睟	sui	3
+煫	sui	2
+賥	sui	2
+穂	sui	7
+澻	sui	2
+嬘	sui	2
+璲	sui	4
+檖	sui	2
+禭	sui	2
+穟	sui
+襚	sui	2
+繀	sui	3
+旞	sui	2
+懳	sui	2
+譢	sui
+鐆	sui	2
+鐩	sui	5
+狲	sun	5
+搎	sun	3
+槂	sun	2
+蕵	sun	2
+薞	sun
+箰	sun
+鎨	sun	2
+鶽	sun	2
+摌	sun
+潠	sun	2
+莏	suo	2
+桫	suo	5
+傞	suo	3
+睃	suo	5
+嗍	suo	6
+趖	suo	2
+摍	suo	2
+髿	suo	3
+簔	suo	2
+鮻	suo	2
+暛	suo	2
+溑	suo	2
+鎻	suo	5
+逤	suo	2
+溹	suo	2
+蜶	suo	1
+祂	ta	6
+咜	ta
+趿	ta	6
+榙	ta	3
+溻	ta	5
+闧	ta	1
+蹹	ta	2
+墖	ta	4
+鳎	ta	5
+荅	ta	2
+闼	ta	6
+㳠	ta
+崉	ta	2
+涾	ta	2
+傝	ta	5
+搨	ta	4
+遝	ta
+阘	ta	2
+毾	ta	2
+禢	ta	2
+誻	ta	2
+橽	ta	2
+嚃	ta	2
+錔	ta	2
+鞜	ta	2
+濌	ta
+鞳	ta	2
+鎉	ta	2
+嚺	ta	2
+譶	ta	2
+躢	ta	1
+咍	tai	3
+囼	tai	4
+孡	tai
+珆	tai	4
+旲	tai	3
+邰	tai	7
+坮	tai	2
+骀	tai	5
+炲	tai	5
+炱	tai	5
+菭	tai	3
+鲐	tai	5
+箈	tai	2
+儓	tai
+嬯	tai
+籉	tai	2
+呔	tai	6
+夳	tai	2
+冭	tai	5
+忕	tai	5
+忲	tai	2
+舦	tai
+溙	tai	4
+燤	tai	2
+軚	tai	2
+怹	tan	6
+痑	tan	2
+潬	tan	3
+擹	tan
+倓	tan	3
+郯	tan	6
+埮	tan	2
+惔	tan	4
+婒	tan	2
+榃	tan	3
+锬	tan	5
+墵	tan	2
+醈	tan
+憛	tan	2
+橝	tan	2
+镡	tan	5
+藫	tan	2
+醰	tan	2
+貚	tan	2
+譠	tan	2
+菼	tan	3
+嗿	tan	2
+憳	tan	5
+醓	tan	2
+暺	tan	2
+憻	tan	2
+璮	tan	2
+襢	tan	2
+赕	tan	5
+湠	tan	2
+僋	tan
+舕	tan	2
+撢	tan
+铴	tang	4
+耥	tang	4
+嘡	tang	5
+蝪	tang	2
+薚	tang	2
+蹚	tang	6
+闛	tang	2
+鞺	tang	2
+鼞	tang
+饧	tang	6
+坣	tang	5
+啺	tang	3
+傏	tang	2
+鄌	tang
+蓎	tang	3
+嵣	tang	3
+隚	tang	2
+瑭	tang	7
+榶	tang	3
+膅	tang	3
+煻	tang	3
+漟	tang	2
+禟	tang	3
+樘	tang	7
+磄	tang	2
+糃	tang	2
+橖	tang	3
+踼	tang	2
+螗	tang	5
+篖	tang	2
+赯	tang	2
+糛	tang	2
+鎕	tang	2
+餹	tang	4
+饄	tang	2
+鶶	tang
+偒	tang	2
+镋	tang	4
+戃	tang	2
+曭	tang	2
+爣	tang	3
+矘	tang	2
+摥	tang
+仐	tao	4
+弢	tao	5
+焘	dao
+詜	tao	2
+搯	tao
+幍	tao
+慆	tao	4
+嫍	tao	5
+瑫	tao	2
+槄	tao	4
+飸	tao	2
+謟	tao	2
+鞱	tao	1
+匋	tao	2
+迯	tao	2
+咷	tao
+洮	tao	6
+梼	tao	5
+绹	tao	4
+祹	tao	5
+裪	tao	2
+蜪	tao	2
+醄	tao	2
+駣	tao	2
+鋾	tao	2
+饀	tao	2
+鼗	tao	6
+貣	te	2
+脦	te	3
+铽	te	6
+膯	teng	1
+鼟	teng	2
+幐	teng	2
+漛	teng	2
+邆	teng
+螣	teng	5
+縢	teng	5
+駦	teng	2
+儯	teng
+籘	teng	3
+虅	teng	3
+驣	teng	2
+霯	teng	2
+扌	ti	7
+苐	ti	5
+厗	ti	2
+绨	ti	5
+偍	ti	5
+罤	ti	2
+崹	ti	2
+稊	ti	4
+遆	ti	3
+渧	ti	3
+惿	ti	4
+媞	ti	7
+瑅	ti	4
+嗁	ti
+碮	ti	2
+褆	ti	3
+蕛	ti	2
+蝭	ti	2
+徲	ti	2
+漽	ti	2
+趧	ti	2
+鴺	ti
+蹏	ti	2
+鍗	ti	7
+鳀	ti	2
+謕	ti	2
+鶙	ti
+骵	ti
+軆	ti	4
+戻	ti	6
+洟	ti	2
+挮	ti	2
+掦	ti
+逷	ti	2
+悐	ti	2
+惖	ti	2
+𣨼	ti
+褅	ti	2
+髰	ti	1
+歒	ti	2
+鬀	ti	2
+瓋	ti	2
+鬄	ti	2
+嚔	ti	2
+籊	ti	2
+趯	ti	5
+兲	tian	7
+婖	tian	3
+靔	tian	2
+酟	tian	2
+黇	tian	3
+沺	tian	4
+屇	tian	3
+盷	tian	2
+畋	tian	6
+胋	tian	2
+畠	tian	5
+甛	tian	2
+菾	tian	2
+湉	tian	6
+搷	tian	5
+塡	tian	3
+碵	tian
+緂	tian	2
+磌	tian	2
+窴	tian	2
+璳	tian	2
+鷏	tian	2
+鷆	tian	2
+倎	tian	2
+捵	tian	2
+唺	tian	2
+铦	tian	5
+淟	tian	2
+悿	tian	2
+琠	tian	2
+晪	tian	2
+觍	tian	3
+睓	tian	2
+痶	tian	2
+餂	tian	2
+錪	tian	2
+掭	tian	5
+瑱	tian	5
+睼	tian	2
+舚	tian	2
+旫	tiao	2
+庣	tiao	5
+恌	tiao	3
+祧	tiao	5
+聎	tiao	2
+芀	tiao	3
+岧	tiao	3
+岹	tiao	2
+祒	tiao	2
+笤	tiao	7
+蓚	tiao
+蓨	tiao	2
+龆	tiao	5
+蜩	tiao	5
+髫	tiao	7
+鋚	tiao	3
+鞗	tiao	2
+鲦	tiao	5
+螩	tiao	2
+鯈	tiao	3
+鎥	tiao	2
+儵	tiao	4
+宨	tiao	3
+晀	tiao	2
+窱	tiao	2
+嬥	tiao
+朓	tiao	5
+脁	tiao	5
+粜	tiao	6
+絩	tiao	2
+趒	tiao	2
+怗	tie	3
+聑	tie	2
+跕	tie	3
+蛈	tie	2
+鐡	tie	4
+驖	tie
+呫	tie	4
+飻	tie	2
+艼	ting	3
+庁	ting	5
+厑	ting	5
+耓	ting	2
+渟	ting	5
+綎	ting	2
+鞓	ting	2
+聴	ting	6
+廰	ting
+邒	ting	2
+莛	ting	5
+葶	ting	7
+嵉	ting	2
+筳	ting	3
+楟	ting	3
+榳	ting	2
+閮	ting	5
+聤	ting	2
+蝏	ting	2
+諪	ting	3
+鼮	ting	2
+圢	ting	3
+侹	ting	2
+涏	ting	2
+娗	ting
+珽	ting	5
+脡	ting
+烶	ting	2
+颋	ting	3
+誔	ting	2
+濎	ting	3
+囲	tong	6
+炵	tong	5
+痌	tong	1
+蓪	tong	2
+嗵	tong	6
+樋	tong	5
+熥	tong	4
+冂	tong	6
+峂	tong	2
+庝	tong	6
+哃	tong	2
+狪	tong	2
+晍	tong	2
+蚒	tong
+烔	tong	5
+浵	tong	3
+眮	tong	3
+秱	tong	5
+粡	tong	5
+赨	tong	2
+鉖	tong	2
+鉵	tong	2
+餇	tong
+鲖	tong	2
+勭	tong	6
+獞	tong	2
+橦	tong	6
+曈	tong	6
+犝	tong	2
+朣	tong	3
+膧	tong	2
+氃	tong	2
+燑	tong	2
+穜	tong	3
+筩	tong	5
+綂	tong	2
+憅	tong	2
+妵	tou	2
+紏	tou	2
+殕	tou	2
+敨	tou	2
+斢	tou	3
+黈	tou	2
+蘣	tou	2
+哣	tou	2
+唋	tu	2
+涋	tu	2
+捸	tu	2
+堗	tu
+葖	tu	2
+痜	tu
+湥	tu	3
+瑹	tu	2
+嶀	tu	3
+鋵	tu	2
+鼵	tu	2
+図	tu	7
+捈	tu	2
+峹	tu	2
+庩	tu	3
+梌	tu	2
+揬	tu	2
+稌	tu	3
+蒤	tu	2
+筡	tu	2
+嵞	tu
+腯	tu	2
+瘏	tu	2
+酴	tu	5
+跿	tu	2
+圗	tu	3
+廜	tu	2
+潳	tu	2
+馟	tu	2
+駼	tu	2
+鍎	tu	5
+鵌	tu	2
+鶟	tu
+鷋	tu
+鷵	tu
+圡	tu	3
+汢	tu	2
+钍	tu	7
+兎	tu	6
+迌	tu	2
+莵	tu	2
+堍	tu	7
+鵵	tu
+猯	tuan	2
+圕	tuan	2
+煓	tuan	2
+貒	tuan	2
+漙	tuan	5
+慱	tuan	5
+篿	tuan	2
+檲	tuan	3
+鷒	tuan
+鷻	tuan
+彖	tuan	5
+褖	tuan	2
+蓷	tui	5
+藬	tui
+僓	tui
+隤	tui	2
+尵	tui
+頺	tui	2
+魋	tui	3
+蘈	tui	2
+蹪	tui	1
+俀	tui	2
+脮	tui	2
+蹆	tui	3
+骽	tui	2
+侻	tui	2
+娧	tui	2
+煺	tui	5
+螁	tui	2
+駾	tui	2
+呑	tun	5
+旽	tun
+涒	tun	2
+朜	tun
+焞	tun	3
+暾	tun	5
+黗	tun
+芚	tun	2
+庉	tun	2
+忳	tun	4
+軘	tun
+豘	tun	2
+鲀	tun	5
+霕	tun	2
+臋	tun	2
+氽	tun	6
+畽	tun	2
+坉	tun
+讬	tuo	5
+饦	tuo	3
+汑	tuo	2
+杔	tuo	2
+拕	tuo	3
+咃	tuo
+侂	tuo	2
+沰	tuo	2
+莌	tuo	2
+袥	tuo
+馲	tuo	2
+魠	tuo	2
+驝	tuo
+陁	tuo	4
+岮	tuo	2
+狏	tuo	3
+沲	tuo	5
+迱	tuo	2
+柁	tuo	5
+砤	tuo	2
+袉	tuo	2
+紽	tuo	2
+堶	tuo	2
+酡	tuo	5
+碢	tuo	2
+駄	tuo	3
+槖	tuo	3
+踻	tuo	2
+鋖	si	2
+橐	tuo	7
+鮀	tuo	5
+鼧	tuo
+驒	tuo	5
+毤	tuo	2
+庹	tuo	7
+楕	tuo	2
+撱	tuo	3
+鵎	tuo	2
+鰖	tuo	1
+柝	tuo	6
+涶	tuo	3
+毻	tuo	2
+箨	tuo	5
+屲	wa	3
+穵	wa
+劸	wa	2
+徍	wa	3
+畖	wa	2
+窊	wa	3
+啘	wa	3
+搲	wa	2
+溛	wa	2
+漥	wa	3
+鼃	wa	2
+攨	wa	2
+邷	wa	2
+佤	wa	6
+咓	wa	2
+砙	wa	2
+聉	wa
+嗢	wa	2
+腽	wa	4
+韈	wa	2
+㖞	wai
+竵	wai	3
+顡	wai	2
+捥	wan	4
+帵	wan
+塆	wan	5
+睕	wan	2
+箢	yuan	4
+潫	wan
+刓	wan	3
+芄	wan	5
+汍	wan
+抏	wan	3
+岏	wan	3
+捖	wan	2
+貦	wan	2
+骫	wan	2
+莬	wan	2
+唍	wan	5
+倇	wan	2
+盌	wan	5
+琓	wan	4
+埦	wan	3
+梚	wan	2
+晥	wan	5
+涴	wan	5
+葂	wan	2
+椀	wan	5
+晼	wan	4
+畹	wan	7
+綩	wan	2
+踠	wan	3
+鋔	wan	2
+卐	wan	7
+忨	wan	2
+脕	wan	2
+鋄	wan	2
+翫	wan	5
+瞣	wan
+蟃	wan	2
+鎫	wan	2
+贎	wan
+尪	wang	5
+尫	wang	2
+尩	wang	2
+兦	wang	3
+彺	wang
+莣	wang	6
+蚟	wang	2
+忹	wang	2
+罖	wang	3
+菵	wang	2
+棢	wang	2
+暀	wang	4
+蛧	wang	2
+蝄	wang	2
+迋	wang	4
+盳	wang	2
+朢	wang	2
+烓	wei	2
+逶	wei	5
+隇	wei
+隈	wei	6
+揻	wei
+揋	wei	2
+葨	wei	2
+喴	wei	2
+渨	wei	2
+愄	wei	2
+媙	wei	2
+楲	wei	2
+椳	wei	2
+詴	wei	2
+溦	wei	6
+蝛	wei	2
+覣	wei	2
+嶶	wei	5
+鳂	wei
+燰	wei	2
+鰄	wei
+𣲗	wei
+沩	wei	6
+峗	wei	3
+峞	wei	2
+洈	wei	2
+涠	wei	5
+琟	wei	2
+喡	wei	2
+媁	wei	2
+蓶	wei	5
+鄬	wei
+醀	wei	2
+寪	wei	2
+鮠	wei	5
+癓	wei	3
+霺	wei	3
+犩	wei	2
+芛	wei	2
+洧	wei	6
+捤	wei	2
+荱	wei	2
+浘	wei	7
+屗	wei	2
+梶	wei	6
+硊	wei	2
+崣	wei	2
+骩	wei	2
+隗	wei	7
+嵔	wei	2
+骪	wei	2
+徫	wei	2
+廆	wei	4
+愇	wei	2
+韪	wei	6
+暐	wei	5
+艉	wei	5
+腲	wei	2
+蜲	wei	2
+蜼	wei	2
+鲔	wei	6
+韑	wei	2
+踓	wei	2
+頠	wei	2
+儰	wei	2
+鍡	wei	2
+濻	wei
+壝	wei	2
+颹	wei	2
+瀢	wei
+韡	wei	5
+亹	wei	5
+斖	wei	3
+苿	wei	5
+軎	wei	5
+叞	wei	2
+菋	wei	5
+硙	wei	3
+媦	wei	2
+煟	wei	2
+墛	wei	2
+碨	wei	2
+熭	wei	2
+犚	wei	3
+緭	wei	2
+璏	wei	2
+罻	wei	2
+錗	wei	2
+鮇	wei	2
+濊	wei	5
+螱	wei	2
+褽	wei	2
+藯	wei	3
+霨	wei	2
+鏏	wei	2
+鳚	wei	2
+蘶	wei	2
+饖	wei
+躗	wei
+讆	wei	2
+躛	wei	2
+讏	wei	1
+昷	wen	2
+塭	wen	4
+瑥	wen	3
+榅	wen	2
+豱	wen	2
+鎾	wen	5
+鳁	wen	2
+亠	wen	5
+芠	wen	5
+彣	wen	4
+炆	wen	7
+砇	min	2
+蚉	wen	2
+珳	wen	2
+阌	wen	5
+駇	wen	2
+瘒	wen	3
+魰	wen	2
+鴍	wen	2
+閺	wen	2
+螡	wen	2
+闅	wen	5
+鼤	wen
+蟁	wen	2
+闦	wen	2
+抆	wen	3
+呚	wen	2
+呅	wen	3
+忟	wen	2
+肳	wen	2
+忞	wen	5
+桽	wen	2
+脗	wen	3
+穏	wen	5
+妏	wen	5
+揾	wen	6
+顐	wen
+滃	weng	5
+鹟	weng	5
+螉	weng	2
+鎓	weng	4
+奣	weng	3
+勜	weng	2
+塕	weng	2
+蓊	weng	7
+嵡	weng	2
+暡	weng
+瞈	weng	1
+聬	weng	2
+攚	weng	2
+蕹	weng	6
+齆	weng	2
+捼	wo	2
+唩	wo	2
+猧	wo	3
+涹	wo	2
+踒	wo	2
+捰	wo
+婐	wo
+婑	wo	2
+仴	wo	5
+捾	wo	2
+偓	wo	5
+硪	wo	7
+焥	wo	2
+媉	wo	2
+楃	wo	4
+腛	wo	2
+瞃	wo	2
+瓁	wo	2
+濣	wo	2
+弙	wu	2
+杇	wu
+洿	wu	5
+趶	wu	2
+釫	wu	2
+窏	wu	2
+剭	wu	2
+誈	wu	1
+歍	wu	2
+箼	wu	2
+螐	wu	2
+鰞	wu
+呉	wu	5
+郚	wu	3
+莁	wu	3
+茣	wu	2
+浯	wu	6
+洖	wu	5
+娪	wu	3
+珸	wu	2
+祦	wu	4
+鹀	wu	3
+禑	wu	2
+璑	wu	2
+橆	wu	5
+鯃	wu	2
+譕	wu	5
+鼯	wu	5
+鷡	wu	2
+仵	wu	7
+迕	wu	5
+庑	wu	7
+怃	wu	5
+玝	wu	2
+旿	wu	3
+俉	wu	2
+倵	wu	2
+啎	wu	2
+牾	wu	5
+珷	wu	4
+摀	wu
+碔	wu	2
+瑦	wu	2
+甒	wu	2
+儛	wu	5
+躌	wu	3
+阢	wu	5
+扤	wu	3
+屼	wu	5
+伆	wu	3
+芴	wu	5
+杌	wu	6
+岉	wu	2
+忢	wu	2
+矹	wu	2
+敄	wu	2
+逜	wu	2
+粅	wu	3
+悮	wu	2
+焐	wu	5
+靰	wu	2
+痦	wu	7
+雺	wu	2
+嵨	wu	3
+溩	wu	2
+奦	wu
+熃	wu	2
+鋈	wu	5
+窹	wu	2
+霚	wu	2
+鼿	wu	2
+齀	wu	2
+邜	xi	2
+覀	xi	5
+忚	xi	6
+扸	xi	2
+矽	xi
+卥	xi	3
+肸	xi	4
+肹	xi	2
+穸	xi	5
+怸	xi	2
+俙	xi	3
+徔	xi	4
+徆	xi	2
+饻	xi	2
+莃	xi	3
+氥	xi
+狶	xi	3
+悕	xi	5
+屖	xi	2
+娭	xi	5
+琋	xi	5
+赥	xi	2
+菥	xi	5
+桸	xi	2
+唽	xi	3
+焁	xi	2
+釸	xi	2
+欷	xi	5
+焈	xi	2
+晳	xi	5
+惁	xi	2
+睎	xi	3
+傒	xi	5
+鄎	xi	2
+舾	xi	5
+翖	xi	1
+粞	xi	5
+焟	xi	3
+焬	xi	2
+蒠	xi	2
+厀	xi	2
+嵠	xi	2
+徯	xi	5
+煕	xi	5
+蜤	xi	2
+榽	xi	2
+豨	xi	5
+熈	xi	3
+緆	xi	2
+磎	xi	3
+噏	xi	4
+餙	xi	2
+瘜	xi	3
+嬆	xi	2
+橀	xi	3
+螅	xi	6
+螇	xi	3
+凞	xi	2
+熺	xi	5
+窸	xi	6
+礂	xi	2
+豯	xi	2
+瞦	xi	2
+豀	xi	2
+貕	xi	2
+谿	qi
+燨	xi	5
+鵗	xi	2
+糦	xi	2
+㶉	xi	2
+雟	xi	2
+繥	xi	2
+醯	hai
+鏭	xi
+觹	xi	2
+隵	xi	2
+巇	xi	3
+酅	xi	2
+爔	xi	3
+觽	xi	2
+鼷	xi	5
+蠵	xi	4
+觿	xi	3
+郋	xi	2
+觋	xi	5
+喺	xi	6
+蒵	xi	2
+椺	xi
+趘	xi	2
+嶍	xi	2
+漝	xi	2
+槢	xi
+蝷	xi
+薂	xi	3
+隰	xi	6
+鎴	xi	7
+謵	xi	2
+霫	xi	2
+鳛	xi	2
+飁	xi	2
+騽	xi
+杫	xi	2
+枲	xi	5
+葸	xi	6
+葈	xi	2
+鈢	xi	2
+蓰	xi	4
+漇	xi	2
+屣	xi	5
+憘	xi	2
+歖	xi	3
+憙	xi	5
+暿	xi	2
+壐	xi	2
+謑	xi	2
+蹝	xi	2
+蟢	xi	2
+鱚	xi	2
+躧	xi	2
+匸	xi	4
+卌	xi	5
+饩	xi	6
+呬	xi	5
+忥	xi	3
+怬	xi	2
+盻	xi	5
+郤	que
+恄	xi	2
+欯	xi	2
+绤	xi	2
+阋	xi	6
+趇	xi	2
+椞	xi	2
+舄	xi	6
+赩	xi	3
+滊	xi	3
+慀	xi	2
+禊	xi	5
+隟	xi	2
+犔	xi	2
+稧	xi	2
+蕮	xi
+戯	hu
+覤	xi	2
+澙	xi	3
+潟	xi
+潝	xi	2
+黖	xi	2
+繋	xi	5
+磶	xi	2
+虩	xi	2
+闟	xi	2
+嚱	xi	5
+衋	xi	2
+谺	xia	2
+閕	xia
+傄	xia	2
+敮	xia	2
+颬	xia	1
+柙	xia	5
+炠	xia	2
+珨	xia	2
+烚	xia	2
+祫	xia	5
+硖	xia	7
+翈	xia	2
+笚	xia	2
+舺	xia	2
+陿	xia	2
+筪	xia	2
+舝	xia	2
+碬	xia	2
+睱	xia	3
+蕸	xia	3
+磍	xia	2
+赮	xia	2
+螛	xia	2
+魻	xia	2
+縖	xia	2
+鍜	xia	5
+騢	xia	2
+鶷	xia	1
+閜	xia	2
+芐	xia	5
+疜	xia	2
+懗	xia	2
+鎼	xia	5
+夓	xia	2
+鏬	xia
+仚	xian	2
+屳	xian	2
+奾	xian	2
+佡	xian	3
+忺	xian	3
+苮	xian
+姺	xian	3
+珗	xian	3
+莶	xian	5
+搟	xian
+跹	xian	7
+嘕	xian	2
+僊	xian	2
+僲	xian	2
+韯	xian	2
+嬐	xian	2
+韱	xian	2
+褼	xian	2
+繊	xian	4
+蹮	xian
+馦	xian
+攕	xian	2
+譣	xian
+廯	xian	5
+孅	xian	3
+鶱	xian	3
+纎	xian	3
+襳	xian	2
+鱻	xian	5
+咞	xian	2
+伭	xian	2
+挦	xian	3
+胘	xian	2
+蚿	xian	2
+婱	xian	2
+娹	xian	2
+蛝	xian	2
+鹇	xian	6
+湺	xian	2
+嗛	xian	5
+衘	xian	2
+甉	xian	2
+誸	xian
+澖	xian	2
+憪	xian
+輱	xian	2
+醎	xian	2
+瞷	xian	2
+癎	xian	5
+藖	xian
+礥	xian	2
+贒	xian	2
+狝	xian	5
+崄	xian	5
+毨	xian	2
+猃	xian	5
+烍	xian	2
+赻	xian
+筅	xian	5
+尠	xian	3
+尟	xian	2
+跣	xian	6
+禒	xian	2
+箲	xian	2
+鍌	xian	2
+燹	xian	6
+攇	xian	2
+幰	xian	4
+櫶	xian	2
+韅	xian
+灦	xian	2
+伣	xian	3
+岘	xian	7
+臽	xian	2
+県	xian	7
+姭	xian	2
+垷	xian	2
+涀	xian	2
+娨	xian	2
+娊	xian	2
+晛	xian	3
+缐	xian	5
+絤	xian	2
+粯	xian	4
+僴	xian	3
+僩	xian	2
+誢	xian
+鋧	xian	1
+錎	xian	2
+豏	xian	2
+臔	xian	2
+瀗	xian	2
+糮	xian
+鼸	xian
+芗	xiang	6
+郷	xiang	6
+鄊	xiang
+葙	xiang	6
+膷	xiang	2
+儴	xiang	5
+勷	xiang	3
+蘘	xiang	5
+忀	xiang	2
+麘	xiang	1
+瓖	xiang
+欀	xiang
+纕	xiang	4
+瓨	xiang	3
+佭	xiang	2
+栙	xiang	2
+絴	xiang	2
+跭	xiang	2
+亯	xiang	3
+蚃	xiang	3
+晑	xiang	2
+銄	xiang	2
+鲞	xiang	5
+鱶	xiang	2
+姠	xiang	5
+珦	xiang	3
+萫	xiang	4
+缿	xiang	2
+稥	xiang	5
+勨	xiang	2
+嶑	xiang	2
+潒	xiang	3
+襐	xiang	2
+蟓	xiang	5
+鐌	xiang	2
+鱌	xiang
+灲	xiao	2
+灱	xiao	3
+枵	xiao	5
+哓	xiao	7
+侾	xiao	2
+虓	xiao	5
+庨	xiao	2
+宯	xiao
+猇	xiao	2
+焇	xiao	2
+婋	xiao	2
+萷	xiao	2
+硣	xiao	2
+翛	xiao	5
+痚	xiao	2
+痟	xiao	4
+窙	xiao	1
+揱	xiao	2
+嘐	xiao	3
+歊	xiao	3
+撨	xiao	2
+箾	shuo	2
+獢	xiao	2
+魈	xiao	6
+膮	xiao	2
+彇	xiao	2
+藃	xiao	2
+蟏	xiao	1
+穘	xiao	2
+簘	xiao
+鴵	xiao
+謞	xiao	2
+蟰	xiao	2
+髇	xiao	2
+櫹	xiao	2
+髐	xiao	2
+鷍	xiao	2
+虈	xiao	2
+洨	xiao	5
+郩	xiao	2
+崤	xiao	5
+訤	xiao	2
+誵	xiao	2
+暁	xiao	5
+筿	xiao	3
+皛	xiao	5
+皢	xiao	2
+効	xiao	6
+俲	xiao	2
+涍	xiao	2
+敩	xiao	3
+詨	xiao	2
+嘋	xiao	2
+嘨	xiao	2
+誟	xiao
+熽	xiao	2
+旪	xie	5
+奊	xie	2
+垥	xie	2
+拹	xie	2
+峫	xie	2
+恊	xie
+衺	xie	2
+脋	xie	2
+揳	xie	3
+翓	xie	2
+猲	ge	2
+瑎	xie	2
+嗋	xie	2
+愶	xie	3
+綊	xie	2
+膎	xie	2
+熁	xie	2
+蝢	xie	2
+緳	xie	4
+燲	xie	2
+鞵	xie	2
+襭	xie	2
+讗	xie
+龤	xie	5
+冩	xie	5
+藛	xie
+伳	xie	2
+灺	xie	3
+屃	xie	5
+缷	xie	5
+祄	xie	2
+绁	xie	6
+炧	xie	2
+炨	xie	2
+娎	xie	2
+卨	xie	3
+焎	xie	2
+禼	xie	2
+偰	xie	3
+徢	xie	2
+渫	xie	5
+屟	xie
+媟	xie	3
+絬	xie	2
+塮	xie	2
+僁	xie	2
+榍	xie	4
+褉	xie	2
+暬	xie	2
+碿	xie	2
+噧	xie	2
+屧	xie	4
+薤	xie	6
+薢	xie	5
+韰	xie	2
+嶰	xie	3
+獬	xie	6
+廨	xie	5
+糏	xie	2
+澥	xie	5
+鞢	xie	2
+夑	xie	2
+齘	xie
+爕	xie	2
+瀣	xie	5
+齥	xie
+齂	xie
+躠	xie	2
+躞	xie	5
+邤	xin	2
+妡	xin	4
+杺	xin	5
+盺	xin	4
+俽	xin	3
+惞	xin	3
+鈊	xin	5
+廞	xin	3
+噷	xin	5
+嬜	xin
+馫	xin	5
+枔	xin	2
+鬵	xin	2
+伈	xin	5
+阠	xin	2
+伩	xin	3
+孞	xin	2
+炘	xin	6
+軐	xin	2
+脪	xin
+焮	xin	5
+馸	xin	2
+顖	xin	2
+舋	xin
+垶	xing	3
+骍	xing	5
+瑆	xing	5
+蛵	xing	2
+煋	xing	5
+觪	xing	2
+箵	xing	2
+篂	xing	2
+鮏	xing	2
+謃	xing	3
+曐	xing	4
+觲	xing	2
+皨	xing	2
+嬹	xing	2
+鯹	xing	2
+坙	xing	2
+侀	xing	5
+钘	xing	5
+洐	xing	3
+娙	xing	3
+硎	xing	6
+铏	xing	5
+銒	jian	2
+鋞	xing	2
+睲	xing
+莕	xing	5
+倖	xing
+涬	xing	3
+婞	xing	5
+塂	xing	3
+緈	xing	5
+臖	xing	2
+匂	xiong	5
+讻	xiong	2
+忷	xiong
+哅	xiong	2
+恟	xiong
+胷	xiong	4
+诇	xiong	2
+俢	xiu	5
+茠	xiu	2
+庥	xiu	5
+烋	xiu	3
+烌	xiu	2
+鸺	xiu	5
+脙	xiu
+臹	xiu	2
+髤	xiu	2
+樇	xiu	2
+銝	xiu	2
+髹	xiu	5
+鎀	xiu
+鏅	xiu	5
+鱃	xiu	2
+飍	xiu	4
+苬	xiu	2
+滫	xiu	3
+潃	xiu	5
+糔	xiu	2
+峀	xiu	2
+珛	xiu	4
+琇	xiu	6
+璓	xiu
+褏	xiu
+褎	xiu
+裦	bao	2
+螑	xiu	2
+嚊	xiu	2
+齅	xiu	2
+旴	xu	4
+盱	xu	6
+疞	xu	2
+姁	xu	3
+欨	xu	2
+虗	xu	2
+偦	xu	2
+裇	xu	3
+谞	xu	5
+揟	xu	2
+幁	xu	2
+媭	xu	2
+楈	xu	2
+窢	xu	3
+稰	xu
+魆	xu	3
+蕦	xu	2
+歔	xu	4
+蝑	xu	2
+縃	xu	2
+歘	xu	4
+譃	xu	2
+魖	xu	2
+驉	xu	2
+鑐	xu	2
+俆	xu	5
+蒣	xu	2
+呴	xu	5
+珝	xu	4
+冔	xu	2
+蛡	xu	2
+暊	xu	2
+鄦	xu	2
+糈	xu	5
+醑	xu	5
+伵	xu	2
+汿	xu	2
+沀	xu
+侐	xu	2
+昫	xu	3
+洫	xu	5
+珬	xu	2
+垿	xu	3
+殈	xu
+欰	xu	2
+烅	xu	2
+烼	xu	2
+聓	xu	2
+壻	xu	5
+朂	xu	3
+喣	xu	3
+訹	xu	2
+溆	xu	6
+湑	xu	3
+慉	xu	2
+槒	xu	2
+瞁	xu
+盢	xu
+聟	xu	2
+潊	xu	2
+稸	xu	2
+獝	xu	2
+緖	xu	2
+瞲	xu	2
+藚	xu
+吅	xuan	5
+昍	xuan	2
+咺	xuan	4
+晅	xuan	5
+谖	xuan	7
+塇	xuan	2
+揎	xuan	5
+萲	xuan	2
+愋	xuan	2
+愃	xuan	2
+媗	xuan	5
+蓒	xuan
+煖	xuan
+睻	xuan	2
+蝖	xuan	2
+箮	xuan	2
+儇	xuan	6
+翧	xuan	2
+禤	xuan	5
+蕿	xuan	3
+諠	xuan	1
+嬛	xuan	5
+駽	xuan	2
+轋	xuan	2
+鍹	xuan	2
+蘐	xuan	2
+藼	xuan	1
+矎	xuan	2
+蠉	xuan	2
+翾	xuan	5
+讂	juan	2
+妶	xuan	2
+玹	xuan	6
+痃	xuan	3
+琁	xuan	3
+蜁	xuan
+嫙	xuan	5
+暶	xuan	2
+檈	xuan	2
+烜	xuan	7
+暅	xuan	4
+怰	xuan	2
+昡	xuan	4
+袨	xuan	3
+琄	xuan	2
+眴	xuan	4
+衒	xuan	2
+楦	xuan	7
+蔙	xuan	2
+碹	xuan	5
+颴	xuan
+縼	xuan	3
+贙	xuan	2
+疶	xue	2
+蒆	xue	3
+辥	xue	2
+辪	xue	2
+斈	xue	2
+乴	xue	2
+茓	xue	5
+岤	xue
+峃	xue	4
+泶	xue	5
+鸴	xue	2
+袕	xue	2
+踅	xue	5
+燢	xue	2
+觷	xue	2
+雤	xue	2
+坹	xue	2
+狘	xue	2
+泧	xue	2
+怴	xue
+桖	xue	6
+瀥	xue	2
+坃	xun	2
+姰	xun	2
+焄	xun	2
+蔒	hun	2
+勲	xun	5
+駨	xun
+薫	xun	5
+薰	xun
+嚑	xun
+獯	xun	5
+曛	xun	6
+臐	xun	2
+蘍	xun	2
+矄	xun	2
+壦	xun	2
+爋	xun	2
+廵	xun	3
+杊	xun	2
+畃	xun	2
+郇	xun	6
+咰	xun	2
+恂	xun	7
+紃	xun	3
+珣	xun	6
+栒	xun	2
+桪	xun	2
+毥	xun	2
+偱	xun	3
+揗	xun	2
+鄩	xun	2
+璕	xun	2
+攳	xun	2
+燂	xun	4
+燖	xun	2
+襑	xun	2
+鱏	xun	2
+灥	xun	3
+卂	xun	2
+伨	xun
+侚	xun
+迿	xun	2
+狥	xun	3
+巺	xun	3
+訙	xun	2
+奞	xun	2
+殾	xun	2
+稄	xun	2
+賐	xun
+蕈	xun	7
+噀	xun	3
+顨	xun
+鑂	xun
+庘	ya	3
+铔	ya	3
+孲	ya	2
+鐚	ya	4
+岈	ya	5
+玡	ya	5
+枒	ya	2
+疨	ya	2
+笌	ya	5
+堐	ya	2
+崕	ya	5
+猚	ya	2
+瑘	ya	2
+漄	ya	4
+齖	ya	2
+厊	ya	2
+庌	ya	2
+唖	ya	5
+痖	ya	3
+蕥	ya	5
+劜	ya	2
+圠	ya	1
+襾	ya	3
+迓	ya	6
+犽	ya	3
+挜	ya	2
+砑	ya	5
+俹	ya	2
+揠	ya	7
+聐	ya	2
+猰	ya	2
+圔	ya	2
+窫	ya	2
+恹	yan	6
+珚	yan	2
+崦	yan	5
+偣	yan	5
+焑	yan	3
+傿	yan	2
+漹	yan	2
+嶖	yan
+篶	yan	2
+臙	yan
+黫	yan	2
+讠	yan	7
+厃	yan	2
+昖	yan	2
+郔	yan	2
+挻	shan	4
+莚	yan	2
+唌	xian	5
+狿	yan
+姸	yan	5
+娫	yan
+娮	yan	4
+琂	yan	4
+硏	yan	5
+啱	yan	5
+訮	yan	3
+嵒	yan
+嵓	yan	2
+楌	yan	2
+揅	yan	2
+詽	yan	2
+蔅	yan	2
+碞	yan	2
+虤	yan	2
+厳	yan	5
+壛	yan	2
+巌	yan	3
+櫩	yan	2
+麙	yan	2
+壧	yan
+麣	yan	6
+夵	yan	3
+抁	yan	3
+沇	yan	4
+乵	yan	2
+匽	yan	3
+弇	yan	5
+萒	yan	2
+郾	yan	5
+厣	yan	6
+酓	yan	2
+揜	yan	4
+棪	yan	5
+嵃	yan	3
+遃	yan	2
+渰	yan	3
+渷	yan	4
+愝	yan	2
+扊	yan	2
+隒	yan	2
+椼	yan	3
+硽	yan	2
+罨	yan	6
+裺	yan	2
+褗	yan
+蝘	yan	3
+戭	yan
+躽	yan	2
+黡	yan	2
+檿	yan	2
+鶠	yan	2
+齞	yan
+甗	yan	4
+黤	yan	2
+黬	yan
+黭	yan	2
+顩	yan
+孍	yan	2
+曮	yan
+巚	yan
+礹	yan	2
+妟	yan	2
+觃	yan	6
+牪	yan	5
+姲	yan	2
+烻	yan	2
+掞	yan	5
+豜	jian	2
+偐	yan	2
+隁	yan	2
+葕	yan	2
+猒	yan	2
+喭	yan	2
+敥	yan	2
+椻	yan	2
+鳫	yan	1
+墕	yan	3
+酽	yan	5
+暥	yan	2
+熖	yan	2
+嬊	yan
+鴈	yan	2
+谳	yan	5
+鬳	yan	2
+嬮	yan	5
+曕	yan	2
+酀	yan
+嬿	yan	5
+爓	yan	2
+鷃	yan	5
+灔	yan	2
+鷰	yan
+觾	yan	2
+驠	yan
+灎	yan	2
+豓	yan
+抰	yang	3
+咉	yang	2
+姎	yang	3
+胦	yang	2
+眏	yang	4
+雵	yang	2
+阦	yang
+玚	yang	5
+飏	yang	7
+钖	yang	5
+氜	yang	2
+劷	yang	2
+垟	yang	6
+昜	yang	5
+羏	yang	2
+珜	yang	2
+眻	yang	2
+蛘	yang	5
+崸	yang	2
+崵	yang	2
+蝆	yang	2
+禓	yang	2
+輰	yang	2
+諹	yang	2
+鴹	yang	2
+鐊	yang	2
+霷	yang
+鸉	yang	2
+佒	yang	3
+坱	yang	3
+岟	yang	2
+𩧫	yang	2
+炴	yang	5
+紻	yang	2
+楧	yang	2
+軮	yang	2
+傟	yang
+氱	yang	5
+慃	yang
+攁	yang
+瀁	yang
+懩	yang	2
+礢	yang	2
+柍	yang	2
+羕	yang	2
+詇	yang	2
+枖	yao	2
+殀	yao
+祅	yao	3
+葽	yao	3
+喓	yao	5
+楆	yao	2
+鴁	yao	2
+尭	yao	3
+轺	yao	5
+峣	yao	5
+珧	yao	5
+倄	yao	2
+烑	yao	2
+揺	yao	4
+傜	yao	5
+殽	yao	2
+嗂	yao	2
+徭	yao	7
+猺	yao	3
+滧	yao	2
+愮	yao	5
+媱	yao	5
+摿	yao
+榣	yao	3
+暚	yao	2
+飖	yao	5
+餆	yao
+磘	yao	2
+嶤	yao	3
+徺	yao
+鎐	yao	2
+鳐	yao	6
+蘨	yao	2
+顤	yao	2
+仸	yao	6
+岆	yao	3
+宎	yao	2
+抭	yao	2
+苭	yao	3
+狕	yao	2
+柼	yao	2
+眑	yao	2
+窅	yao	5
+偠	yao	4
+崾	yao	5
+婹	yao	4
+蓔	yao	2
+溔	yao	2
+榚	yao	2
+鴢	yao
+闄	yao	5
+騕	yao	3
+鷕	yao	2
+穾	yao	2
+袎	yao
+窔	yao	2
+筄	yao	2
+詏	yao	4
+靿	yao	2
+覞	yao	2
+熎	yao	5
+獟	yao	3
+薬	yao	6
+鼼	yao	2
+艞	yao	2
+矅	yao	3
+曣	yao	2
+纅	yao	1
+讑	yao	2
+倻	ye	2
+暍	ye	5
+潱	ye	3
+蠮	ye	2
+捓	ye	2
+铘	ye	5
+鎁	ye	2
+擨	ye	2
+吔	ye	6
+虵	she	3
+埜	ye
+漜	ye	2
+壄	ye	4
+曵	ye	4
+抴	ye
+枼	ye	5
+亱	ye	5
+洂	ye	2
+捙	ye	2
+枽	ye	2
+偞	ye	2
+堨	ye	4
+殗	ye	3
+鄓	ye	2
+墷	ye	2
+楪	ye	4
+馌	ye	3
+璍	ye	2
+曅	ye
+僷	ye	3
+歋	ye	2
+擛	ye	2
+擖	ye	2
+瞱	ye	2
+皣	ye	2
+嶪	ye	2
+嶫	ye	2
+餣	ye	2
+澲	ye	2
+瞸	ye
+曗	ye	2
+嚈	ye	2
+鍱	ye	2
+擪	ye	2
+礏	ye	2
+鎑	ye	2
+鵺	ye	5
+鐷	ye	2
+驜	ye	2
+鸈	ye
+弌	yi	5
+衤	yi	6
+吚	yi	2
+洢	yi	5
+渏	yi	3
+郼	yi	2
+蛜	yi	2
+嫛	yi	2
+稦	yi	2
+嬄	yi	2
+夁	yi	2
+瑿	yi	2
+鹥	yi	3
+繄	yi	4
+檹	yi	2
+黟	yi	6
+譩	yi	3
+黳	yi	2
+乁	yi	5
+匜	yi	5
+彵	yi	4
+杝	yi	2
+宐	yi	2
+戺	yi	2
+冝	yi	2
+侇	yi	2
+狋	yi	4
+沶	yi	2
+衪	yi	2
+柂	yi	2
+峓	yi	2
+迻	yi	3
+恞	yi	2
+瓵	yi	3
+巸	yi	3
+桋	yi	2
+栘	yi	4
+眙	yi	5
+宧	yi	3
+扅	yi	2
+袘	yi
+萓	yi	2
+釶	yi	2
+椬	yi	2
+蛦	yi
+羠	yi	2
+媐	yi	2
+椸	yi	3
+頉	yi	2
+暆	yi	2
+跠	yi
+誃	yi	3
+熪	yi
+頥	yi	2
+螔	yi	2
+嶬	yi	2
+彛	yi	5
+嶷	yi	6
+簃	yi	5
+顊	yi
+鮧	yi	2
+寲	yi	5
+謻	yi	2
+鏔	yi	2
+觺	yi	2
+讉	yi	3
+鸃	yi	2
+钇	yi	6
+佁	yi	5
+攺	yi	5
+苢	yi	2
+舣	yi	5
+庡	yi	6
+笖	yi	3
+扆	yi	5
+逘	yi	2
+偯	yi	2
+崺	yi	2
+鳦	yi	2
+鈘	yi	2
+鉯	yi	2
+旑	yi	2
+敼	yi	2
+檥	yi	3
+轙	yi	2
+齮	yi	2
+仡	yi	6
+肊	yi	2
+阣	yi	2
+芅	yi	3
+伇	yi	3
+忔	yi	5
+坄	yi	2
+耴	yi	2
+苅	yi	3
+杙	yi	3
+劮	yi	2
+伿	yi	2
+枍	yi	3
+呭	yi	3
+呹	yi
+峄	yi	5
+秇	yi
+佾	yi	5
+炈	yi	2
+泆	yi	5
+怈	yi	2
+怿	yi	6
+妷	yi	3
+玴	yi	2
+枻	yi	5
+昳	yi	6
+帠	yi
+俋	yi	2
+帟	yi	3
+浂	yi	2
+衵	yi	2
+栧	yi	3
+栺	yi	5
+酏	yi	5
+貤	yi	2
+唈	yi	3
+欭	yi	2
+垼	yi	2
+浳	yi	2
+浥	yi	6
+悒	yi	6
+袣	yi
+陭	yi	2
+埸	yi	6
+埶	yi	5
+勚	yi
+萟	yi	2
+殹	yi	2
+悘	yi	3
+豛	yi	2
+隿	yi
+釴	yi	2
+訲	yi	2
+悥	yi	2
+豙	yi	2
+羛	yi	2
+棭	yi	3
+殔	yi
+晹	yi	5
+敡	yi	2
+跇	yi	2
+幆	yi	3
+骮	yi	2
+詍	yi	2
+焲	yi	2
+湙	yi	2
+搤	yi	2
+亄	yi	2
+獈	yi	3
+裛	yi	4
+痬	yi	2
+竩	yi	2
+兿	yi	5
+蓺	yi	4
+靾	yi	2
+榏	yi	2
+膉	yi	2
+廙	yi	3
+瘗	yi	6
+潩	yi	5
+嫕	yi	4
+撎	yi	2
+槸	yi	3
+鹝	yi	2
+黓	yi	2
+镒	yi	6
+鹢	yi	5
+熼	yi	5
+熤	yi	3
+墿	yi	5
+瞖	yi	2
+殪	yi	5
+曀	yi	5
+螠	yi	3
+圛	yi	3
+穓	yi	2
+儗	yi	4
+劓	yi	5
+艗	yi	2
+澺	yi	2
+褹	yi	2
+嬑	yi	3
+嬟	yi	2
+檍	yi	2
+曎	yi
+斁	yi	5
+歝	yi	2
+貖	yi	2
+燡	yi	2
+燱	yi	2
+寱	yi	2
+藙	yi	2
+贀	yi	2
+镱	yi	5
+豷	yi	2
+霬	yi	2
+鶂	yi	2
+鶃	yi	2
+鯣	yi	2
+蘙	yi	2
+醳	yi	2
+醷	yi	2
+饐	yi	2
+瀷	yi	3
+鷧	yi	2
+襼	yi	2
+虉	yi	2
+鷾	yi	2
+齸	yi	2
+乚	yin	5
+囙	yin	5
+阥	yin	2
+侌	yin	3
+垔	yin	2
+洇	yin	6
+骃	yin	5
+栶	yin	2
+秵	yin	2
+凐	yin	3
+裀	yin	3
+陻	yin	2
+堙	yin	6
+筃	yin	5
+愔	yin	5
+婣	yin	3
+絪	yin	4
+蒑	yin
+歅	yin	2
+溵	yin	3
+禋	yin	5
+瘖	yin	5
+鞇	yin
+磤	yin	2
+霒	yin	2
+諲	yin	5
+霠	yin	2
+闉	yin	3
+噾	yin	5
+濦	yin	2
+韾	yin	2
+冘	yin	3
+乑	yin	2
+苂	yin	2
+犾	yin	3
+玪	yin	3
+烎	yin	5
+斦	yin	2
+泿	yin	2
+珢	yin	2
+荶	yin	2
+訔	yin	2
+圁	yin	3
+狺	yin	5
+訚	yin	3
+峾	yin	2
+唫	yin	3
+崟	yin	5
+崯	yin	3
+訡	yin	4
+龂	yin	2
+鈝	yin	2
+碒	yin	2
+滛	yin
+蔩	yin	2
+璌	yin	2
+殥	yin	2
+噖	yin	2
+膶	yin	2
+蟫	yin	3
+嚚	yin	3
+淾	yin	2
+釿	yin	2
+鈏	yin
+靷	yin	2
+飮	yin	6
+隠	yin	7
+朄	yin
+趛	yin	2
+檃	yin	2
+螾	yin	3
+嶾	yin	2
+濥	yin	2
+櫽	yin	3
+讔	yin	2
+廴	yin	5
+茚	yin	6
+洕	yin	2
+垽	yin	3
+堷	yin	2
+湚	yin	2
+酳	yin	2
+慭	yin	2
+癊	yin	2
+憗	yin	2
+懚	yin	2
+檼	yin	2
+偀	ying	2
+䓨	ying
+渶	ying	5
+媖	ying	4
+绬	ying	2
+焽	ying	2
+朠	ying	3
+煐	ying	5
+碤	ying	2
+锳	ying	3
+嫈	ying	2
+撄	ying	5
+賏	ying
+蝧	ying	2
+甇	ying
+璎	ying	6
+霙	ying	5
+褮	ying
+韺	ying	2
+鶧	ying	2
+蘡	ying	2
+譍	ying	1
+瀴	ying	2
+礯	ying	2
+譻	ying	2
+鑍	ying	2
+鷪	ying	2
+蠳	ying
+盁	ying	2
+桯	ying	3
+萾	ying	2
+溁	ying	7
+溋	ying	2
+蓥	ying	6
+僌	ying
+潆	ying	6
+藀	ying	2
+覮	ying
+謍	ying	2
+濴	ying	2
+濙	ying	2
+攍	ying	2
+巆	ying	5
+瀯	ying	4
+櫿	ying
+籝	ying	3
+灜	ying	4
+籯	ying	2
+矨	ying	2
+浧	ying	4
+梬	ying	3
+颕	ying	2
+摬	ying	2
+瘿	ying	6
+鐛	ying	2
+廮	ying	2
+暎	ying	5
+媵	ying	7
+膡	ying	2
+噟	ying	2
+嗈	yong
+墉	yong	6
+滽	yong	2
+嫞	yong	2
+槦	yong	4
+銿	yong	2
+牅	yong	2
+噰	yong	2
+镛	yong	6
+郺	yong	2
+澭	yong	2
+癕	yong	2
+雝	yong	4
+鳙	yong	7
+廱	yong	2
+灉	yong	4
+鷛	yong	2
+饔	yong	5
+栐	yong	4
+勈	yong	2
+埇	yong	5
+悀	yong	2
+硧	yong	2
+惥	yong	2
+愑	yong	2
+塎	yong	2
+嵱	yong	2
+愹	yong	2
+彮	yong
+慂	yong	2
+鲬	yong	2
+禜	yong	2
+苚	yong	3
+砽	yong	2
+泑	you	3
+怮	you	3
+麀	you	2
+滺	you	4
+鄾	you	2
+嚘	you	2
+瀀	you	2
+懮	you	5
+櫌	you	5
+耰	you	4
+纋	you	2
+尢	you	6
+尣	wang	2
+沋	you	4
+肬	you
+怞	you	2
+怣	you	4
+斿	you	5
+莤	you	2
+莸	you	5
+逌	you	2
+蚘	you	2
+峳	you	2
+秞	you	4
+浟	you	2
+逰	you	3
+蚰	you	7
+偤	you	2
+訧	you	2
+楢	you	5
+鲉	you	4
+駀	you
+輏	you	2
+輶	you	5
+櫾	you	2
+邎	you	2
+苃	you	3
+丣	you	3
+卣	you	6
+羑	you	5
+羐	you	2
+庮	you	2
+聈	you	2
+梄	you	2
+铕	you	6
+脜	you	2
+蒏	yong	2
+湵	you	2
+蜏	you	2
+禉	you
+槱	you	4
+牗	you	3
+狖	you	5
+糿	you	2
+孧	you	2
+迶	you	2
+哊	you	5
+峟	you	2
+牰	you	2
+祐	you
+姷	you	3
+唀	you	2
+梎	you	2
+蚴	you	7
+痏	you	3
+貁	you	2
+亴	you	3
+酭	you	2
+迃	yu	2
+扜	yu	2
+纡	yu	7
+於	yu
+陓	yu	2
+虶	yu
+唹	yu	2
+盓	yu	2
+箊	yu	2
+亐	yu	5
+邘	yu	3
+伃	yu	3
+玗	yu	5
+玙	yu	6
+扵	yu	2
+杅	yu	4
+衧	yu	2
+茰	yu	2
+舁	yu	6
+酑	yu	2
+狳	yu	5
+悇	yu	2
+娯	yu	4
+釪	yu	2
+隃	yu	4
+堣	yu	5
+堬	yu	3
+楰	yu	2
+硢	yu	2
+畭	yu	2
+喁	yong	5
+嵎	yu	5
+嵛	yu	7
+骬	yu	2
+畬	yu	2
+湡	yu	5
+媮	tou
+婾	tou	2
+楡	yu	2
+牏	yu	2
+艅	yu	2
+歈	yu	2
+睮	yu	2
+窬	yu	5
+褕	yu	3
+蕍	yu	2
+歶	yu
+颙	yu	5
+蝓	yu	6
+雓	yu
+魣	yu	2
+羭	yu	2
+澞	yu	2
+懙	yu	2
+嬩	yu	5
+鍝	yu	5
+螸	yu
+髃	yu	5
+鮽	yu	2
+謣	yu	2
+旟	yu	3
+蘛	yu	2
+鰅	yu	2
+鷠	yu	2
+鸆	yu	2
+伛	yu	6
+穻	yu
+挧	yu	2
+俣	yu	7
+峿	yu
+祤	yu	5
+敔	yu	5
+匬	yu	2
+圉	yu	7
+偊	yu	2
+鄅	yu	2
+萭	yu	2
+萮	yu	2
+铻	yu	4
+斞	yu	2
+瑀	yu	6
+楀	yu	5
+寙	yu	2
+窳	yu	5
+藇	yu	2
+噳	yu	2
+貐	yu	2
+斔	yu	2
+麌	yu	3
+蘌	yu	2
+圫	yu	2
+芌	yu	2
+饫	yu	6
+忬	yu	2
+茟	yu	2
+秗	yu	2
+栯	yu	3
+砡	yu	2
+俼	yu	2
+堉	yu	5
+喐	yu	2
+悆	yu	5
+逳	yu	2
+袬	yu	2
+淢	yu	2
+淯	yu	5
+惐	yu
+琙	yu	2
+棫	yu	3
+棜	yu	2
+棛	yu	2
+硲	yu	2
+喅	yu	2
+喩	yu	5
+鹆	yu	5
+庽	yu	2
+焴	yu	2
+媀	yu	2
+矞	yu	5
+蒮	yu	2
+蓣	yu	4
+罭	yu	2
+稢	yu	2
+艈	yu	2
+滪	yu	2
+輍	yu	2
+戫	yu	2
+蜮	yu	6
+蜟	yu
+嶎	yu	2
+僪	yu	4
+銉	yu
+隩	yu	3
+緎	yu	2
+鳿	yu
+墺	yu	3
+薁	yu	3
+蓹	yu	2
+噊	yu	2
+稶	yu	2
+鋊	yu	2
+遹	yu	5
+燠	yu	5
+燏	yu	5
+鴪	yu	2
+鴧	yu
+礇	yu	2
+儥	yu	2
+魊	yu	2
+鹬	yu	6
+醧	yu	2
+穥	yu	2
+篽	yu	2
+礜	yu	2
+繘	yu	5
+櫲	yu	2
+饇	yu
+霱	yu	2
+轝	yu	2
+鐭	yu	5
+驈	yu	2
+欎	yu	5
+籞	yu	3
+鸒	yu	2
+欝	yu	2
+龥	yu	6
+鬰	yu	3
+灪	yu	3
+爩	yu	3
+囦	yuan	5
+剈	yuan	2
+眢	yuan	4
+弲	yuan	2
+渁	yuan	4
+渆	yuan	2
+渕	yuan	5
+寃	yuan	5
+葾	yuan	2
+惌	yuan	3
+蒬	yuan	2
+棩	yuan	5
+蜎	yuan	3
+鹓	yuan	5
+蜵	yuan	2
+駌	yuan	4
+鋺	yuan	2
+嬽	yuan	2
+灁	yuan	2
+鼘	yuan	2
+鼝	yuan	2
+邧	yuan	3
+贠	yuan	5
+妧	yuan	5
+杬	yuan	3
+蚖	yuan	3
+笎	yuan	2
+厡	yuan	3
+鼋	yuan	7
+喛	yuan	3
+圎	yuan	3
+傆	yuan	4
+猨	yuan	5
+湲	yuan	6
+蒝	yuan	2
+楥	yuan	2
+獂	yuan	2
+溒	yuan	2
+媴	yuan	3
+嫄	yuan	5
+榬	yuan	2
+榞	yuan	2
+褑	yuan	2
+蝯	yuan
+蝝	yuan	2
+魭	yuan	3
+褤	yuan
+縁	yuan	5
+薗	yuan	2
+橼	yuan	6
+螈	yuan	6
+羱	yuan	3
+謜	yuan	2
+鎱	yuan	3
+邍	yuan	2
+鶢	yuan	2
+厵	yuan	5
+盶	yuan	2
+逺	yuan	5
+夗	yuan	3
+肙	yuan	2
+茒	yuan	2
+妴	yuan	2
+衏	yuan
+掾	yuan	7
+禐	yuan	2
+裫	yuan
+噮	yuan	2
+曱	yue	5
+箹	yue	5
+矱	yue	2
+彟	yue	4
+戉	yue	3
+刖	yue	6
+汋	yue	4
+抈	yue	2
+岄	yue	5
+礿	yue	3
+枂	yue	5
+恱	yue	3
+蚎	yue	2
+蚏	yue	2
+捳	yue	2
+跀	yue	2
+篗	yue	2
+嬳	yue	2
+龠	yue	6
+籆	yue	2
+蘥	yue	2
+黦	yue	2
+瀹	yue	7
+爚	yue	3
+禴	yue	2
+籥	yue
+鸑	yue	3
+籰	yue	2
+鸙	yue	2
+蒀	yun	3
+辒	yun	3
+煴	yun	3
+奫	yun	3
+蝹	yun	2
+馧	yun	2
+囩	yun	7
+沄	yun	6
+妘	yun	6
+眃	yun	2
+畇	yun	3
+秐	yun	2
+耺	yun	2
+涢	yun	5
+蒷	yun	2
+筼	yun	3
+愪	yun	6
+鋆	yun	7
+橒	yun	2
+縜	yun	2
+阭	yun	2
+抎	yun	2
+夽	yun	2
+狁	yun	5
+玧	yun	3
+荺	yun	2
+喗	yun	2
+馻	yun	2
+褞	yun	2
+磒	yun	2
+賱	yun
+齫	yun
+齳	yun	2
+枟	yun	5
+郓	yun	6
+恽	yun	6
+傊	yun	2
+蕰	yun	5
+薀	yun
+鞰	yun
+韗	yun	2
+帀	za	5
+迊	za	2
+沞	za	2
+拶	zan
+桚	za	2
+魳	za	2
+臜	za	2
+沯	za	2
+韴	za	2
+雑	za	5
+磼	za	2
+囐	za	2
+雥	za	2
+烖	zai	2
+菑	zai	5
+渽	zai	2
+溨	zai	2
+睵	zai	2
+賳	zai	2
+扗	zai	2
+洅	zai	5
+傤	zai	2
+酨	zai	2
+縡	zai	2
+兂	zan	5
+糌	zan	5
+簮	zan	5
+鐟	zan	3
+鐕	zan	2
+昝	zan	7
+寁	zan	2
+揝	zan	2
+撍	zan
+噆	zan	2
+儧	zan	2
+趱	zan	5
+錾	zan	6
+鄼	zan	1
+酂	zan	3
+濽	zan
+瓉	zan	2
+瓒	zan	7
+囋	zan	3
+讃	zan	3
+禶	zan	2
+穳	zan	1
+襸	zan
+饡	zan	1
+羘	zang	2
+牂	zang	3
+賘	zang	2
+驵	zang	5
+弉	zang	2
+塟	zang	3
+銺	zang	2
+醩	zao	2
+蹧	zao
+栆	zao	5
+璅	zao	2
+璪	zao	3
+薻	zao	2
+唣	zao	5
+梍	zao	2
+喿	zao	2
+艁	zao	2
+煰	zao	2
+慥	zao	3
+簉	zao	2
+趮	zao	2
+択	ze	5
+迮	ze	5
+泎	ze	2
+萚	ze	3
+唶	ze	3
+帻	ze	5
+笮	ze	5
+舴	ze	5
+溭	ze	2
+矠	ze	2
+箦	ze	5
+嫧	ze	2
+赜	ze	6
+樍	ze
+歵	ze	2
+諎	ze	3
+瞔	ze	2
+耫	ze	2
+礋	ze	2
+謮	ze	2
+蠌	ze	1
+齚	ze	2
+鸅	ze	2
+夨	ze	5
+庂	ze
+汄	ze	2
+昃	ze	6
+昗	ze	2
+捑	ze	2
+崱	ze	5
+鲗	zei	3
+蠈	zei	2
+鱡	zei	2
+谮	zen	6
+譛	zen	2
+囎	zen
+鄫	zeng	3
+璔	zeng	2
+橧	zeng	2
+熷	zeng	5
+磳	zeng	2
+罾	zeng	6
+矰	zeng	3
+譄	zeng	2
+缯	zeng	6
+抯	zha	3
+挓	zha	2
+柤	zha	4
+哳	zha	5
+偧	zha	2
+揸	zha	6
+溠	zha
+皶	zha	2
+箚	zha	2
+樝	zha	2
+觰	zha	2
+皻	zha	3
+蹅	zha	2
+譇	zha
+齄	zha	5
+甴	zha	5
+蚻	zha	2
+煠	zha	3
+霅	zha	5
+譗	zha
+厏	zha	2
+苲	zha	2
+砟	zha	7
+搩	zha	2
+鲝	zha	2
+踷	zha	2
+灹	zha	2
+奓	zha	5
+痄	zha	5
+宱	zha	2
+鲊	zha	5
+醡	zha	2
+夈	zhai	3
+捚	zhai	2
+斎	zhai	6
+榸	zhai
+鉙	zhai	2
+砦	zhai	7
+瘵	zhai	5
+𧮪	zhan
+枬	zhan	4
+栴	zhan	5
+蛅	zhan	2
+趈	zhan	2
+惉	zhan	2
+閚	zhan	2
+薝	zhan	2
+噡	zhan	2
+嶦	zhan	2
+邅	zhan	5
+覱	zhan
+鹯	zhan	3
+旜	zhan	2
+鳣	zhan	3
+魙	zhan	2
+讝	zhan	2
+拃	zhan	3
+飐	zhan	5
+琖	zhan	3
+搌	zhan	5
+榐	zhan	2
+嶃	zhan	4
+醆	zhan
+嫸	zhan	2
+橏	zhan	2
+蹍	zhan
+皽	zhan	2
+黵	zhan	2
+菚	zhan	2
+偡	zhan	2
+輚	zhan	2
+虦	zhan	2
+虥	zhan
+轏	zhan	2
+弡	zhang	2
+傽	zhang
+鄣	zhang	5
+蔁	zhang	2
+遧	zhang	2
+粻	zhang
+慞	zhang	2
+嫜	zhang	5
+暲	zhang	3
+騿	zhang	1
+麞	zhang	2
+仉	zhang	6
+涱	zhang	2
+幥	zhang
+礃	zhang	2
+扙	zhang	4
+墇	zhang	2
+瞕	zhang	2
+瘬	zhang	2
+佋	zhao	3
+妱	zhao	2
+巶	zhao	2
+盄	zhao	2
+釽	pi	2
+鉊	zhao	2
+駋	zhao	2
+鍣	zhao	2
+窼	zhao	2
+爫	zhao	4
+菬	zhao	2
+瑵	zhao	2
+枛	zhao	2
+垗	zhao	2
+狣	zhao	2
+笊	zhao	6
+肁	zhao	2
+旐	zhao	4
+箌	zhao	3
+肈	zhao	4
+鮡	zhao	2
+燳	zhao	2
+瞾	zhao	5
+羄	zhao	3
+嗻	zhe	3
+嫬	zhe
+乛	zhe	5
+厇	zhe
+矺	zhe	2
+歽	zhe	2
+砓	zhe	2
+虴	zhe	2
+籷	zhe
+埑	zhe	2
+粍	zhe	6
+袩	zhe
+晢	zhe	5
+悊	zhe	5
+晣	zhe	4
+啠	zhe	2
+棏	zhe	4
+詟	zhe	4
+樀	di	3
+輙	zhe	3
+磔	zhe	6
+銸	zhe	2
+嚞	zhe	4
+謺	zhe	2
+禇	zhe	5
+淛	zhe	4
+樜	zhe	2
+蟅	zhe	3
+珎	zhen	5
+枮	zhen	2
+浈	zhen	5
+栕	zhen	3
+帪	zhen	2
+桭	zhen	3
+酙	zhen	2
+葴	zhen	2
+遉	zhen
+寊	zhen	2
+搸	zhen	2
+靕	zhen	2
+蒖	zhen	2
+獉	zhen	2
+瑧	zhen	5
+槇	dian	4
+碪	zhen	3
+殝	zhen	2
+禛	zhen	6
+潧	zhen	5
+薽	zhen
+樼	zhen	4
+錱	zhen	3
+澵	zhen	2
+轃	zhen	2
+鍖	zhen	2
+籈	zhen
+鱵	zhen	2
+抮	zhen	2
+昣	zhen	2
+弫	zhen	2
+姫	zhen	7
+眕	zhen	3
+畛	zhen	5
+袗	zhen	3
+屒	zhen	2
+聄	zhen	2
+紾	zhen	5
+覙	zhen	2
+裖	zhen	2
+嫃	zhen	3
+駗	zhen
+稹	zhen	5
+縥	zhen	2
+辴	zhen
+鬒	zhen	2
+黰	zhen	2
+纼	zhen	2
+挋	zhen	2
+侲	zhen	2
+栚	zhen
+眹	zhen	2
+揕	zhen	3
+塦	zhen
+蜄	zhen	2
+絼	zhen	2
+敶	zhen	3
+鋴	zhen
+黮	zhen	3
+佂	zheng	4
+姃	zheng	2
+埩	zheng	2
+炡	zheng	2
+眐	zheng	2
+钲	zheng	6
+烝	zheng	6
+聇	zheng	2
+崝	zheng	3
+揁	zheng	2
+媜	zheng	2
+踭	zheng	4
+徰	zheng	2
+鬇	zheng	2
+篜	zheng	2
+氶	zheng	5
+抍	zheng	2
+糽	zheng	2
+掟	zheng	5
+晸	zheng	5
+愸	zheng
+撜	zheng	2
+塣	zheng	2
+鴊	zheng	2
+巵	zhi	5
+汥	zhi	2
+秓	zhi	2
+秖	zhi
+胑	zhi	2
+衼	zhi	2
+秪	zhi	3
+倁	zhi	4
+疷	zhi	2
+祬	zhi	2
+椥	zhi
+臸	zhi	5
+搘	zhi	3
+禔	zhi	5
+馶	zhi	2
+榰	zhi	2
+蘵	zhi	2
+鼅	zhi	2
+禵	zhi	2
+坧	zhi	2
+聀	zhi	2
+値	zhi	6
+釞	zhi	2
+埴	zhi	5
+淔	zhi	2
+絷	zhi	6
+犆	zhi	3
+禃	zhi	2
+瓡	zhi	2
+稙	zhi	2
+馽	zhi	2
+墌	zhi	2
+摭	zhi	6
+漐	zhi	2
+慹	zhi	3
+嬂	zhi	2
+樴	zhi	2
+膱	zhi	2
+蹠	zhi
+蹢	zhi	2
+蟙	zhi
+軄	zhi	2
+夂	zhi	6
+劧	zhi	3
+阯	zhi
+坁	zhi	2
+扺	zhi	2
+帋	zhi	3
+沚	zhi	6
+汦	zhi	2
+抧	zhi	2
+茋	zhi	2
+泜	di	4
+砋	zhi	2
+轵	zhi	5
+洔	zhi
+恉	zhi	3
+茝	zhi	5
+疻	zhi	2
+淽	zhi	2
+黹	zhi	5
+藢	zhi	2
+襧	zhi	2
+阤	zhi	2
+芖	zhi	2
+扻	zhi
+忮	zhi	5
+垁	zhi	2
+厔	zhi	2
+挃	zhi	5
+柣	zhi	2
+庤	zhi	5
+庢	zhi	5
+洷	zhi	2
+祑	zhi
+贽	zhi	6
+歭	zhi	3
+晊	zhi	2
+徏	zhi	2
+胵	zhi	3
+狾	zhi
+袟	zhi
+娡	zhi	3
+梽	zhi	4
+眰	zhi	5
+畤	zhi	5
+铚	zhi	5
+秷	zhi	7
+偫	zhi	3
+貭	zhi	3
+徝	zhi	2
+乿	luan	3
+猘	zhi	3
+觗	zhi	2
+袠	zhi	3
+翐	zhi
+紩	zhi
+崻	zhi	2
+傂	zhi	2
+骘	zhi	6
+搱	zhi	2
+跱	zhi	3
+锧	zhi	2
+筫	zhi	2
+廌	zhi	4
+滍	zhi	3
+寘	zhi	5
+綕	zhi	2
+墆	zhi	2
+覟	zhi
+疐	zhi	3
+瘈	zhi	2
+潌	zhi	2
+踬	zhi	5
+稺	zhi	2
+憄	zhi	2
+鋕	zhi	2
+膣	zhi
+觯	zhi	5
+熫	zhi
+潪	zhi	3
+薙	zhi	5
+鴙	zhi	2
+旘	zhi
+瀄	zhi
+擿	zhi	5
+螲	zhi	2
+穉	zhi	4
+儨	zhi	2
+劕	zhi	2
+懥	zhi	2
+懫	zhi	2
+瓆	zhi	2
+櫍	zhi	2
+鯯	zhi
+礩	zhi	2
+豑	zhi	2
+鶨	zhi	2
+驇	zhi	2
+騺	zhi	2
+鑦	zhi	2
+豒	zhi	2
+伀	zhong	5
+汷	zhong	2
+彸	zhong	2
+妐	zhong	2
+刣	zhong	2
+炂	zhong	2
+泈	zhong	2
+柊	zhong	6
+衳	zhong	2
+舯	zhong	6
+蔠	zhong	5
+幒	zhong	2
+鴤	zhong	1
+螤	zhong	2
+螽	zhong	6
+鼨	zhong
+蹱	zhong	2
+籦	zhong	2
+尰	zhong	2
+歱	zhong
+煄	zhong	3
+瘇	zhong	2
+狆	zhong	5
+妕	zhong	2
+祌	zhong	4
+茽	zhong	3
+衶	zhong	2
+蚛	zhong	2
+偅	zhong	5
+堹	zhong	2
+筗	zhong	2
+媑	zhong	2
+侜	zhou	2
+炿	zhou	2
+洀	zhou	2
+珘	zhou	2
+辀	zhou	4
+郮	zhou	2
+烐	zhou	2
+矪	zhou	2
+徟	zhou	2
+鸼	zhou	2
+淍	zhou	2
+婤	zhou	3
+喌	zhou	4
+赒	zhou	2
+霌	zhou	2
+盩	zhou	2
+嚋	zhou	2
+騆	zhou	1
+碡	zhou	5
+疛	zhou	2
+菷	zhou	2
+晭	zhou	2
+睭	zhou	2
+箒	zhou	3
+伷	zhou	3
+呪	zhou	5
+荮	zhou	5
+酎	zhou	5
+粙	zhou	2
+詋	zhou	2
+甃	zhou	5
+僽	zhou	3
+噣	zhou	2
+籀	zhou	7
+籕	zhou	2
+籒	zhou	2
+劯	zhu	2
+邾	zhu	6
+咮	zhou	3
+秼	zhu	2
+袾	zhu	2
+絑	zhu
+跦	zhu	2
+蕏	zhu	3
+槠	zhu	6
+蝫	zhu	2
+橥	zhu	5
+駯	zhu
+鴸	zhu	2
+鮢	zhu
+藸	zhu	3
+鼄	zhu	2
+鯺	zhu
+蠩	zhu	2
+泏	zhu	2
+茿	zhu	2
+笁	zhu	5
+炢	zhu	2
+窋	zhu	2
+笜	zhu	2
+舳	zhu	6
+蓫	zhu	3
+瘃	zhu	4
+敳	zhu	4
+㔉	zhu
+𣃁	zhu
+蠋	zhu	2
+鱁	zhu	2
+灟	zhu
+曯	zhu	2
+钃	zhu	3
+宔	zhu	4
+罜	zhu	2
+陼	zhu	2
+煑	zhu	3
+詝	zhu	2
+濐	zhu	2
+麈	zhu	5
+芧	zhu	4
+纻	zhu	5
+坾	zhu	2
+杼	zhu	7
+迬	zhu	2
+壴	zhu	3
+柷	zhu	5
+殶	zhu	2
+莇	zhu	3
+砫	zhu	1
+疰	zhu	5
+祩	zhu
+羜	zhu	2
+紸	zhu	4
+軴	zhu	2
+跓	zhu	2
+嵀	zhu	2
+馵	zhu	2
+筯	zhu	4
+鉒	zhu	2
+飳	zhu
+翥	zhu	7
+樦	zhu	2
+鋳	zhu
+霔	zhu	2
+篫	zhu	2
+麆	zhu	2
+檛	zhua	2
+膼	zhua	2
+髽	zhua	3
+簻	zhua	3
+跩	zhuai	5
+叀	zhuan	3
+剸	zhuan	3
+嫥	zhuan	2
+瑼	zhuan
+磗	zhuan	2
+蟤	zhuan	2
+孨	zhuan	3
+灷	zhuan	2
+蒃	zhuan
+瑑	zhuan	3
+僎	zhuan	2
+篹	zhuan
+襈	zhuan	2
+簨	zhuan	5
+譔	zhuan
+籑	zhuan	2
+庒	zhuang	5
+娤	zhuang	5
+梉	zhuang	2
+粧	zhuang
+湷	zhuang	3
+糚	zhuang	2
+丬	jiang	5
+壵	zhuang	5
+焋	zhuang	2
+戅	zhuang
+隹	zhui	7
+骓	zhui	5
+鵻	zhui	2
+沝	zhui	5
+笍	zhui	3
+娷	zhui
+甀	zhui	3
+腏	zhui	2
+缒	zhui	6
+硾	zhui	2
+畷	zhui	2
+膇	zhui	2
+醊	zhui	2
+諈	zhui	2
+錣	zhui	2
+餟	zhui	2
+礈	zhui	2
+轛	zhui	2
+鑆	zhui
+迍	zhun	3
+宒	zhun
+窀	zhun	5
+啍	zhun	3
+訰	zhun	2
+衠	zhun	2
+埻	zhun	1
+凖	zhun	5
+稕	zhun	2
+綧	zhun
+炪	zhuo	3
+倬	zhuo	7
+棁	zhuo	3
+涿	zhuo	6
+琸	zhuo	3
+棳	zhuo	2
+槕	zhuo	2
+蝃	zhuo	2
+穛	zhuo	2
+穱	zhuo	2
+蠿	zhuo	2
+圴	zhuo	3
+彴	zhuo	5
+犳	zhuo	6
+妰	zhuo	2
+丵	zhuo	3
+烵	zhuo	2
+浞	zhuo	5
+诼	zhuo	5
+啅	zhuo	2
+娺	zhuo	2
+斱	zhuo	5
+斮	zhuo	3
+椓	zhuo	2
+晫	zhuo	4
+硺	zhuo	2
+罬	zhuo	2
+窧	zhuo	2
+窡	zhuo	7
+擆	zhuo	2
+撯	zhuo	2
+禚	zhuo	5
+斲	zhuo	5
+劅	zhuo	5
+諁	zhuo
+篧	zhuo	2
+斀	zhuo
+斵	zhuo	2
+櫡	zhuo	2
+謶	zhuo	2
+蠗	zhuo	2
+灂	zhuo	3
+籗	zhuo	2
+鷟	zhuo	5
+籱	zhuo	2
+孖	zi	7
+茊	zi	2
+姕	zi	3
+栥	zi	2
+紎	zi	2
+赼	zi	2
+崰	zi	2
+秶	zi	2
+谘	zi	7
+葘	zi	1
+鄑	zi	2
+孶	zi	2
+椔	zi	2
+嗞	zi	6
+嵫	zi	5
+粢	zi	5
+湽	zi	2
+趑	zi	5
+锱	zi	6
+訿	zi	2
+禌	zi	3
+鈭	zi	3
+镃	zi	3
+稵	zi	3
+鼒	zi	2
+趦	zi	2
+輺	zi	2
+鲻	zi	5
+鍿	zi
+頾	zi	2
+頿	zi	2
+齍	zi	2
+鶅	zi	2
+吇	zi	5
+杍	zi	4
+姉	zi	7
+矷	zi	3
+秄	zi	2
+胏	zi	2
+耔	zi	5
+呰	zi	5
+虸	zi	2
+秭	zi	5
+啙	zi	2
+訾	zi	7
+榟	zi	2
+芓	zi	3
+荢	zi	3
+茡	zi	3
+剚	zi	6
+牸	zi	4
+倳	zi	4
+胾	zi	2
+胔	zi
+倧	zong	4
+骔	zong
+堫	zong	2
+葼	zong	2
+嵏	zong	3
+嵕	zong	3
+腙	zong	5
+猣	zong	2
+惾	zong	2
+椶	zong	3
+朡	zong	2
+嵸	zong	2
+稯	zong	2
+緃	zong	2
+踨	zong	2
+蝬	zong	2
+熧	zong
+艐	zong	2
+翪	zong
+磫	zong
+鬉	zong	2
+騣	zong
+鬷	zong	3
+鯮	zong	3
+鯼	zong
+鑁	zong	2
+捴	zong	2
+偬	zong	6
+揔	zong	2
+搃	zong	2
+惣	zong	5
+蓗	zong	2
+摠	zong	2
+総	zong	6
+燪	zong	2
+鍯	zong	2
+鏓	zong	2
+昮	zong	2
+疭	zong	1
+倊	zong	2
+猔	zong
+碂	zong	2
+緵	zong	2
+縦	zong	5
+繌	zong	2
+驺	zou	6
+郰	zou	2
+诹	zou	6
+陬	zou	6
+掫	zou	2
+菆	zou	2
+棸	zou	2
+棷	zou	3
+箃	zou	2
+緅	zou	2
+鄹	zou	5
+鲰	zou	5
+黀	zou
+齺	zou	2
+辶	zou	7
+赱	zou	5
+菹	zu	5
+葅	zu	2
+蒩	zu	2
+鉏	zu	5
+錊	zu	2
+卆	zu	2
+哫	zu	3
+倅	zu	5
+紣	cui	2
+崒	zu	4
+崪	zu	3
+稡	zu	2
+箤	zu	2
+綷	zu	3
+踤	zu	2
+踿	zu	2
+岨	zu	3
+珇	zu	2
+爼	zu	2
+唨	zu	2
+靻	zu	2
+鎺	zu	5
+劗	zuan	2
+躜	zuan	5
+繤	zuan	6
+缵	zuan	5
+纉	zuan	2
+籫	zuan	2
+鑚	zuan	3
+厜	zui	5
+朘	zui	3
+嗺	zui	2
+樶	zui	4
+蟕	zui	2
+嶊	zui	2
+嶵	zui	2
+噿	zui	2
+璻	zui	2
+栬	zui	5
+酔	zui	5
+絊	zui	2
+晬	zui	5
+祽	zui	2
+辠	zui	2
+槜	zui	2
+檇	zui	2
+鋷	zui	2
+檌	zui	2
+欈	zui	2
+墫	zun	2
+嶟	zun
+罇	zun	3
+繜	zun	2
+僔	zun	2
+撙	zun	5
+噂	zun	5
+譐	zun	2
+捘	zun	2
+銌	zun
+莋	zuo	5
+秨	zuo	2
+稓	zuo	2
+筰	zuo	3
+鈼	zuo	3
+阝	zuo	7
+阼	zuo	5
+岝	zuo	2
+岞	zuo	3
+怍	zuo	7
+侳	zuo	2
+胙	zuo	5
+袏	zuo	5
+葃	zuo	2
+葄	zuo	2
+糳	zuo	2
+咗	zuo	6
+𪡀	jiao
+𪡏	lian
+𪡞	gui
+𪨗	jue
+𪩘	xian
+𪫺	jian
+𪮖	jue
+𪮶	la
+𪻐	cong
+𪾸	pin
+𫁡	li
+𫂆	guo
+𫄠	huan
+𫄢	fu
+𫄥	shi
+𫄧	yan
+𫄨	chi
+𫄸	xun
+𫇭	wei
+𫇴	chu
+𫉄	shu
+𫊻	xun
+𫎆	zong
+𫏋	jiao
+𫐄	wu
+𫐒	hong	2
+𫓧	fu
+𫖔	fu
+𫗋	se	2
+𫗧	su
+𫗩	luo
+𫗪	wei
+𫘝	jue
+𫘞	tuo
+𫘤	ai
+𫚉	gang
+𫚔	hui
+𫚥	ha
+𫚭	la
+𫛛	zhi
+𫛞	ju
+𫛩	an
+𫛳	fu
+𫛶	chi
+𫛷	hu
+𫛸	ti
+𫜪	jiao
+𫜬	cuo
+𫟆	zhong

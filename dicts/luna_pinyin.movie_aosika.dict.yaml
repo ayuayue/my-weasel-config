@@ -1,0 +1,120 @@
+# Rime dictionary   encoding: utf-8
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 多音字时，需手动添加注音，如：复校	fu jiao	1
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 于重新部署后生效
+#
+
+---
+name: e_pinyin.movie_aosika
+version: 2019.5
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+翼（Wings, 1927）	yi
+百老汇的旋律（the Broadway Melody, 1929）	bai lao hui de xuan lv
+西线无战事（All Quiet on the Western Front, 1930）	xi xian wu zhan shi
+壮志千秋（Cimarron, 1931）	zhuang zhi qian qiu
+大饭店（Grand Hotel, 1932）	da fan dian
+乱世春秋（Cavalcade, 1933）	luan shi chun qiu
+一夜风流（It Happened One Night, 1934）	yi ye feng liu
+叛舰喋血记（Mutiny on the Bounty, 1935）	pan jian die xue ji
+歌舞大王齐格飞（The Great Ziegfeld, 1936）	ge wu da wang qi ge fei
+佐拉传（The Life of Emile Zola, 1937）	zuo la zhuan
+浮生若梦（You Can't Take It with You, 1938）	fu sheng ruo meng
+乱世佳人（Gone with the Wind, 1939）	luan shi jia ren
+蝴蝶梦（Rebecca, 1940）	hu die meng
+青山翠谷（How Green Was My Valley, 1941）	qing shan cui gu
+卡萨布兰卡（Casablanca, 1942）	ka sa bu lan ka
+米尼弗夫人（Mrs.Miniver, 1942）	mi ni fu fu ren
+与我同行（Going My Way, 1944）	yu wo tong xing
+失去的周末（The Lost Weekend, 1945）	shi qu de zhou mo
+黄金时代（The Best Years of Our Lives, 1946）	huang jin shi dai
+君子协定（Gentleman's Agreement, 1947）	jun zi xie ding
+哈姆雷特（Hamlet, 1948）	ha mu lei te
+当代奸雄（All the King's Men, 1949）	dang dai jian xiong
+慧星美人（All About Eve, 1950）	hui xing mei ren
+一个美国人在巴黎（An American in Paris, 1951）	yi ge mei guo ren zai ba li
+戏中之王（The Greatest Show on Earth, 1952）	xi zhong zhi wang
+乱世忠魂（From Here to Eternity, 1953）	luan shi zhong hun
+码头风云（On the Waterfront, 1954）	ma tou feng yun
+马蒂（Marty, 1955）	ma di
+环游地球八十天（Around the World in Eighty Day, 1956）	huan you di qiu ba shi tian
+桂河大桥（The Bridge on the River Kwai, 1957）	gui he da qiao
+琪琪（Gigi, 1958）	qi qi
+宾虚（Ben Hur, 1959）	bin xu
+桃色公寓（The Apartment, 1960）	tao se gong yu
+西区故事（West Side Story, 1961）	xi qu gu shi
+阿拉伯的劳伦斯（Lawrence of Arabia, 1962）	a la bo de lao lun si
+汤姆琼斯（Tom Jones, 1963）	tang mu qiong si
+窈窕淑女（My Fair Lady, 1964）	yao tiao shu nv
+音乐之声（The Sound of Music, 1965）	yin yue zhi sheng
+四季之人（A Man For All Seasons，1966）	si ji zhi ren
+炎热的夜晚（In the Heat of the Night, 1967）	yan re de ye wan
+雾都孤儿（Oliver!, 1968）	wu dou gu er
+午夜牛郎（Midnight Cowboy, 1969）	wu ye niu lang
+巴顿将军（Patton, 1970）	ba dun jiang jun
+法国贩毒网（The French Connection, 1971）	fa guo fan du wang
+教父（The Godfather, 1972）	jiao fu
+骗中骗（The Sting, 1973）	pian zhong pian
+教父2（The Godfather：Part II, 1974）	jiao fu er
+飞跃疯人院（One Flew Over the Cuckoo's Nest, 1975）	fei yue feng ren yuan
+洛奇（Rocky, 1976）	luo qi
+安尼·霍尔（Annie Hall, 1977）	an ni huo er
+猎鹿人（The Deer Hunter, 1978）	lie lu ren
+克莱莫夫妇（Kramer vs. Kramer，1979）	ke lai mo fu fu
+普通人（Ordinary People, 1980）	pu tong ren
+火的战车（Chariots of Fire, 1981）	huo de zhan che
+甘地传（Gandhi, 1982）	gan di zhuan
+母女情深（Terms of Endearment, 1983）	mu nv qing shen
+莫扎特（Amadeus, 1984）	mo zha te
+走出非洲（Out of Africa, 1985）	zou chu fei zhou
+野战排（Platoon, 1986）	ye zhan pai
+末代皇帝（The Last Emperor, 1987）	mo dai huang di
+雨人（Rain Man, 1988）	yu ren
+为戴西小姐开车（Driving Miss Daisy, 1989）	wei dai xi xiao jie kai che
+与狼共舞（Dances with Wolves, 1990）	yu lang gong wu
+沉默的羔羊（The Silence of the Lambs, 1991）	chen mo de gao yang
+不可饶恕（Unforgiven, 1992）	bu ke rao shu
+辛德勒名单（Schindler's List, 1993）	xin de le ming dan
+阿甘正传（Forrest Gump, 1994）	a gan zheng zhuan
+勇敢的心（Braveheart, 1995）	yong gan de xin
+英国病人（The English Patient, 1996）	ying guo bing ren
+泰坦尼克号（Titanic, 1997）	tai tan ni ke hao
+沙翁情史（Shakespeare in Love, 1998）	sha weng qing shi
+美国丽人（American Beauty, 1999）	mei guo li ren
+角斗士（Gladiator, 2000）	jue dou shi
+美丽心灵（A Beautiful Mind, 2001）	mei li xin ling
+芝加哥（Chicago, 2002）	zhi jia ge
+指环王3：王者无敌（The Lord of the Rings：The Return of the King, 2003）	wang zhe wu di
+撞车（Crash, 2004）	zhuang che
+百万宝贝（Million Dollar Baby, 2004）	bai wan bao bei
+无间行者（The Departed, 2006）	wu jian xing zhe
+老无所依（No country for old men, 2007）	lao wu suo yi
+拆弹部队（The Hurt Locker, 2008）	chai dan bu dui
+贫民窟的百万富翁（Slumdog Millionaire, 2008）	pin min ku de bai wan fu weng
+国王的演讲（The King's Speech, 2010）	guo wang de yan jiang
+艺术家（The Artist, 2011）	yi shu jia
+逃离德黑兰（Argo, 2012）	tao li de hei lan
+为奴十二年（12 Years a Slave, 2013）	wei nu shi er nian
+鸟人（Birdman, 2014）	niao ren
+聚焦（Spotlight, 2015）	ju jiao
+月光男孩（Moonlight, 2016）	yue guang nan hai
+水形物语（The Shape of Water, 2017）	shui xing wu yu
+绿皮书（Green Book, 2018）	lv pi shu
