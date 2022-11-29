@@ -43,5 +43,21 @@ use_preset_vocabulary: true
 
 import_tables:
   - dicts/luna_pinyin.sougou.basic
-
+  - dicts/luna_pinyin.cn_en
+  - dicts/luna_pinyin.cnenhybird
+  - dicts/luna_pinyin.emoji
+  - dicts/luna_pinyin.hanyu
+  - dicts/luna_pinyin.history
+  - dicts/essay
+  - dicts/luna_pinyin.anime
+  - dicts/luna_pinyin.basis
+  - dicts/luna_pinyin.biaoqing
+  - dicts/luna_pinyin.chengyusuyu
+  - dicts/luna_pinyin.chat
+  - dicts/luna_pinyin.classical
+  - dicts/luna_pinyin.computer
+  - dicts/luna_pinyin.comprehensive
+  - dicts/luna_pinyin.diet
+  - dicts/luna_pinyin.extra_hanzi
+  - luna_pinyin
 ...
