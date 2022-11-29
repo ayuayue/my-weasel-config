@@ -42,15 +42,6 @@ use_preset_vocabulary: true
 #雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用。
 
 import_tables:
-  - dicts/luna_pinyin.sougou.conprehensive
-  - dicts/luna_pinyin.popular
-  - dicts/luna_pinyin.xiandaihanyu
-  - dicts/luna_pinyin.computer
-  - dicts/luna_pinyin.kaifa
-  - dicts/luna_pinyin.poetry
-  - dicts/luna_pinyin.place
-  - dicts/luna_pinyin.shopping
-  - dicts/luna_pinyin.website
-  - dicts/luna_pinyin.comprehensive
+  - dicts/luna_pinyin.sougou.basic
 
 ...

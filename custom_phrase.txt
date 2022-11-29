@@ -75,6 +75,9 @@ Mac	mac
 Wi-Fi	wifi
 Apple ID	appleid
 QQ邮箱	qqyzxl
-PHP php
-1401262639@qq.com   email
-clash   clash
+PHP	php
+1401262639@qq.com	email
+clash	clash
+Google	google
+Python	python
+MariaDB	maria
