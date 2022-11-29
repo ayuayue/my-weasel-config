@@ -11,15 +11,12 @@ fork 自 https://github.com/fxliang/weasel_config
 ----
 
 词典文件：
-luna_pinyin_caoayu.yaml
+
+dicts目录下的所有文件
 
 luna_pinyin.dict.yaml(%appdata%目录下的默认方案词库)
 
-luna_pinyin.sougou.yaml
-
-luna_pinyin.emoji.dict.yaml
-
-luna_pinyin.comprehensive.dict.yaml.
+luna_pinyin.extended.dict.yaml 扩展总引用文件
 
 ----
 opencc 中是 emoji 文件.
