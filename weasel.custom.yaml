@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3_dev_0.8
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Mon Nov 28 17:54:13 2022"
+  modified_time: "Tue Nov 29 14:16:22 2022"
   rime_version: 1.7.3
 lost_temple:
   "preset_color_schemes/lost_temple/border_color": 0x00444444
@@ -154,15 +154,15 @@ win11:
   "style/comment_font_face": "NotFont, Segoe UI Emoji:80, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
   "style/comment_font_point": 12
   "style/font_face": "NotFont, Segoe UI Emoji:80, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
-  "style/font_point": 18
+  "style/font_point": 12
   "style/fullscreen": false
   "style/horizontal": true
   "style/inline_preedit": true
   "style/label_font_face": "NotFont, Segoe UI Emoji:80, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
-  "style/label_font_point": 16
+  "style/label_font_point": 12
   "style/layout/align_type": center
   "style/layout/border": 2
-  "style/layout/candidate_spacing": 14
+  "style/layout/candidate_spacing": 12
   "style/layout/corner_radius": 10
   "style/layout/hilite_padding": 5
   "style/layout/hilite_spacing": 10
@@ -173,5 +173,5 @@ win11:
   "style/layout/shadow_offset_x": 0
   "style/layout/shadow_offset_y": 0
   "style/layout/shadow_radius": 8
-  "style/layout/spacing": 16
+  "style/layout/spacing": 12
   "style/mark_text": "☘"

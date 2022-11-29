@@ -30,15 +30,20 @@ patch:
       "<": ["《", "〈", "«", "<"]
       ">": ["》", "〉", "»", ">"]
 
-  # 自定义词库
-  custom_phrase:
+  translators:
+      - punct_translator
+      - reverse_lookup_translator
+      - script_translator
+      - table_translator@custom_phrase #表示调用custom_phrase段编码
+      - table_translator
+  custom_phrase: 
     dictionary: ""
     user_dict: custom_phrase
     db_class: stabledb
     enable_completion: false
     enable_sentence: false
     initial_quality: 1
-  "engine/translators/@5": table_translator@custom_phrase
+
 
 __patch:
 # Rx: emoji:customize:schema {
