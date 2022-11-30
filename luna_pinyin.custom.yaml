@@ -19,9 +19,14 @@ patch:
     option_name: emoji_suggestion
     # tips: all
   reverse_lookup: {}
-# __patch:
+
+__patch:
 # Rx: emoji:customize:schema {
   # - patch/+:
   #     __include: emoji_suggestion:/patch
+# }
+# Rx: BlindingDark/rime-easy-en:customize:schema=luna_pinyin {
+  - patch/+:
+      __include: easy_en:/patch
 # }
 

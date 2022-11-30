@@ -50,13 +50,13 @@ import_tables:
   # - dicts/luna_pinyin.chat
   # - dicts/luna_pinyin.chengyusuyu
   # - dicts/luna_pinyin.classical
-  - dicts/luna_pinyin.cn_en
+  # - dicts/luna_pinyin.cn_en
   # - dicts/luna_pinyin.cnenhybird
   - dicts/luna_pinyin.comprehensive
   # - dicts/luna_pinyin.computer
   # - dicts/luna_pinyin.diet
   - dicts/luna_pinyin.emoji
-  - dicts/luna_pinyin.english
+  # - dicts/luna_pinyin.english
   - dicts/luna_pinyin.esymbol
   # - dicts/luna_pinyin.extra_hanzi
   # - dicts/luna_pinyin.food
