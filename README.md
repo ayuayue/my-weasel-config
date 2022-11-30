@@ -1,3 +1,7 @@
+## awesome-rime
+
+https://github.com/ayaka14732/awesome-rime
+
 
 ## my weasel config
 fork 自 https://github.com/fxliang/weasel_config
