@@ -42,9 +42,9 @@ use_preset_vocabulary: true
 #雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用。
 
 import_tables:
-  # - dicts/essay
+  - dicts/essay
   # - dicts/luna_pinyin.anime
-  # - dicts/luna_pinyin.basis
+  - dicts/luna_pinyin.basis
   - dicts/luna_pinyin.biaoqing
   # - dicts/luna_pinyin.cet46_plus
   # - dicts/luna_pinyin.chat
