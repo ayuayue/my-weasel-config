@@ -56,7 +56,7 @@ import_tables:
   - dicts/luna_pinyin.computer
   - dicts/luna_pinyin.diet
   - dicts/luna_pinyin.emoji
-  - dicts/luna_pinyin.english
+  # - dicts/luna_pinyin.english
   - dicts/luna_pinyin.esymbol
   # - dicts/luna_pinyin.extra_hanzi
   - dicts/luna_pinyin.food
