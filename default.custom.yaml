@@ -11,3 +11,8 @@ patch:
   "menu/page_size": 9
   schema_list:
     - {schema: luna_pinyin}
+  
+  switcher:
+    caption: 〔方案選單〕
+    hotkeys:
+      - F4
