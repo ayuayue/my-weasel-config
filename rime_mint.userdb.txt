@@ -1,0 +1,53 @@
+# Rime user dictionary
+#@/db_name	rime_mint
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	56
+#@/user_id	windows11-caoayu-pc-i512400
+bao qian 	抱歉	c=1 d=0.810584 t=56
+bu ke jian 	不可见	c=1 d=0.794534 t=56
+can shu 	参数	c=1 d=0.831104 t=56
+cun 	存	c=1 d=0.980199 t=56
+da bao 	打包	c=1 d=0.941765 t=56
+dan shi 	但是	c=1 d=0.843665 t=56
+dao zhi 	导致	c=1 d=0.83527 t=56
+de 	的	c=4 d=3.5472 t=56
+di san ge 	第三个	c=1 d=0.826959 t=56
+gu shi 	故事	c=1 d=0.88692 t=56
+hao xiang 	好像	c=1 d=0.918512 t=56
+huan cun 	缓存	c=2 d=1.9361 t=56
+hui 	会	c=1 d=0.782705 t=56
+huo qu 	获取	c=1 d=0.852144 t=56
+jia le 	加了	c=1 d=0.822835 t=56
+jin qu 	进去	c=2 d=1.95072 t=56
+kan dao guo 	看到过	c=1 d=0.909373 t=56
+luo xia yu gu wu qi fei 	落霞与孤鹜齐飞	c=1 d=0.995012 t=56
+mei you 	没有	c=1 d=0.955997 t=56
+mou ge 	某个	c=1 d=0.932394 t=56
+na 	那	c=1 d=0.869358 t=56
+na ge 	那个	c=0 d=0.0909373 t=56
+ne 	呢	c=1 d=0.878095 t=56
+ping tai 	平台	c=1 d=0.937067 t=56
+shi 	是	c=5 d=4.57557 t=56
+shi hou 	时候	c=1 d=0.860708 t=56
+ta 	他	c=0 d=0.0909373 t=56
+ta na ge 	他那个	c=1 d=0.913931 t=56
+ti shi 	提示	c=1 d=0.865022 t=56
+wang ye 	网页	c=1 d=0.895834 t=56
+wei shen me 	为什么	c=3 d=2.6966 t=56
+wen ti 	问题	c=1 d=0.767206 t=56
+wo 	我	c=1 d=0.818731 t=56
+wo xian zai 	我现在	c=1 d=0.847894 t=56
+xie ru 	写入	c=1 d=0.786628 t=56
+yi tuo 	依托	c=1 d=0.927743 t=56
+yi xie 	一些	c=1 d=0.790571 t=56
+yin wei 	因为	c=1 d=0.814647 t=56
+ying gai 	应该	c=1 d=0.882497 t=56
+zai 	在	c=1 d=0.802519 t=56
+zhe ge 	这个	c=1 d=0.873716 t=56
+zhe yang 	这样	c=1 d=0.778801 t=56
+zhi 	值	c=1 d=0.995012 t=56
+zhuan 	转	c=1 d=0.900325 t=56
+zi fu 	字符	c=1 d=0.798516 t=56
+zi ti 	字体	c=1 d=1 t=56
+zui qian mian 	最前面	c=1 d=0.806541 t=56

@@ -65,6 +65,9 @@ engine:
     - lua_translator@*mint_date_time_translator          # 时间、日期、星期、月份
     - lua_translator@*number_translator                  # 金额大小写
     - lua_translator@*chineseLunarCalendar_translator    # 农历
+    - lua_translator@v_single_char_first_filter  # v 模式 symbols 优先（否则是英文优先）
+    - lua_translator@date_translator             # 时间、日期、星期
+    - table_translator@custom_phrase             # 自定义短语 custom_phrase.txt
     - table_translator@melt_eng                          # 英文输入（作为子翻译器，优先级需要比原生的低）
     - table_translator@cn_en                             # 中英混合词汇
     - reverse_lookup_translator@radical_reverse_lookup
@@ -386,4 +389,21 @@ key_binder:
     
 menu:
   # 候选词个数
-  page_size: 6
+  page_size: 9
+
+# 日期、时间、星期、ISO 8601、时间戳的触发关键字
+date_translator: 
+  date: rq       # 日期： 2022-11-29
+  time: sj       # 时间： 18:13
+  week: xq       # 星期： 星期二
+  datetime: dt   # ISO 8601： 2022-11-29T18:13:11+08:00
+  timestamp: ts  # 时间戳： 1669716794
+
+# 自定义短语：custom_phrase.txt
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false # 补全提示
+  enable_sentence: false   # 禁止造句
+  initial_quality: 99      # custom_phrase 的权重应该比 pinyin 和 melt_eng 大
