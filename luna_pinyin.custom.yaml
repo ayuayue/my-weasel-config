@@ -20,9 +20,9 @@ patch:
 
       
 __patch:
-# Rx: emoji:customize:schema {
-  # - patch/+:
-  #     __include: emoji_suggestion:/patch
+# Rx: emoji:customize:schema {〔方案選單〕
+  - patch/+:
+      __include: emoji_suggestion:/patch
 # }
 # Rx: BlindingDark/rime-easy-en:customize:schema=luna_pinyin {
   - patch/+:

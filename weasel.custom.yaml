@@ -11,9 +11,9 @@ patch:
   "style/color_scheme": google
   "style/horizontal": true
   
-  "style/font_face":          "LXGW Wenkai Mono:7c:7c"
-  "style/label_font_face":    "LXGW Wenkai Mono"
-  "style/comment_font_face":  "LXGW Wenkai Mono"
+  style/font_face:          "LXGW Wenkai Mono:7c:7c:heavy"
+  style/label_font_face:    "LXGW Wenkai Mono"
+  style/comment_font_face:  "LXGW Wenkai Mono"
 win10:
   "preset_color_schemes/win10black":
     back_color: 0x000000
