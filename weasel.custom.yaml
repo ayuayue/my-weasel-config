@@ -1,45 +1,19 @@
 customization:
   distribution_code_name: Weasel
-  distribution_version: 0.14.3_dev_0.8
+  distribution_version: 0.16.1
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Wed Nov 30 15:51:16 2022"
-  rime_version: 1.7.3
-lost_temple:
-  "preset_color_schemes/lost_temple/border_color": 0x00444444
-  "preset_color_schemes/lost_temple/candidate_back_color": 0x00444444
-  "preset_color_schemes/lost_temple/candidate_shadow_color": 0x00000000
-  "preset_color_schemes/lost_temple/hilited_candidate_back_color": 0x82e6ca
-  "preset_color_schemes/lost_temple/hilited_candidate_shadow_color": 0xa0000000
-  "preset_color_schemes/lost_temple/hilited_shadow_color": 0x00000000
-  "preset_color_schemes/lost_temple/shadow_color": 0x00000000
-  "style/color_scheme": lost_temple
-  "style/comment_font_face": "NotFont, Segoe UI Emoji:80, 汉仪仿宋(GB18030版), LXGW Wenkai Narrow, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
-  "style/comment_font_point": 20
-  "style/font_face": "NotFont, Segoe UI Emoji:80, 汉仪仿宋(GB18030版), LXGW Wenkai Narrow, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
-  "style/font_point": 20
-  "style/fullscreen": false
-  "style/horizontal": true
-  "style/inline_preedit": true
-  "style/label_font_face": "NotFont, Segoe UI Emoji:80, 汉仪仿宋(GB18030版), LXGW Wenkai Narrow, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
-  "style/label_font_point": 20
-  "style/layout/align_type": center
-  "style/layout/border": 2
-  "style/layout/candidate_spacing": 10
-  "style/layout/corner_radius": 10
-  "style/layout/hilite_padding": 4
-  "style/layout/hilite_spacing": 10
-  "style/layout/hilited_corner_radius": 5
-  "style/layout/margin_x": 25
-  "style/layout/margin_y": 25
-  "style/layout/shadow_offset_x": 10
-  "style/layout/shadow_offset_y": 10
-  "style/layout/shadow_radius": 8
-  "style/layout/spacing": 20
+  modified_time: "Thu Sep 19 00:02:36 2024"
+  rime_version: 1.11.2
 patch:
   __include: win11
-  "style/blur_window": true
+  "style/blur_window": false
   "style/color_font": true
   "style/color_scheme": google
+  "style/horizontal": true
+  
+  "style/font_face":          "LXGW Wenkai Mono:7c:7c"
+  "style/label_font_face":    "LXGW Wenkai Mono"
+  "style/comment_font_face":  "LXGW Wenkai Mono"
 win10:
   "preset_color_schemes/win10black":
     back_color: 0x000000
@@ -97,7 +71,7 @@ win10:
   "style/font_face": "NotFont, Segoe UI Emoji:80, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
   "style/font_point": 20
   "style/fullscreen": false
-  "style/horizontal": true
+  "style/horizontal": false
   "style/inline_preedit": true
   "style/label_font_face": "NotFont, Segoe UI Emoji:80, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
   "style/label_font_point": 20
@@ -157,13 +131,13 @@ win11:
   "style/font_point": 12
   "style/fullscreen": false
   "style/horizontal": true
-  "style/inline_preedit": true
+  "style/inline_preedit": false
   "style/label_font_face": "NotFont, Segoe UI Emoji:80, Microsoft Yahei, 全宋体-1, 全宋体-2, 全宋体-3, 全宋体-F, 全宋体-X, 全宋体(调和), 全宋体(等宽)"
   "style/label_font_point": 12
   "style/layout/align_type": center
   "style/layout/border": 2
   "style/layout/candidate_spacing": 12
-  "style/layout/corner_radius": 10
+  "style/layout/corner_radius": 6
   "style/layout/hilite_padding": 5
   "style/layout/hilite_spacing": 10
   "style/layout/margin_x": 15

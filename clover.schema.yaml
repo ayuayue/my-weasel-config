@@ -1,0 +1,334 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: clover
+  name: 🍀️四叶草简体拼音
+  version: "1.0.0"
+  author:
+    - fkxxyz - https://www.fkxxyz.com
+  description: |
+    由🍀️四叶草亲自定制，特点：
+      1. 结合搜狗输入法的输入习惯
+      2. 默认开启 emoji 表情支持
+      3. 加上很多特殊符号的输入支持
+      4. 繁简切换支持
+      5. 许多智能纠错
+  dependencies:
+    # - emoji
+
+switches:
+  - name: zh_simp_s2t
+    reset: 0
+    states: [ 简, 繁 ]
+  # - name: emoji_suggestion
+  #   reset: 1
+  #   states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
+  # - name: symbol_support
+    # reset: 0
+    # states: [ "无符", "符" ]
+  - name: ascii_punct
+    reset: 0
+    states: [ 。，, ．， ]
+  - name: full_shape
+    reset: 0
+    states: [ 半, 全 ]
+  - name: ascii_mode
+    reset: 0
+    states: [ 中, 英 ]
+
+engine:
+  processors:
+    - lua_processor@select_character         
+    - lua_processor@code_length_limit_processor
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - lua_translator@date_translator 
+  filters:
+    # - simplifier@emoji_suggestion
+    # - simplifier@symbol_support
+    - simplifier
+    - uniquifier
+
+simplifier:
+  option_name: zh_simp_s2t
+  opencc_config: s2t.json
+
+# emoji_suggestion:
+#   opencc_config: emoji.json
+#   option_name: emoji_suggestion
+#   tips: all
+
+# symbol_support:
+#   opencc_config: symbol.json
+#   option_name: symbol_support
+#   tips: all
+
+# 限制码长，默认 100。（最多能输入的字符个数）
+code_length_limit_processor: 20
+
+# 日期、时间、星期、ISO 8601、时间戳的触发关键字
+date_translator:
+  date: rq       # 日期： 2022-11-29
+  time: sj       # 时间： 18:13
+  week: xq       # 星期： 星期二
+  datetime: dt   # ISO 8601： 2022-11-29T18:13:11+08:00
+  timestamp: ts  # 时间戳： 1669716794
+
+long_word_filter:
+  count: 2
+  idx: 4
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    # 基础
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcs]h).+$/$1/
+    
+    # 补全
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/   # o = ou; o = ong
+    - derive/ong$/on/      # on = ong
+    - derive/^ding$/din/     # din = ding
+    
+    # 处理 v 和 u
+    - derive/^([nl])ue$/$1ve/   # nve = nue; lve = lue
+    - derive/^([jqxy])u/$1v/    # v = u; v = u
+    
+    # 智能纠错
+    - derive/ao$/oa/       # oa = ao
+    - derive/([iu])a(o|ng?)$/a$1$2/   # aio = iao; aing = iang; aung = uang
+    - derive/([aeiou])ng$/$1gn/   # gn = ng
+    - derive/un$/uen/    # uen = un
+    - derive/ui$/uei/    # uei = ui
+    - derive/iu$/iou/    # iou = ui
+    - derive/tie$/tei/    # tei = tie
+    - derive/i$/ii/      # ii = i  # i 不小心按两下
+    - derive/u$/uu/      # ui = u  # u 不小心按两下
+    ### 超级简拼
+    - erase/^hm$/ # 响应超级简拼，取消「噷 hm」的独占
+    - erase/^m$/  # 响应超级简拼，取消「呣 m」的独占
+    - erase/^n$/  # 响应超级简拼，取消「嗯 n」的独占
+    - erase/^ng$/ # 响应超级简拼，取消「嗯 ng」的独占
+    - abbrev/^([a-z]).+$/$1/   # 超级简拼
+    - abbrev/^([zcs]h).+$/$1/  # 超级简拼中，zh ch sh 视为整体（ch'sh → 城市），而不是像这样分开（c'h's'h → 吃好睡好）。
+
+    ### v u 转换，增加对词库中「nue/nve」「qu/qv」等不同注音的支持
+    - derive/^([nl])ue$/$1ve/
+    - derive/^([nl])ve$/$1ue/
+    - derive/^([jqxy])u/$1v/
+    - derive/^([jqxy])v/$1u/
+
+    ### 自动纠错
+    # 有些规则对全拼简拼混输有副作用：如「x'ai 喜爱」被纠错为「xia 下」
+    # zh、ch、sh
+    - derive/([zcs])h(a|e|i|u|ai|ei|an|en|ou|uo|ua|un|ui|uan|uai|uang|ang|eng|ong)$/h$1$2/  # hzi → zhi
+    - derive/([zcs])h([aeiu])$/$1$2h/  # zih → zhi
+    # ai
+    - derive/^([wghkzc])ai$/$1ia/  # wia → wai
+    # ia
+    - derive/([qjx])ia$/$1ai/  # qai → qia
+    # ei
+    - derive/([wtfghkz])ei$/$1ie/
+    # ie
+    - derive/([jqx])ie$/$1ei/
+    # ao
+    - derive/([rtypsdghklzcbnm])ao$/$1oa/
+    # ou
+    - derive/([ypfm])ou$/$1uo/
+    # uo（无）
+    # an
+    - derive/([wrtypsdfghklzcbnm])an$/$1na/
+    # en
+    - derive/([wrpsdfghklzcbnm])en$/$1ne/
+    # ang
+    - derive/([wrtypsdfghklzcbnm])ang$/$1nag/
+    - derive/([wrtypsdfghklzcbnm])ang$/$1agn/
+    # eng
+    - derive/([wrtpsdfghklzcbnm])eng$/$1neg/
+    - derive/([wrtpsdfghklzcbnm])eng$/$1egn/
+    # ing
+    - derive/([qtypdjlxbnm])ing$/$1nig/
+    - derive/([qtypdjlxbnm])ing$/$1ign/
+    # ong
+    - derive/([rtysdghklzcn])ong$/$1nog/
+    - derive/([rtysdghklzcn])ong$/$1ogn/
+    # iao
+    - derive/([qtpdjlxbnm])iao$/$1ioa/
+    - derive/([qtpdjlxbnm])iao$/$1oia/
+    # ui
+    - derive/([rtsghkzc])ui$/$1iu/
+    # iu
+    - derive/([qjlxnm])iu$/$1ui/
+    # ian
+    - derive/([qtpdjlxbnm])ian$/$1ain/
+    # - derive/([qtpdjlxbnm])ian$/$1ina/ # 和「李娜、蒂娜、缉拿」等常用词有冲突
+    # in
+    - derive/([qypjlxbnm])in$/$1ni/
+    # iang
+    - derive/([qjlxn])iang$/$1aing/
+    - derive/([qjlxn])iang$/$1inag/
+    # ua
+    - derive/([g|k|h|zh|sh])ua$/$1au/
+    # uai
+    - derive/([g|h|k|zh|ch|sh])uai$/$1aui/
+    - derive/([g|h|k|zh|ch|sh])uai$/$1uia/
+    # uan
+    - derive/([qrtysdghjklzxcn])uan$/$1aun/
+    # - derive/([qrtysdghjklzxcn])uan$/$1una/ # 和「去哪、露娜」等常用词有冲突
+    # un
+    - derive/([qrtysdghjklzxc])un$/$1nu/
+    # ue
+    - derive/([nlyjqx])ue$/$1eu/
+    # uang
+    - derive/([g|h|k|zh|ch|sh])uang$/$1aung/
+    - derive/([g|h|k|zh|ch|sh])uang$/$1uagn/
+    - derive/([g|h|k|zh|ch|sh])uang$/$1unag/
+    - derive/([g|h|k|zh|ch|sh])uang$/$1augn/
+    # iong
+    - derive/([jqx])iong$/$1inog/
+    - derive/([jqx])iong$/$1oing/
+    - derive/([jqx])iong$/$1iogn/
+    - derive/([jqx])iong$/$1oign/
+    # 其他
+    - derive/([rtsdghkzc])o(u|ng)$/$1o/ # do → dou|dong
+    - derive/ong$/on/ # lon → long
+    - derive/([tl])eng$/$1en/ # ten → teng
+    - derive/([qwrtypsdfghjklzxcbnm])([aeio])ng$/$1ng/ # lng → lang、leng、ling、long
+
+translator:
+  dictionary: clover
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+key_binder:
+  import_preset: default
+  bindings:
+    __patch:
+      - key_bindings:/emacs_editing  # emacs 习惯
+      - key_bindings:/move_by_word_with_tab  # tab 在单词间切换
+      - key_bindings:/paging_with_minus_equal  # 减号等号翻页
+      - key_bindings:/paging_with_comma_period   # 逗号句号翻页
+      - key_bindings:/paging_with_brackets   # 中括号翻页
+      - clover.key_bindings:/numbered_mode_switch   # Ctrl+Shift+数字 切换开关
+      - clover.key_bindings:/windows_compatible_mode_switch   # Windows 兼容
+      - clover.key_bindings:/kp_enter_is_return   # 小键盘回车设为普通回车
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+ascii_composer:
+  import_preset: default
+  good_old_caps_lock: true
+  switch_key:
+    Shift_L: commit_code   # 左 Shift 切换直接上屏字母
+    Shift_R: commit_code   # 右 Shift 切换直接上屏字母
+    Control_L: noop
+    Control_R: noop
+    Caps_Lock: noop
+    Eisu_toggle: clear
+
+  punctuator:
+    import_preset: symbols
+    full_shape:
+      ' ' : { commit: '　' }
+      ',' : { commit: ， }
+      '.' : { commit: 。 }
+      '<' : [ 《, 〈, «, ‹ ]
+      '>' : [ 》, 〉, », › ]
+      '/' : [ ／, ÷ ]
+      '?' : { commit: ？ }
+      ';' : { commit: ； }
+      ':' : { commit: ： }
+      '''' : { pair: [ '‘', '’' ] }
+      '"' : { pair: [ '“', '”' ] }
+      '\' : [ 、, ＼ ]
+      '|' : [ ·, ｜, '§', '¦' ]
+      '`' : ｀
+      '~' : ～
+      '!' : { commit: ！ }
+      '@' : [ ＠, ☯ ]
+      '#' : [ ＃, ⌘ ]
+      '%' : [ ％, '°', '℃' ]
+      '$' : [ ￥, '$', '€', '£', '¥', '¢', '¤' ]
+      '^' : { commit: …… }
+      '&' : ＆
+      '*' : [ ＊, ·, ・, ×, ※, ❂ ]
+      '(' : （
+      ')' : ）
+      '-' : －
+      '_' : ——
+      '+' : ＋
+      '=' : ＝
+      '[' : [ 「, 【, 〔, ［ ]
+      ']' : [ 」, 】, 〕, ］ ]
+      '{' : [ 『, 〖, ｛ ]
+      '}' : [ 』, 〗, ｝ ]
+    half_shape:
+      ',' : '，'
+      '.' : '。'
+      '<' : '《'
+      '>' : '》'
+      '/' : '/'
+      '?' : '？'
+      ';' : '；'
+      ':' : '：'
+      '''' : { pair: [ '‘', '’' ] }
+      '"' : { pair: [ '“', '”' ] }
+      '\' : '、'
+      '|' : '|'
+      '`' : '`'
+      '~' : '~'
+      '!' : '！'
+      '@' : '@'
+      '#' : '#'
+      '%' : '%'
+      '$' : '¥'
+      '^' : '……'
+      '&' : '&'
+      '*' : '*'
+      '(' : '（'
+      ')' : '）'
+      '-' : '-'
+      '_' : ——
+      '+' : '+'
+      '=' : '='
+      '[' : '【'
+      ']' : '】'
+      '{' : '「'
+      '}' : '」'
+      '/' : [ ／, ÷ ]
+    
+recognizer:
+  import_preset: default
+  patterns:
+    punct: '^/(([a-z]+)|\?|(uc[0-9a-fA-F]{0,6}([^0-9a-fA-F]+[0-9a-fA-F]{0,6})*|\d{0,8}([hq]\d+)?[^0-9]?|\d{0,8}(g|n|nr)|1?\d|dx\d+(\.\d{0,2})?|\d{1,6}[hq]|[1-7][sxz]))$'
+    reverse_lookup: "`[a-z]*'?$"
+
+punctuator:
+  import_preset: symbols
