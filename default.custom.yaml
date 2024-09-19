@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.16.1
   generator: "Rime::SwitcherSettings"
-  modified_time: "Thu Sep 19 10:59:34 2024"
+  modified_time: "Thu Sep 19 11:05:50 2024"
   rime_version: 1.11.2
 patch:
   ascii_composer:
@@ -11,7 +11,6 @@ patch:
   "menu/page_size": 9
   schema_list:
     - {schema: rime_mint}
-    - {schema: clover}
     - {schema: rime_ice}
   switcher:
     caption: "〔方案選單〕"

@@ -11,7 +11,7 @@ patch:
   "style/color_scheme": google
   "style/horizontal": true
   
-  style/font_face:          "LXGW Wenkai Mono:7c:7c:heavy"
+  style/font_face:          "LXGW Wenkai Mono"
   style/label_font_face:    "LXGW Wenkai Mono"
   style/comment_font_face:  "LXGW Wenkai Mono"
 win10:
