@@ -62,3 +62,6 @@ gone	gone
 Go程	gocheng
 code	code
 SOHO	soho
+1401262639@qq.com	vqq
+caoayu80@gmail.com	vgmail
+18737001259	vphone
