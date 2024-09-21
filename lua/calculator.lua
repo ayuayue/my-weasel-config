@@ -233,7 +233,9 @@ function M.func(input, seg, env)
   --   return
   -- end
   local code = replaceToFactorial(express)
-
+  print("express: " .. express)
+  print("code: " .. code)
+  print(calcPlugin)
   local success, result = pcall(load("return " .. code, "calculate", "t", calcPlugin))
   if success then
     yield(Candidate(input, seg.start, seg._end, result, ""))
