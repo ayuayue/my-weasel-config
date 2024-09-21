@@ -12,11 +12,11 @@ function M.func(input, env)
 
     for cand in input:iter() do
         idx = idx + 1
-        selfFlag = cand.comment:find("∞")
+        selfFlag = string.find(cand.comment, '∞')
         if selfFlag then
             idxSelf = idxSelf + 1
         end
-        local s, e = string.find(cand.txt, "^[a-z]+$")
+        local s, e = string.find(cand.text, "^[a-z]+$")
         if s then
             yield(cand)
             if idx == 1 then
