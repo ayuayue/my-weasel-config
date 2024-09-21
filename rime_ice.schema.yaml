@@ -82,8 +82,8 @@ engine:
     - lua_filter@search@radical_pinyin              # 部件拆字辅码
     - uniquifier                                    # 去重
     - lua_filter@is_in_user_dict  
-    - lua_filter@en_spacer
-    - lua_filter@cn_en_spacer  
+    # - lua_filter@en_spacer
+    # - lua_filter@cn_en_spacer  
 
 is_in_user_dict: true
 

@@ -2,10 +2,10 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.16.1
   generator: "Rime::SwitcherSettings"
-  modified_time: "Thu Sep 19 13:55:41 2024"
+  modified_time: "Sat Sep 21 15:58:45 2024"
   rime_version: 1.11.2
 patch:
-  schema_list:
-    - {schema: rime_ice}
-  "switcher/abbreviate_options": false
   "menu/page_size": 9
+  schema_list:
+    - {schema: rime_frost}
+  "switcher/abbreviate_options": false

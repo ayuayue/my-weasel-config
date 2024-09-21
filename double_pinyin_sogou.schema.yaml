@@ -1,7 +1,7 @@
 # Rime schema
 # encoding: utf-8
 
-# 复制自 rime_ice.schema.yaml ，适配了双拼。
+# 复制自 rime_frost.schema.yaml ，适配了双拼。
 # 双拼键位映射复制自 https://github.com/rime/rime-double-pinyin
 # 双拼之间主要就是 speller/algebra 和 translator/preedit_format 这里有区别。
 #
@@ -71,24 +71,26 @@ engine:
   translators:
     - punct_translator
     - script_translator
-    - lua_translator@date_translator    # 时间、日期、星期
-    - lua_translator@lunar              # 农历
+    - lua_translator@*date_translator    # 时间、日期、星期
+    - lua_translator@*lunar              # 农历
     - table_translator@custom_phrase    # 自定义短语 custom_phrase_double.txt
     - table_translator@cn_en            # 中英混合词汇
     - table_translator@melt_eng         # 英文输入
     - table_translator@radical_lookup   # 部件拆字反查
-    - lua_translator@unicode            # Unicode
-    - lua_translator@number_translator  # 数字、金额大写
-    - lua_translator@force_gc           # 暴力 GC
+    - lua_translator@*unicode            # Unicode
+    - lua_translator@*number_translator  # 数字、金额大写
+    - lua_translator@*force_gc           # 暴力 GC
+    - lua_translator@*calculator    # 计算器
   filters:
-    - lua_filter@corrector                          # 错音错字提示
+    - lua_filter@*is_in_user_dict # 用户词典的词加上一个*
+    - lua_filter@*corrector                          # 错音错字提示
     - reverse_lookup_filter@radical_reverse_lookup  # 部件拆字滤镜
-    - lua_filter@autocap_filter                     # 英文自动大写
-    - lua_filter@pin_cand_filter                    # 置顶候选项（顺序要求：置顶候选项 > Emoji > 简繁切换）
-    - lua_filter@reduce_english_filter              # 降低部分英语单词在候选项的位置
+    - lua_filter@*autocap_filter                     # 英文自动大写
+    - lua_filter@*pin_cand_filter                    # 置顶候选项（顺序要求：置顶候选项 > Emoji > 简繁切换）
+    - lua_filter@*reduce_english_filter              # 降低部分英语单词在候选项的位置
     - simplifier@emoji                              # Emoji
     - simplifier@traditionalize                     # 简繁切换
-    - lua_filter@search@radical_pinyin              # 部件拆字辅码
+    - lua_filter@*aux_code                 # 墨奇辅助码
     - uniquifier                                    # 去重
 
 
@@ -156,8 +158,7 @@ pin_cand_filter:
 
 # 主翻译器，拼音
 translator:
-  dictionary: rime_ice          # 挂载词库 rime_ice.dict.yaml
-  enable_word_completion: true  # 大于 4 音节的词条自动补全，librime > 1.11.2
+  dictionary: rime_frost          # 挂载词库 rime_frost.dict.yaml
   prism: double_pinyin_sogou    # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
   spelling_hints: 8             # corrector.lua ：为了让错音错字提示的 Lua 同时适配全拼双拼，将拼音显示在 comment 中
   always_show_comments: true    # corrector.lua ：Rime 默认在 preedit 等于 comment 时取消显示 comment，这里强制一直显示，供 corrector.lua 做判断用。
@@ -256,14 +257,14 @@ traditionalize:
 # punctuator 下面有三个子项：
 #   full_shape 全角标点映射
 #   half_shape 半角标点映射
-#   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符，自定义的 symbols_caps_v.yaml 修改成了 'V' 开头。
+#   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符。
 punctuator:
   full_shape:
     __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
   half_shape:
     __include: default:/punctuator/half_shape  # 从 default.yaml 导入配置
   symbols:
-    __include: symbols_caps_v:/symbols         # 从 symbols_caps_v.yaml 导入配置
+    __include: symbols_v:/symbols         # 从 symbols_v.yaml 导入配置
 
 
 # 部件拆字反查
@@ -280,7 +281,7 @@ radical_reverse_lookup:
   tags: [ radical_lookup ]
   # dictionary 为拼音标注来源。目前是显示本方案词库的注音，可去部件拆字方案下载更全的、带声调的、已编译好的词典
   # https://github.com/mirtlecn/rime-radical-pinyin?tab=readme-ov-file#%E5%8F%8D%E6%9F%A5%E5%B8%A6%E5%A3%B0%E8%B0%83%E6%B3%A8%E9%9F%B3
-  dictionary: rime_ice
+  dictionary: rime_frost
   # comment_format:     # 自定义 comment，例如在左右加上括号
   #  - xform/^/(/
   #  - xform/$/)/
@@ -291,12 +292,12 @@ radical_reverse_lookup:
 recognizer:
   import_preset: default  # 从 default.yaml 继承通用的
   patterns:  # 再增加方案专有的：
-    punct: "^V([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_caps_v.yaml 的 symbols
+    punct: "^/([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_v.yaml 的 symbols
     radical_lookup: "^uU[a-z;]+$"       # 响应部件拆字的反查，与 radical_lookup/prefix 匹配
-    unicode: "^U[a-f0-9]+"              # 脚本将自动获取第 2 个字符 U 作为触发前缀，响应 lua_translator@unicode，输出 Unicode 字符
-    number: "^R[0-9]+[.]?[0-9]*"        # 脚本将自动获取第 2 个字符 R 作为触发前缀，响应 lua_translator@number_translator，数字金额大写
-    gregorian_to_lunar: "^N[0-9]{1,8}"  # 脚本将自动获取第 2 个字符 N 作为触发前缀，响应 lua_translator@lunar，公历转农历，输入 N20240115 得到「二〇二三年腊月初五」
-
+    unicode: "^U[a-f0-9]+"              # 脚本将自动获取第 2 个字符 U 作为触发前缀，响应 lua_translator@*unicode，输出 Unicode 字符
+    number: "^R[0-9]+[.]?[0-9]*"        # 脚本将自动获取第 2 个字符 R 作为触发前缀，响应 lua_translator@*number_translator，数字金额大写
+    gregorian_to_lunar: "^N[0-9]{1,8}"  # 脚本将自动获取第 2 个字符 N 作为触发前缀，响应 lua_translator@*lunar，公历转农历，输入 N20240115 得到「二〇二三年腊月初五」
+    calculator: "^V.*$"                 #计算器功能引导
 
 # 从 default 继承快捷键
 key_binder:
@@ -308,7 +309,7 @@ key_binder:
 # 拼写设定
 speller:
   # 如果不想让什么标点直接上屏，可以加在 alphabet，或者编辑标点符号为两个及以上的映射
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;`
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;`/
   # initials 定义仅作为始码的按键，排除 ` ; 让单个的 ` ; 可以直接上屏
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " '"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
