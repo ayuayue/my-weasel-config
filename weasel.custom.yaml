@@ -9,4 +9,11 @@ patch:
   "show_notifications_time": 300  
   "style/color_scheme": google
   "style/font_face": "LXGW Wenkai Mono"
-  "style/font_point": 18
+  "style/font_point": 16
+  "style/horizontal": false
+  "style/vertical_auto_reverse": true
+  "style/vertical_text_left_to_right": true
+  "style/vertical_text_with_wrap": true
+  "style/display_tray_icon": true
+  "style/hover_type": "hilite"
+  "style/candidate_abbreviate_length": 40

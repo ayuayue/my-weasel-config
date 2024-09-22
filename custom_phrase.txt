@@ -62,3 +62,6 @@ gone	gone
 Go程	gocheng
 code	code
 SOHO	soho
+caoayu	caoayu
+Caoayu	caoayu
+

@@ -73,6 +73,7 @@ engine:
     - lua_translator@*calculator    # 计算器
     - lua_translator@*caoayu/email    
     - lua_translator@*caoayu/help     
+    - lua_translator@*caoayu/guid     
   filters:
     - lua_filter@*is_in_user_dict # 用户词典的词加上一个*
     - lua_filter@*corrector                          # 错音错字提示

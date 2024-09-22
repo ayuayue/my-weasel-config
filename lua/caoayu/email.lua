@@ -1,4 +1,4 @@
--- 展示快捷邮箱后缀
+-- 展示快捷邮箱后缀 translator
 
 local M = {}
 local cand = {}
