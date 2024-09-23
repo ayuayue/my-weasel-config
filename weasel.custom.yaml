@@ -14,6 +14,4 @@ patch:
   "style/vertical_auto_reverse": true
   "style/vertical_text_left_to_right": true
   "style/vertical_text_with_wrap": true
-  "style/display_tray_icon": true
-  "style/hover_type": "hilite"
   "style/candidate_abbreviate_length": 40
