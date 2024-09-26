@@ -8,5 +8,6 @@ patch:
   "menu/page_size": 9
   schema_list:
     - {schema: rime_frost}
+      
   "switcher/fold_options": false
   "switcher/abbreviate_options": false

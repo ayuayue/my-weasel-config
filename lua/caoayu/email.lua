@@ -15,7 +15,7 @@ end
 function M.func(input, seg, env)
     if input == "/email" then
         for index, value in pairs(cand) do
-            yield(Candidate('email', seg.start, seg._end, value, index))
+            yield(Candidate('email', seg.start, seg._end, value, index.."💡"))
         end
     end
 end

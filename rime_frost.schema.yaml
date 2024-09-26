@@ -37,7 +37,9 @@ switches:
   - name: search_single_char  # search.lua 的功能开关，辅码查词时是否单字优先
     abbrev: [词, 单]
     states: [正常, 单字]
-
+  - name: encnDic					# 中英字典开关
+    reset: 1
+    states: [On, 中英对照]
 
 # 输入引擎
 engine:
@@ -89,6 +91,7 @@ engine:
     - uniquifier                                    # 去重
     - lua_filter@cn_en_spacer                                    
     - lua_filter@*caoayu/en_upper_first                                    
+    - lua_filter@*caoayu/dic_4w_Filter                                    
 
 
 # Lua 配置: 日期、时间、星期、ISO 8601、时间戳的触发关键字
