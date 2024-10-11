@@ -77,7 +77,7 @@ engine:
     - lua_translator@*caoayu/help     
     - lua_translator@*caoayu/guid     
   filters:
-    - lua_filter@*is_in_user_dict # 用户词典的词加上一个*
+    # - lua_filter@*is_in_user_dict # 用户词典的词加上一个*
     - lua_filter@*corrector                          # 错音错字提示
     - reverse_lookup_filter@radical_reverse_lookup  # 部件拆字滤镜
     - lua_filter@*autocap_filter                     # 英文自动大写
@@ -89,7 +89,7 @@ engine:
     - simplifier@traditionalize                     # 简繁切换
     - lua_filter@*aux_code                 # 墨奇辅助码
     - uniquifier                                    # 去重
-    - lua_filter@cn_en_spacer                                    
+    # - lua_filter@cn_en_spacer                                    
     - lua_filter@*caoayu/en_upper_first                                    
     - lua_filter@*caoayu/dic_4w_Filter                                    
 
