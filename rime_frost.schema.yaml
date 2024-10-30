@@ -73,7 +73,7 @@ engine:
     - lua_translator@*number_translator  # 数字、金额大写
     - lua_translator@*cold_word_drop/force_gc           # 暴力 GC        
     - lua_translator@*calculator    # 计算器
-    - lua_translator@*caoayu/email    
+    # - lua_translator@*caoayu/email    
     - lua_translator@*caoayu/help     
     - lua_translator@*caoayu/guid     
   filters:
@@ -90,8 +90,8 @@ engine:
     - lua_filter@*aux_code                 # 墨奇辅助码
     - uniquifier                                    # 去重
     # - lua_filter@cn_en_spacer                                    
-    - lua_filter@*caoayu/en_upper_first                                    
-    - lua_filter@*caoayu/dic_4w_Filter                                    
+    # - lua_filter@*caoayu/en_upper_first                                    
+    # - lua_filter@*caoayu/dic_4w_Filter                                    
 
 
 # Lua 配置: 日期、时间、星期、ISO 8601、时间戳的触发关键字
