@@ -1,17 +1,9 @@
 customization:
   distribution_code_name: Weasel
-  distribution_version: 0.16.1
+  distribution_version: 0.17.4
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Thu Sep 19 09:52:18 2024"
-  rime_version: 1.11.2
-
+  modified_time: "Mon Aug 11 00:44:10 2025"
+  rime_version: 1.13.1
 patch:
-  "show_notifications_time": 300  
-  "style/color_scheme": google
-  "style/font_face": "LXGW Wenkai Mono"
-  "style/font_point": 16
-  "style/horizontal": false
-  "style/vertical_auto_reverse": true
-  "style/vertical_text_left_to_right": true
-  "style/vertical_text_with_wrap": true
-  "style/candidate_abbreviate_length": 40
+  __include: "hot_keys:/patch"
+  "style/color_scheme": wechat

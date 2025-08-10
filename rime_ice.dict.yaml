@@ -6,37 +6,14 @@ name: rime_ice
 version: "2023-11-13"
 import_tables:
   - cn_dicts/8105     # 字表
-  - cn_dicts/41448  # 大字表（按需启用）
+  # - cn_dicts/41448  # 大字表（按需启用）
   - cn_dicts/base     # 基础词库
   - cn_dicts/ext      # 扩展词库
   - cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
   - cn_dicts/others   # 一些杂项
 
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
-  - my_dicts/anime
-  - my_dicts/basis
-  - my_dicts/biaoqing
-  - my_dicts/chat
-  - my_dicts/classical
-  - my_dicts/cn_en
-  - my_dicts/computer
-  - my_dicts/daily
-  - my_dicts/diet
-  - my_dicts/game
-  - my_dicts/gd
-  - my_dicts/hanyu
-  - my_dicts/history
-  - my_dicts/idiom
-  - my_dicts/moba
-  - my_dicts/movie
-  - my_dicts/music
-  - my_dicts/name
-  - my_dicts/net
-  - my_dicts/poetry
-  - my_dicts/practical
-  - my_dicts/sougou
-  - my_dicts/website
-
+  # - cn_dicts/mydict
 ...
 
 # 按需启用：
@@ -84,9 +61,30 @@ Z	Z
 7	qi
 8	ba
 9	jiu
-
-# 示例：输入 sanDdayin 得到 3D打印
+# 示例：输入 siSdian 得到 4S店
+3G
+4G
+5G
+3G网络
+4G网络
+5G网络
+3G流量
+4G流量
+5G流量
+2D
+3D
+4D
 3D打印
+2D电影
+3D电影
+4S店
+AE86
+M1
+M2
+M3
+M4
+M4A1
+
 
 # 加入词典，响应 opencc/others.txt 的 emoji 集合
 V动物
