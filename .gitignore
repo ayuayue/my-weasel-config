@@ -4,3 +4,7 @@
 build
 .vscode
 .idea
+default.custom.yaml
+user.yaml
+weasel.custom.yaml
+lua/input_stats.lua

@@ -1,8 +1,0 @@
-customization:
-  distribution_code_name: Weasel
-  distribution_version: 0.17.4
-  generator: "Weasel::UIStyleSettings"
-  modified_time: "Mon Aug 11 01:06:42 2025"
-  rime_version: 1.13.1
-patch:
-  "style/color_scheme": wechat
