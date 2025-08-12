@@ -22,7 +22,7 @@ schema:
     - wanxiang_mixedcode    #中英文混合词汇
     - wanxiang_reverse      # 部件拆字，反查及辅码
 menu:
-  page_size: 9
+  page_size: 6
 # 开关
 # reset: 默认状态。注释掉后，切换窗口时不会重置到默认状态。
 # states: 方案选单显示的名称。可以注释掉，仍可以通过快捷键切换。
@@ -366,8 +366,8 @@ key_binder:
 #① 翻页 , .
     # - { when: paging, accept: comma, send: Page_Up }
     # - { when: has_menu, accept: period, send: Page_Down }
-    - { when: has_menu, accept: period, send: Page_Down } # 句号向下翻页
-    - { when: has_menu, accept: comma, send: Page_Up } # 逗号向上翻页
+    - { when: paging, accept: comma, send: Page_Up }
+    - { when: has_menu, accept: period, send: Page_Down }
 #② 翻页 [ ]
     # - { when: paging, accept: bracketleft, send: Page_Up }
     # - { when: has_menu, accept: bracketright, send: Page_Down }
